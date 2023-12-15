@@ -1,0 +1,1426 @@
+﻿Key,Dialogue,Context
+[CALL]ArrestingCivilianComplete_0,民間人の移送準備よし。,
+[CALL]ArrestingCivilianComplete_1,民間人に手錠をかけ、準備よし。,
+[CALL]ArrestingCivilianComplete_2,後続班の準備よし。,
+[CALL]ArrestingCivilianComplete_3,救護の準備よし。,
+[CALL]ArrestingCivilianComplete_4,民間人の準備よし。,
+[CALL]ArrestingCivilianComplete_5,準備よし。,
+[CALL]ArrestingCivilianComplete_6,手錠をかけた！,
+[CALL]ArrestingCivilianComplete_7,手錠をかけ、準備よし。,
+[CALL]ArrestingCivilianMove_0,身柄を確保する！,
+[CALL]ArrestingCivilianMove_1,今、手錠をかける。,
+[CALL]ArrestingCivilianMove_2,今、準備する。,
+[CALL]ArrestingCivilian_0,身柄を確保する。,While handcuffing someone - Civilian
+[CALL]ArrestingCivilian_1,今、手錠をかける。,While handcuffing someone - Civilian
+[CALL]ArrestingCivilian_10,民間人の準備よし。,While handcuffing someone - Civilian
+[CALL]ArrestingCivilian_11,準備よし。,While handcuffing someone - Civilian
+[CALL]ArrestingCivilian_12,手錠をかけた。,While handcuffing someone - Civilian
+[CALL]ArrestingCivilian_13,手錠をかけ、準備よし。,While handcuffing someone - Civilian
+[CALL]ArrestingCivilian_2,今、準備する。,While handcuffing someone - Civilian
+[CALL]ArrestingCivilian_3,民間人の移送準備よし。,While handcuffing someone - Civilian
+[CALL]ArrestingCivilian_4,民間人に手錠をかけ、準備よし。,While handcuffing someone - Civilian
+[CALL]ArrestingCivilian_5,すまんな、リスクはとれないんだ。,While handcuffing someone - Civilian
+[CALL]ArrestingCivilian_6,大丈夫だ。,While handcuffing someone - Civilian
+[CALL]ArrestingCivilian_7,警察だ、とりあえず落ち着け。,While handcuffing someone - Civilian
+[CALL]ArrestingCivilian_8,後続班の準備よし。,While handcuffing someone - Civilian
+[CALL]ArrestingCivilian_9,救護の準備よし。,While handcuffing someone - Civilian
+[CALL]ArrestingSuspectComplete_0,容疑者の移送準備よし。,
+[CALL]ArrestingSuspectComplete_1,やつらを全員、拘束した。,
+[CALL]ArrestingSuspectComplete_2,拘束して準備よし。,
+[CALL]ArrestingSuspectComplete_3,容疑者に手錠をかけ、身柄確保。,
+[CALL]ArrestingSuspectComplete_4,仕留めた！,
+[CALL]ArrestingSuspectComplete_5,移送準備よし。,
+[CALL]ArrestingSuspectComplete_6,すべて完了した。,
+[CALL]ArrestingSuspectMove_0,やつを確保。,
+[CALL]ArrestingSuspectMove_1,拘束中。,
+[CALL]ArrestingSuspectMove_2,手錠をかけてる。,
+[CALL]ArrestingSuspectMove_3,手錠をかけてる。,
+[CALL]ArrestingSuspectMove_4,手錠をかけた。,
+[CALL]ArrestingSuspect_0,容疑者の移送準備よし。,While handcuffing someone - Suspect
+[CALL]ArrestingSuspect_1,やつらを全員、拘束した。,While handcuffing someone - Suspect
+[CALL]ArrestingSuspect_10,動くな、じっとしてろ。,While handcuffing someone - Suspect
+[CALL]ArrestingSuspect_11,やつらを確保。,While handcuffing someone - Suspect
+[CALL]ArrestingSuspect_12,手錠をかける。,While handcuffing someone - Suspect
+[CALL]ArrestingSuspect_13,手錠をかける。,While handcuffing someone - Suspect
+[CALL]ArrestingSuspect_14,手錠をかけた。,While handcuffing someone - Suspect
+[CALL]ArrestingSuspect_15,この手錠は外すつもりはない、だから諦めろ。,While handcuffing someone - Suspect
+[CALL]ArrestingSuspect_16,移送準備よし。,While handcuffing someone - Suspect
+[CALL]ArrestingSuspect_17,すべて完了。,While handcuffing someone - Suspect
+[CALL]ArrestingSuspect_18,これでお前も犯罪者の仲間入りだ。,While handcuffing someone - Suspect
+[CALL]ArrestingSuspect_2,拘束して準備よし。,While handcuffing someone - Suspect
+[CALL]ArrestingSuspect_3,やつらを確保。,While handcuffing someone - Suspect
+[CALL]ArrestingSuspect_4,容疑者に手錠をかけ、身柄確保。,While handcuffing someone - Suspect
+[CALL]ArrestingSuspect_5,拘束中。,While handcuffing someone - Suspect
+[CALL]ArrestingSuspect_6,手錠をかける。,While handcuffing someone - Suspect
+[CALL]ArrestingSuspect_7,腕を動かすな、そっちを向け。,While handcuffing someone - Suspect
+[CALL]ArrestingSuspect_8,動くな。,While handcuffing someone - Suspect
+[CALL]ArrestingSuspect_9,そっちを向いて動くな。,While handcuffing someone - Suspect
+[CALL]BleedoutBreath_0,（荒い息遣い）,
+[CALL]BleedoutBreath_1,（荒い息遣い）,
+[CALL]BleedoutBreath_2,（荒い息遣い）,
+[CALL]BlockedByPlayer_0,どいてください。,Person is in the way
+[CALL]BlockedByPlayer_1,どいてください。,Person is in the way
+[CALL]BlockedByPlayer_2,どいてください。,Person is in the way
+[CALL]BlockedByPlayer_3,そこはどいてくれ。,Person is in the way
+[CALL]BlockedByPlayer_4,動いてくれ。,Person is in the way
+[CALL]BlockedByPlayer_5,横にずれてくれ。,Person is in the way
+[CALL]BlockedByPlayer_6,動いてくれ。,Person is in the way
+[CALL]BlueOccupiesDoorS_0,ブルーチームに任せろ。,
+[CALL]BlueOccupiesDoorS_1,ブルーチームに任せろ。,
+[CALL]BlueOccupiesDoorS_2,そこはブルーチームに任せろ。,
+[CALL]BlueOccupiesDoorS_3,ブルーチームがすでにそのドアを見張ってる。,
+[CALL]BlueOccupiesDoor_0,ブルーチームに任せろ。,leader is ordering red team to stack up on a door but the blue team is already on it
+[CALL]BlueOccupiesDoor_1,ブルーチームに任せろ。,leader is ordering red team to stack up on a door but the blue team is already on it
+[CALL]BlueOccupiesDoor_2,そこはブルーチームに任せろ。,leader is ordering red team to stack up on a door but the blue team is already on it
+[CALL]BlueOccupiesDoor_3,ブルーチームがすでにそのドアを見張ってる。,leader is ordering red team to stack up on a door but the blue team is already on it
+[CALL]BorderPatrolS_0,隅々まで確認すべきだ。,
+[CALL]BorderPatrolS_1,隠れ場が沢山あるな。,
+[CALL]BorderPatrolS_2,しっかり見張ってろよ。前に俺の横をすり抜けたヤツがいたんだ。,
+[CALL]BorderPatrol_0,隅々まで確認すべきだ。,Specific trait that gives the rest of the team a bonus
+[CALL]BorderPatrol_1,隠れ場が沢山あるな。,Specific trait that gives the rest of the team a bonus
+[CALL]BorderPatrol_2,目を離すな。前に誰かを見落としたことがある。,Specific trait that gives the rest of the team a bonus
+[CALL]BreachDone_0,突入！,Breaching a door into a room
+[CALL]BreachDone_1,行くぞ！,Breaching a door into a room
+[CALL]BreachDone_2,中に入るぞ！,Breaching a door into a room
+[CALL]BreachDone_3,中に入るぞ！,Breaching a door into a room
+[CALL]BreachDone_4,入るぞ！,Breaching a door into a room
+[CALL]BreachDone_5,行くぞ！,Breaching a door into a room
+[CALL]BreachDone_6,行け、行け、行け！,Breaching a door into a room
+[CALL]BreacherS_0,先手を打とう。,
+[CALL]BreacherS_1,奴らを驚かせてやろう。,
+[CALL]BreacherS_2,奇襲をかけるぞ。,
+[CALL]Breacher_0,先手を打とう。,Specific trait that gives the rest of the team a bonus
+[CALL]Breacher_1,奴らを驚かせてやろう。,Specific trait that gives the rest of the team a bonus
+[CALL]Breacher_2,奇襲をかけるぞ。,Specific trait that gives the rest of the team a bonus
+[CALL]C2Placed_0,爆発物、準備完了。,After placing C2 explosive on a door
+[CALL]C2Placed_1,爆薬、準備完了。,After placing C2 explosive on a door
+[CALL]C2Placed_2,準備完了。パーティーの時間だ。,After placing C2 explosive on a door
+[CALL]C2Placed_3,配置した。準備完了。,After placing C2 explosive on a door
+[CALL]C2Placed_4,準備よし。みんな耳をふさげ。,After placing C2 explosive on a door
+[CALL]C2Placed_5,ドンと行くぞ！,After placing C2 explosive on a door
+[CALL]C2Placed_6,一発ぶちかますぞ。,After placing C2 explosive on a door
+[CALL]CollectEvidenceMoveS_0,回収する。,
+[CALL]CollectEvidenceMoveS_1,回収する。,
+[CALL]CollectEvidenceMoveS_2,梱包する。,
+[CALL]CollectEvidenceMoveS_3,回収する,
+[CALL]CollectEvidenceMoveS_4,回収した。,
+[CALL]CollectEvidenceMoveS_5,梱包する。,
+[CALL]CollectEvidenceMove_0,回収する。,
+[CALL]CollectEvidenceMove_1,回収する。,
+[CALL]CollectEvidenceMove_2,梱包する。,
+[CALL]CollectEvidenceMove_3,回収する,
+[CALL]CollectEvidenceMove_4,回収した。,
+[CALL]CollectEvidenceMove_5,梱包する。,
+[CALL]CollectEvidence_0,証拠品を確保。,Collecting evidence into a bag
+[CALL]CollectEvidence_1,証拠品の準備よし。,Collecting evidence into a bag
+[CALL]CollectEvidence_2,準備よし。,Collecting evidence into a bag
+[CALL]CollectEvidence_3,確保した。,Collecting evidence into a bag
+[CALL]CollectEvidence_4,回収した。,Collecting evidence into a bag
+[CALL]CollectEvidence_5,保管中。,Collecting evidence into a bag
+[CALL]CollectEvidence_6,保管した。,Collecting evidence into a bag
+[CALL]CollectEvidence_7,確保中。,Collecting evidence into a bag
+[CALL]CoverAreaS_0,なにも見当たらない。,
+[CALL]CoverAreaS_1,なにも見当たらない。,
+[CALL]CoverAreaS_2,ここには何もありません。,
+[CALL]CoverAreaS_3,こっちはクリアリング完了、ボス。,
+[CALL]CoverAreaS_4,接触なし。ここは空だ。,
+[CALL]CoverAreaS_5,何もない。,
+[CALL]CoverAreaS_6,ここは大丈夫だ。,
+[CALL]CoverArea_0,なにも見当たらない。,"when swat is covering an area for a while and nothing of interest is happening, no suspects/civs are in sight for over a minute"
+[CALL]CoverArea_1,ここには何もありません。,"when swat is covering an area for a while and nothing of interest is happening, no suspects/civs are in sight for over a minute"
+[CALL]CoverArea_2,こっちはクリアリング完了、ボス。,"when swat is covering an area for a while and nothing of interest is happening, no suspects/civs are in sight for over a minute"
+[CALL]CoverArea_3,接触なし。ここは空だ。,"when swat is covering an area for a while and nothing of interest is happening, no suspects/civs are in sight for over a minute"
+[CALL]CoverArea_4,何もない。,"when swat is covering an area for a while and nothing of interest is happening, no suspects/civs are in sight for over a minute"
+[CALL]CoverArea_5,ここもクリア。,"when swat is covering an area for a while and nothing of interest is happening, no suspects/civs are in sight for over a minute"
+[CALL]Death_0,（悲鳴）,
+[CALL]Death_1,（悲鳴）,
+[CALL]Death_2,（悲鳴）,
+[CALL]Death_3,（悲鳴）,
+[CALL]Death_4,（悲鳴）,
+[CALL]Death_5,（悲鳴）,
+[CALL]Death_6,（悲鳴）,
+[CALL]Death_7,（悲鳴）,
+[CALL]Death_8,（悲鳴）,
+[CALL]Death_9,（悲鳴）,
+[CALL]DisarmTrap_0,了解、今対応する。,Disarming an explosive on a door
+[CALL]DisarmTrap_1,身柄を確保する。,Disarming an explosive on a door
+[CALL]DisarmTrap_2,任せろ。,Disarming an explosive on a door
+[CALL]DisarmTrap_3,デバイスを無効化する。,Disarming an explosive on a door
+[CALL]DisarmTrap_4,無効化中。,Disarming an explosive on a door
+[CALL]DisarmTrap_5,対応する。,Disarming an explosive on a door
+[CALL]DisarmTrap_6,無効化中。,Disarming an explosive on a door
+[CALL]DisarmTrap_7,武装解除中。,Disarming an explosive on a door
+[CALL]DisarmTrap_8,対処する。,Disarming an explosive on a door
+[CALL]DoorLockPicked_0,解錠して準備完了。,Picked a door lock
+[CALL]DoorLockPicked_1,準備よし。,Picked a door lock
+[CALL]DoorLockPicked_2,解錠した。,Picked a door lock
+[CALL]DoorLockPicked_3,よし。解錠した。,Picked a door lock
+[CALL]DoorLockPicked_4,解錠した。,Picked a door lock
+[CALL]DoorLockPicked_5,鍵を解錠した。,Picked a door lock
+[CALL]DoorLockPicked_6,ドアの鍵を開けた。,Picked a door lock
+[CALL]DoorLockPicked_7,よし。準備完了。,Picked a door lock
+[CALL]DoorLocked_0,入室不可能だ。,Tries to open a door but it's locked
+[CALL]DoorLocked_1,くそ、鍵がかかっている。,Tries to open a door but it's locked
+[CALL]DoorLocked_2,鍵がかかってやがる。,Tries to open a door but it's locked
+[CALL]DoorLocked_3,ちくしょ。鍵がかかっている。,Tries to open a door but it's locked
+[CALL]DoorLocked_4,ドアに鍵がかかっている。,Tries to open a door but it's locked
+[CALL]DoorLocked_5,鍵がかかっている。,Tries to open a door but it's locked
+[CALL]DoorLocked_6,無理だ。鍵がかかっている。,Tries to open a door but it's locked
+[CALL]DoorLocked_7,鍵がかかっている。どうする？,Tries to open a door but it's locked
+[CALL]DoorLocked_8,ドアはダメだ。,Tries to open a door but it's locked
+[CALL]DoorUnlocked_0,ドアの鍵を開けた。,Door is unlocked
+[CALL]DoorUnlocked_1,開いている、準備完了。,Door is unlocked
+[CALL]DoorUnlocked_2,解錠した。,Door is unlocked
+[CALL]DoorUnlocked_3,ドアはオーケーだ。,Door is unlocked
+[CALL]DoorUnlocked_4,オーケーだ。,Door is unlocked
+[CALL]DoorWedgePlaced_0,ドアウェッジ準備よし。,Placed a jam on a door
+[CALL]DoorWedgePlaced_1,ドアジャマー準備完了。,Placed a jam on a door
+[CALL]DoorWedgePlaced_2,ドアウェッジはオーケーだ。,Placed a jam on a door
+[CALL]DoorWedgePlaced_3,ドアウェッジ準備完了。,Placed a jam on a door
+[CALL]DoorWedgePlaced_4,ドアウェッジを詰め込んだ。,Placed a jam on a door
+[CALL]DoorWedgePlaced_5,ドアウェッジを詰め込んだ。準備完了。,Placed a jam on a door
+[CALL]EODS_0,爆弾解除は得意分野だ。,
+[CALL]EODS_1,化学の授業の単位を取っといてよかったよ。,
+[CALL]EODS_2,爆弾処理班での長年の経験が役に立った。,
+[CALL]EOD_0,爆弾解除は得意分野だ。,Specific trait that gives the rest of the team a bonus
+[CALL]EOD_1,化学の授業の単位を取っといてよかったよ。,Specific trait that gives the rest of the team a bonus
+[CALL]EOD_2,爆弾処理班での長年の経験が役に立った。,Specific trait that gives the rest of the team a bonus
+[CALL]EnvAgencyS_0,少なくともここで少しは落ち着けるな。,
+[CALL]EnvAgencyS_1,こいつはこれを最近やり始めたわけでもなさそうだな。この壁を見てみろよ。,
+[CALL]EnvAgency_0,少なくともここで少しは落ち着けるな。,"Commenting on the environment - Hot outside, cold inside"
+[CALL]EnvAgency_1,こいつはこれを最近やり始めたわけでもなさそうだな。この壁を見てみろよ…,Commenting on the environment - Predatory pictures
+[CALL]EnvBeachfrontS_0,俺だったらここには住めないな。今にも海に流されそうだ。,
+[CALL]EnvBeachfrontS_1,家族経営か。,
+[CALL]EnvBeachfront_0,俺だったらここには住めないな。今にも海に流されそうだ。,Commenting on the environment
+[CALL]EnvBeachfront_1,家族経営か。,Commenting on the environment
+[CALL]EnvCampusS_0,ゆっくり行こう。,
+[CALL]EnvCampusS_1,どっちだ？,
+[CALL]EnvCampus_0,ゆっくり行こう。,Commenting on the environment - Outside
+[CALL]EnvCampus_1,どっちだ？,Commenting on the environment - Hallways
+[CALL]EnvClubS_0,クラブはいつも混んでる。出るのも動くのも大変だ。,
+[CALL]EnvClubS_1,こいつら話し合いには応じなさそうだ。,
+[CALL]EnvClub_0,クラブはいつも混んでる。出るのも動くのも大変だ。,Commenting on the environment - Outside
+[CALL]EnvClub_1,こいつら話し合いには応じなさそうだ。,Commenting on the environment
+[CALL]EnvCoyoteS_0,何人こっそり入れてたかは、追跡不能だ。,
+[CALL]EnvCoyoteS_1,さっさと出るぞ。この場所が崩れる前にな。,
+[CALL]EnvCoyote_0,何人こっそり入れてたかは、追跡不能だ。,"Commenting on the environment - Piles of luggage, tunnels"
+[CALL]EnvCoyote_1,さっさと出るぞ。この場所が崩れる前にな。,Commenting on the environment - Tunnels
+[CALL]EnvDatacenterS_0,警備チームは神経質になってるだろうな。,
+[CALL]EnvDatacenterS_1,今はデジタルの世界だな。何でも簡単にアクセスできてしまう。,
+[CALL]EnvDatacenter_0,警備チームは神経質になってるだろうな。,Commenting on the environment - Outside
+[CALL]EnvDatacenter_1,今はデジタルの世界だな。何でも簡単にアクセスできてしまう。,Commenting on the environment
+[CALL]EnvDealerS_0,ノースヒルズにはもっと良い時代があった。子供の頃はよくここで自転車に乗ったもんだ。,
+[CALL]EnvDealerS_1,ここでパーティーがあったようだ。あまり 良い結末は迎えなかったみたいだがな。,
+[CALL]EnvDealer_0,ノースヒルズにはもっと良い時代があった。子供の頃はよくここで自転車に乗ったもんだ。,Commenting on the environment - Deteriorated area
+[CALL]EnvDealer_1,ここでパーティーがあったようだ。あまり良い結末は迎えなかったみたいだがな。,Commenting on the environment - Dead body
+[CALL]EnvFarmS_0,道路から離れよう。,
+[CALL]EnvFarmS_1,これを見てくれ。,
+[CALL]EnvFarm_0,道路から離れよう。,Commenting on the environment
+[CALL]EnvFarm_1,これを見てくれ…,Commenting on the environment - Occult drawings on walls
+[CALL]EnvGasS_0,マネージャーにしては、あまり整理が出来きていないようだな。俺らのシフトマネージャーを思い出す。,
+[CALL]EnvGasS_1,防弾だと。不良品か？,
+[CALL]EnvGas_0,マネージャーにしては、あまり整理ができていないようだな。俺らのシフトマネージャーを思い出す。,Commenting on the environment - Messy office
+[CALL]EnvGas_1,防弾だと。不良品か？,Commenting on the environment - Glass with bullet holes
+[CALL]EnvHospitalS_0,なるべく大勢の人を外に出そうとしてたみたいだな。,
+[CALL]EnvHospitalS_1,こんな所にいたら、何か罰が当たる気がしないか？,
+[CALL]EnvHospital_0,なるべく大勢の人を外に出そうとしてたみたいだな。,Commenting on the environment
+[CALL]EnvHospital_1,こんな所にいたら、何か罰が当たる気がしないか？,Commenting on the environment - Morgue
+[CALL]EnvImporterS_0,パスポートか？忙しそうだ。この街から誰もが出たがっている。俺も含めてな。,
+[CALL]EnvImporterS_1,クリスマスの買い物はもう済ませたかい？,
+[CALL]EnvImporter_0,パスポートか？忙しそうだ。この街から誰もが出たがっている。俺も含めてな。,Commenting on the environment - Sign for passport photos
+[CALL]EnvImporter_1,クリスマスの買い物はもう済ませたかい…,Commenting on the environment - Thousands of packages
+[CALL]EnvMethS_0,子供たちはマッチで遊んでたのか？,
+[CALL]EnvMethS_1,くそ、彼女をここから出さなきゃ。,
+[CALL]EnvMeth_0,子供たちはマッチで遊んでたのか？,Commenting on the environment - Backyard fire
+[CALL]EnvMeth_1,くそ、彼女をここから出さなきゃ…,Commenting on the environment - Child overdosing on bed
+[CALL]EnvNegativeS_0,くそ、おい。,
+[CALL]EnvNegativeS_1,ありえない。,
+[CALL]EnvNegativeS_10,何だこれは？,
+[CALL]EnvNegativeS_11,一体誰がこのショーを仕切っているんだ？,
+[CALL]EnvNegativeS_12,早く終わらせよう。ここは気味が悪い。,
+[CALL]EnvNegativeS_2,くそっ。,
+[CALL]EnvNegativeS_3,あぁー神よ。,
+[CALL]EnvNegativeS_4,おい、なんてことだ。,
+[CALL]EnvNegativeS_5,ありえねえ。,
+[CALL]EnvNegativeS_6,めちゃくちゃだ。,
+[CALL]EnvNegativeS_7,くそっ、ちょっと待ってくれ。,
+[CALL]EnvNegativeS_8,こんなの悪夢だ。,
+[CALL]EnvNegativeS_9,あぁ、神様。,
+[CALL]EnvNegative_0,くそ、なんてことだ…,Commenting on the environment in a generic way - negative
+[CALL]EnvNegative_1,嘘だろ…,Commenting on the environment in a generic way - negative
+[CALL]EnvNegative_10,何だこれは？,Commenting on the environment in a generic way - negative
+[CALL]EnvNegative_11,一体誰がこのショーを仕切っているんだ。,Commenting on the environment in a generic way - negative
+[CALL]EnvNegative_12,早く終わらせよう。ここは気味が悪い。,Commenting on the environment in a generic way - negative
+[CALL]EnvNegative_2,くそっ…,Commenting on the environment in a generic way - negative
+[CALL]EnvNegative_3,ウソだろ…,Commenting on the environment in a generic way - negative
+[CALL]EnvNegative_4,おい、なんてことだ…,Commenting on the environment in a generic way - negative
+[CALL]EnvNegative_5,ありえねえ…,Commenting on the environment in a generic way - negative
+[CALL]EnvNegative_6,めちゃくちゃだ…,Commenting on the environment in a generic way - negative
+[CALL]EnvNegative_7,クソッ、ちょっと待ってくれ…,Commenting on the environment in a generic way - negative
+[CALL]EnvNegative_8,こんなの悪夢だ…,Commenting on the environment in a generic way - negative
+[CALL]EnvNegative_9,あぁ、神様…,Commenting on the environment in a generic way - negative
+[CALL]EnvPenthouseS_0,壁の写真を見てくれ。,
+[CALL]EnvPenthouseS_1,あれを見てくれ。ロレッタ・フランクリンだ。クラシックは決して流行遅れにはならない。,
+[CALL]EnvPenthouse_0,壁の写真を見てくれ。,Commenting on the environment
+[CALL]EnvPenthouse_1,あれを見てくれ。ロレッタ・フランクリンだ。クラシックは決して流行遅れにはならない。,Commenting on the environment - Record on wall
+[CALL]EnvPortS_0,周りを見てみよう。,
+[CALL]EnvPortS_1,ここで働いている人達はきっと何が起こっているのか知らないのだろうな。,
+[CALL]EnvPort_0,周りを見てみよう。,Commenting on the environment
+[CALL]EnvPort_1,ここで働いている人達はきっと何が起こっているのか知らないのだろうな。,Commenting on the environment
+[CALL]EnvPositiveS_0,あぁ…,
+[CALL]EnvPositiveS_1,こんなこともあるんだな…,
+[CALL]EnvPositiveS_10,おい、冗談だろ。,
+[CALL]EnvPositiveS_11,これは映画化されると思うか？それともテレビシリーズか？,
+[CALL]EnvPositiveS_2,くそったれ。,
+[CALL]EnvPositiveS_3,これ見たか？,
+[CALL]EnvPositiveS_4,一つの現場を見たら、他は大体察しがつく。,
+[CALL]EnvPositiveS_5,これを見てみろ。,
+[CALL]EnvPositiveS_6,この報告書を書きたい奴はいるか？,
+[CALL]EnvPositiveS_7,やれやれだ…,
+[CALL]EnvPositiveS_8,これは初めてだな。,
+[CALL]EnvPositiveS_9,冗談だろ。,
+[CALL]EnvPositive_0,あぁ…,Commenting on the environment in a generic way - positive
+[CALL]EnvPositive_1,こんなこともあるんだな,Commenting on the environment in a generic way - positive
+[CALL]EnvPositive_10,おい、冗談だろ,Commenting on the environment in a generic way - positive
+[CALL]EnvPositive_11,これは映画化されると思うか？それともテレビシリーズか？,Commenting on the environment in a generic way - positive
+[CALL]EnvPositive_2,くそったれ…,Commenting on the environment in a generic way - positive
+[CALL]EnvPositive_3,これ見たか？,Commenting on the environment in a generic way - positive
+[CALL]EnvPositive_4,一つの現場を見たら、他は大体察しがつく。,Commenting on the environment in a generic way - positive
+[CALL]EnvPositive_5,これを見てみろ…,Commenting on the environment in a generic way - positive
+[CALL]EnvPositive_6,この報告書を書きたい奴はいるか？,Commenting on the environment in a generic way - positive
+[CALL]EnvPositive_7,やれやれだ。,Commenting on the environment in a generic way - positive
+[CALL]EnvPositive_8,これは初めてだな。,Commenting on the environment in a generic way - positive
+[CALL]EnvPositive_9,冗談だろ。,Commenting on the environment in a generic way - positive
+[CALL]EnvRidgelineS_0,栽培場か？,
+[CALL]EnvRidgelineS_1,彼とはまともに話し合いができそうにないな。,
+[CALL]EnvRidgeline_0,栽培場か？,Commenting on the environment - Plants outside
+[CALL]EnvRidgeline_1,彼とはまともに話し合いができそうにないな。,Commenting on the environment - Outside
+[CALL]EnvSinsS_0,図書館がホテルにあるなんて、文学の無駄使いだ。,
+[CALL]EnvSinsS_1,雰囲気を出そうとしている感じが尋常じゃないね。,
+[CALL]EnvSins_0,図書館がホテルにあるなんて、文学の無駄使いだ。,Commenting on the environment - Library room
+[CALL]EnvSins_1,雰囲気を出そうとしている感じが尋常じゃないね…,Commenting on the environment - Red lighting
+[CALL]EnvStreamerS_0,昔はブラウン管テレビを友達の地下室によく持ち運んだものだ。,
+[CALL]EnvStreamerS_1,周りのサインを見てみろ。,
+[CALL]EnvStreamer_0,昔はブラウン管テレビを友達の地下室によく持ち運んだものだ。,Commenting on the environment - Gaming room
+[CALL]EnvStreamer_1,周りのサインを見てみろ。,Commenting on the environment - Courtyard
+[CALL]EnvValleyS_0,これを見てもまだ化物がいないと思えるか？,
+[CALL]EnvValleyS_1,可哀想な子、いつまでも言われ続けるんだろうな。,
+[CALL]EnvValley_0,これを見てもまだ化物がいないと思えるか？,Commenting on the environment - Basement shrine
+[CALL]EnvValley_1,可哀想な子、いつまでも言われ続けるんだろうな。,Commenting on the environment - Porn trophies
+[CALL]EscortCivilianS_0,民間人を護送中。,
+[CALL]EscortCivilianS_1,俺についてこい。,
+[CALL]EscortCivilianS_2,こっちに来い。,
+[CALL]EscortCivilianS_3,君をここから連れ出す。,
+[CALL]EscortCivilianS_4,君を連れ出す。,
+[CALL]EscortCivilianS_5,彼を連れ出す。,
+[CALL]EscortCivilian_0,民間人を護送中。,Escorting handcuffed civilian to exit
+[CALL]EscortCivilian_1,俺についてこい。,Escorting handcuffed civilian to exit
+[CALL]EscortCivilian_2,こっちに来い。,Escorting handcuffed civilian to exit
+[CALL]EscortCivilian_3,君をここから連れ出す。,Escorting handcuffed civilian to exit
+[CALL]EscortCivilian_4,君を連れ出す。,Escorting handcuffed civilian to exit
+[CALL]EscortCivilian_5,彼を連れ出す。,Escorting handcuffed civilian to exit
+[CALL]EscortSuspectS_0,容疑者を護送中。,
+[CALL]EscortSuspectS_1,君を連れ出す。いきなり暴れるなよ。,
+[CALL]EscortSuspectS_2,行こう。,
+[CALL]EscortSuspectS_3,ここから連れ出してやる。,
+[CALL]EscortSuspectS_4,君を外に連れ出す。,
+[CALL]EscortSuspectS_5,彼を連れ出す。,
+[CALL]EscortSuspect_0,容疑者を護送中。,Escorting handcuffed suspect to exit
+[CALL]EscortSuspect_1,君を連れ出す。いきなり暴れるなよ。,Escorting handcuffed suspect to exit
+[CALL]EscortSuspect_2,行こう。,Escorting handcuffed suspect to exit
+[CALL]EscortSuspect_3,ここから連れ出す。,Escorting handcuffed suspect to exit
+[CALL]EscortSuspect_4,君を外に連れ出す。,Escorting handcuffed suspect to exit
+[CALL]EscortSuspect_5,彼を連れ出す。,Escorting handcuffed suspect to exit
+[CALL]EvidenceSpotted_0,ここに証拠品がある。,Sees evidence laying around
+[CALL]EvidenceSpotted_1,ここに何かある。,Sees evidence laying around
+[CALL]EvidenceSpotted_2,ここに証拠品と思われる物がある。,Sees evidence laying around
+[CALL]EvidenceSpotted_3,回収するべきだ。,Sees evidence laying around
+[CALL]EvidenceSpotted_4,どうします？回収しますか？,Sees evidence laying around
+[CALL]EvidenceSpotted_5,この証拠品は保管するべきだ。,Sees evidence laying around
+[CALL]ExitS_0,出口に向かえ。外には警察が待っている。,
+[CALL]ExitS_1,出口へ向かえ。静かにして、頭を上げるな。,
+[CALL]ExitS_2,このエリアを離れろ。外には警察がいる。,
+[CALL]ExitS_3,外には警察がいる。行け。,
+[CALL]ExitS_4,出口に向かえ。,
+[CALL]ExitS_5,出口へ向かえ。,
+[CALL]Exit_0,出口に向かえ。外には警察が待っている。,Instructing civilian to leave the area
+[CALL]Exit_1,出口へ向かえ。静かにして、頭を上げるな。,Instructing civilian to leave the area
+[CALL]Exit_2,このエリアを離れろ。外には警察がいる。,Instructing civilian to leave the area
+[CALL]Exit_3,外には警察がいる。行け。,Instructing civilian to leave the area
+[CALL]Exit_4,出口に向かえ。,Instructing civilian to leave the area
+[CALL]Exit_5,出口へ向かえ。,Instructing civilian to leave the area
+[CALL]FriendlyFire_0,気をつけろ！,Shot at by friendly
+[CALL]FriendlyFire_1,撃つな！撃つな！,Shot at by friendly
+[CALL]FriendlyFire_10,イカれたのか？！,Shot at by friendly
+[CALL]FriendlyFire_11,ブルーチームだ！,Shot at by friendly
+[CALL]FriendlyFire_12,ブルーだ！ブルーチームだ！,Shot at by friendly
+[CALL]FriendlyFire_2,撃つな！,Shot at by friendly
+[CALL]FriendlyFire_3,撤退せよ！,Shot at by friendly
+[CALL]FriendlyFire_4,撃つな！気をつけろ！,Shot at by friendly
+[CALL]FriendlyFire_5,撃つな！ちゃんと確認しろ！,Shot at by friendly
+[CALL]FriendlyFire_6,味方だ！,Shot at by friendly
+[CALL]FriendlyFire_7,何をしてる？！,Shot at by friendly
+[CALL]FriendlyFire_8,何なんだ？！,Shot at by friendly
+[CALL]FriendlyFire_9,誤射！誤射だ！,Shot at by friendly
+[CALL]IncapacitatedTarget_0,1人仕留めた。,Finding someone wounded on the ground
+[CALL]IncapacitatedTarget_1,1人仕留めた。,Finding someone wounded on the ground
+[CALL]IncapacitatedTarget_2,1人仕留めた。,Finding someone wounded on the ground
+[CALL]IncapacitatedTarget_3,仕留めたが、まだ息があるかもしれない。,Finding someone wounded on the ground
+[CALL]IncapacitatedTarget_4,俺の位置で1人。,Finding someone wounded on the ground
+[CALL]IncapacitatedTarget_5,俺の位置で1人仕留めた。,Finding someone wounded on the ground
+[CALL]Incapacitated_0,ダーッ！アァァァ！アァァァ！アァァァーッ！アッ！アァァァ！アァァァァ！,
+[CALL]Incapacitated_1,（悲鳴）,
+[CALL]Incapacitated_2,（悲鳴）,
+[CALL]Incapacitated_3,（悲鳴）,
+[CALL]KickerS_0,ドアの破壊は得意分野だ。,
+[CALL]KickerS_1,脚はちゃんと鍛えてる。,
+[CALL]KickerS_2,いくぞ、脚のトレーニングだ。,
+[CALL]Kicker_0,ドアの破壊は俺の得意分野。,Specific trait that gives the rest of the team a bonus
+[CALL]Kicker_1,脚はちゃんと鍛えてる。,Specific trait that gives the rest of the team a bonus
+[CALL]Kicker_2,いくぞ、脚のトレーニングだ。,Specific trait that gives the rest of the team a bonus
+[CALL]MoralOfficerS_0,割に合わない。,
+[CALL]MoralOfficerS_1,正直、ストレスに対して割に合ってない。,
+[CALL]MoralOfficerS_2,生か死か。,
+[CALL]MoralOfficer_0,割に合わない。,Specific trait that gives the rest of the team a bonus
+[CALL]MoralOfficer_1,正直、ストレスに対して割に合ってない。,Specific trait that gives the rest of the team a bonus
+[CALL]MoralOfficer_2,生か死か。,Specific trait that gives the rest of the team a bonus
+[CALL]NegotiatorS_0,彼を説得する。,
+[CALL]NegotiatorS_1,俺にやらせてくれ。,
+[CALL]NegotiatorS_2,心配するな、俺は口が上手いんだ。,
+[CALL]Negotiator_0,彼を説得する。,Specific trait that gives the rest of the team a bonus
+[CALL]Negotiator_1,俺にやらせてくれ。,Specific trait that gives the rest of the team a bonus
+[CALL]Negotiator_2,心配するな、俺は口が上手いんだ。,Specific trait that gives the rest of the team a bonus
+[CALL]OpeningHallwayInFrontS_0,前方に廊下がある。,
+[CALL]OpeningHallwayInFrontS_1,目の前に廊下がある。,
+[CALL]OpeningHallwayInFrontS_2,ずっと先だ。,
+[CALL]OpeningHallwayInFront_0,前方に廊下がある。,"Sees an opportunity window for a door, hallway, corner, etc"
+[CALL]OpeningHallwayInFront_1,目の前に廊下がある。,"Sees an opportunity window for a door, hallway, corner, etc"
+[CALL]OpeningHallwayInFront_2,前方に廊下。,"Sees an opportunity window for a door, hallway, corner, etc"
+[CALL]OpeningHallwayLeftS_0,ずっと左だ。,
+[CALL]OpeningHallwayLeftS_1,左側の廊下だ。,
+[CALL]OpeningHallwayLeftS_2,左手に廊下がある。,
+[CALL]OpeningHallwayLeft_0,左に廊下。,"Sees an opportunity window for a door, hallway, corner, etc"
+[CALL]OpeningHallwayLeft_1,左側に廊下。,"Sees an opportunity window for a door, hallway, corner, etc"
+[CALL]OpeningHallwayLeft_2,左に廊下がある。,"Sees an opportunity window for a door, hallway, corner, etc"
+[CALL]OpeningHallwayMultipleS_0,複数の廊下がある。,
+[CALL]OpeningHallwayMultipleS_1,複数の廊下。,
+[CALL]OpeningHallwayMultipleS_2,複数の廊下がある。,
+[CALL]OpeningHallwayMultipleS_3,複数の廊下。,
+[CALL]OpeningHallwayMultipleS_4,複数の廊下。,
+[CALL]OpeningHallwayMultiple_0,複数の廊下がある。,
+[CALL]OpeningHallwayMultiple_1,複数の廊下。,
+[CALL]OpeningHallwayMultiple_2,複数の廊下がある。,
+[CALL]OpeningHallwayMultiple_3,複数の廊下。,
+[CALL]OpeningHallwayMultiple_4,複数の廊下。,
+[CALL]OpeningHallwayRightS_0,右に廊下がある。,
+[CALL]OpeningHallwayRightS_1,右に廊下だ。,
+[CALL]OpeningHallwayRightS_2,右側に廊下。,
+[CALL]OpeningHallwayRight_0,右に廊下がある。,"Sees an opportunity window for a door, hallway, corner, etc"
+[CALL]OpeningHallwayRight_1,右に廊下。,"Sees an opportunity window for a door, hallway, corner, etc"
+[CALL]OpeningHallwayRight_2,右側に廊下。,"Sees an opportunity window for a door, hallway, corner, etc"
+[CALL]OpeningLeftS_0,左に開口部。,
+[CALL]OpeningLeft_0,左に開口部。,
+[CALL]OpeningMultipleS_0,複数の開口部。,
+[CALL]OpeningMultipleS_1,ここに開口部が複数ある。,
+[CALL]OpeningMultipleS_2,複数の開口部。,
+[CALL]OpeningMultipleS_3,複数の開口部。,
+[CALL]OpeningMultipleS_4,複数の開口部がある。,
+[CALL]OpeningMultiple_0,複数の開口部。,
+[CALL]OpeningMultiple_1,ここに開口部が複数ある。,
+[CALL]OpeningMultiple_2,複数の開口部。,
+[CALL]OpeningMultiple_3,複数の開口部。,
+[CALL]OpeningMultiple_4,複数の開口部がある。,
+[CALL]OpeningRightS_0,右に開口部。,
+[CALL]OpeningRight_0,右に開口部。,
+[CALL]OpeningS_0,前方に開口部がある。,
+[CALL]OpeningS_1,ここに開口部がある。,
+[CALL]Opening_0,左に開口部。,"Sees an opportunity window for a door, hallway, corner, etc"
+[CALL]Opening_1,右に開口部。,"Sees an opportunity window for a door, hallway, corner, etc"
+[CALL]Opening_2,前方に開口部がある。,"Sees an opportunity window for a door, hallway, corner, etc"
+[CALL]Opening_3,ここに開口部がある。,"Sees an opportunity window for a door, hallway, corner, etc"
+[CALL]OrderMoveS_0,あっちに動け。,
+[CALL]OrderMoveS_1,俺の声の方に動け。,
+[CALL]OrderMoveS_10,そこに動いて、そのまま待て。,
+[CALL]OrderMoveS_2,俺の方に動け。,
+[CALL]OrderMoveS_3,横に動け。,
+[CALL]OrderMoveS_4,前に動け。,
+[CALL]OrderMoveS_5,こっちに動け。,
+[CALL]OrderMoveS_6,あそこに動け。,
+[CALL]OrderMoveS_7,あそこに動け。立ち上がるな。,
+[CALL]OrderMoveS_8,そこに動いて、そのまま待て。,
+[CALL]OrderMoveS_9,動いてくれ。,
+[CALL]OrderMove_0,あっちに動け。,Ordering suspect/civilian to move
+[CALL]OrderMove_1,俺の声の方に動け。,Ordering suspect/civilian to move
+[CALL]OrderMove_10,そこに動いて、そのまま待て。,Ordering suspect/civilian to move
+[CALL]OrderMove_2,俺の方に動け。,Ordering suspect/civilian to move
+[CALL]OrderMove_3,横に動け。,Ordering suspect/civilian to move
+[CALL]OrderMove_4,前に動け。,Ordering suspect/civilian to move
+[CALL]OrderMove_5,こっちに動け。,Ordering suspect/civilian to move
+[CALL]OrderMove_6,あそこに動け。,Ordering suspect/civilian to move
+[CALL]OrderMove_7,あそこに動け。立ち上がるな。,Ordering suspect/civilian to move
+[CALL]OrderMove_8,そこに動いて、そのまま待て。,Ordering suspect/civilian to move
+[CALL]OrderMove_9,動いてくれ。,Ordering suspect/civilian to move
+[CALL]PacifierS_0,装備は十分のはずだ。,
+[CALL]PacifierS_1,致命傷を避けるべきだ。,
+[CALL]PacifierS_2,装備だけで十分のはずだ。,
+[CALL]Pacifier_0,装備は十分のはずだ。,Specific trait that gives the rest of the team a bonus
+[CALL]Pacifier_1,致命傷を避けるべきだ。,Specific trait that gives the rest of the team a bonus
+[CALL]Pacifier_2,装備だけで十分だ。,Specific trait that gives the rest of the team a bonus
+[CALL]Pain_0,（苦痛に満ちた叫び声）,
+[CALL]Pain_1,（苦痛に満ちた叫び声）,
+[CALL]Pain_10,（苦痛に満ちた叫び声）,
+[CALL]Pain_11,（苦痛に満ちた叫び声）,
+[CALL]Pain_12,（苦痛に満ちた叫び声）,
+[CALL]Pain_13,（苦痛に満ちた叫び声）,
+[CALL]Pain_14,（苦痛に満ちた叫び声）,
+[CALL]Pain_15,（苦痛に満ちた叫び声）,
+[CALL]Pain_16,（苦痛に満ちた叫び声）,
+[CALL]Pain_2,（苦痛に満ちた叫び声）,
+[CALL]Pain_3,（苦痛に満ちた叫び声）,
+[CALL]Pain_4,（苦痛に満ちた叫び声）,
+[CALL]Pain_5,（苦痛に満ちた叫び声）,
+[CALL]Pain_6,（苦痛に満ちた叫び声）,
+[CALL]Pain_7,（苦痛に満ちた叫び声）,
+[CALL]Pain_8,（苦痛に満ちた叫び声）,
+[CALL]Pain_9,（苦痛に満ちた叫び声）,
+[CALL]ParamedicS_0,俺は救急隊だった。,
+[CALL]ParamedicS_1,俺が元衛生兵でよかった。,
+[CALL]ParamedicS_2,俺は医者になるべきだったかもな。,
+[CALL]Paramedic_0,俺は救急隊だった。,Specific trait that gives the rest of the team a bonus
+[CALL]Paramedic_1,俺が元衛生兵でよかった。,Specific trait that gives the rest of the team a bonus
+[CALL]Paramedic_2,俺は医者になるべきだったかもな。,Specific trait that gives the rest of the team a bonus
+[CALL]PrefixTOC_0,突入班から作戦本部へ。,
+[CALL]PrefixTOC_1,リードから作戦本部へ。,
+[CALL]PrefixTOC_2,エレメントから作戦本部へ。,
+[CALL]PrefixTOC_3,狙撃班から作戦本部へ。,
+[CALL]PrefixTOC_4,作戦本部。,
+[CALL]PrefixTocS_0,突入班から作戦本部へ。,
+[CALL]PrefixTocS_1,リードから作戦本部へ。,
+[CALL]PrefixTocS_2,エレメントから作戦本部へ。,
+[CALL]PrefixTocS_3,狙撃班から作戦本部へ。,
+[CALL]PrefixTocS_4,作戦本部。,
+[CALL]RedOccupiesDoorS_0,レッドチームが見張っている。,
+[CALL]RedOccupiesDoorS_1,レッドチームに任せろ。,
+[CALL]RedOccupiesDoorS_2,そこはレッドチームに任せましょう。,
+[CALL]RedOccupiesDoorS_3,レッドチームがそのドアを見張っている。,
+[CALL]RedOccupiesDoor_0,レッドチームが見張っている。,leader is ordering blue team to stack up on a door but the red team is already on it
+[CALL]RedOccupiesDoor_1,レッドチームに任せろ。,leader is ordering blue team to stack up on a door but the red team is already on it
+[CALL]RedOccupiesDoor_2,そこはレッドチームに任せましょう。,leader is ordering blue team to stack up on a door but the red team is already on it
+[CALL]RedOccupiesDoor_3,レッドチームがそのドアを見張っている。,leader is ordering blue team to stack up on a door but the red team is already on it
+[CALL]ReportArrestedCivilian_0,奴らが他にもいるかどうか知ってるか？,While arresting civilian
+[CALL]ReportArrestedCivilian_1,心配するな。君をここから連れ出す。,While arresting civilian
+[CALL]ReportArrestedCivilian_10,民間人の移送準備完了。,Letting command know of arrest after handcuffing
+[CALL]ReportArrestedCivilian_11,民間人の準備よし。,Letting command know of arrest after handcuffing
+[CALL]ReportArrestedCivilian_12,民間人の身柄確保。,Letting command know of arrest after handcuffing
+[CALL]ReportArrestedCivilian_13,民間人の準備よし。無抵抗だ。,Letting command know of arrest after handcuffing
+[CALL]ReportArrestedCivilian_14,準備よし。,Letting command know of arrest after handcuffing
+[CALL]ReportArrestedCivilian_2,仕事なんだ。,While arresting civilian
+[CALL]ReportArrestedCivilian_3,もう安全だ。,While arresting civilian
+[CALL]ReportArrestedCivilian_4,すまない、手錠はかけておかなきゃならないんだ。,While arresting civilian
+[CALL]ReportArrestedCivilian_5,心配するな、すべて大丈夫だ。,While arresting civilian
+[CALL]ReportArrestedCivilian_6,これは必要な事だ。全員を拘束しなければならない。,While arresting civilian
+[CALL]ReportArrestedCivilian_7,深呼吸だ。,While arresting civilian
+[CALL]ReportArrestedCivilian_8,民間人を確保。,Letting command know of arrest after handcuffing
+[CALL]ReportArrestedCivilian_9,民間人の救護の準備はできている。,Letting command know of arrest after handcuffing
+[CALL]ReportArrestedSuspect_0,あなたには黙秘権がある。あなたの供述は、法廷で不利な証拠として用いられる場合がある。,While arresting suspect
+[CALL]ReportArrestedSuspect_1,愚かな遊びをすれば、愚かな報いが返ってくる。,While arresting suspect
+[CALL]ReportArrestedSuspect_10,容疑者を確保。移送準備よし。,Letting command know of arrest after handcuffing
+[CALL]ReportArrestedSuspect_11,容疑者の準備よし。,Letting command know of arrest after handcuffing
+[CALL]ReportArrestedSuspect_12,容疑者の準備よし。,Letting command know of arrest after handcuffing
+[CALL]ReportArrestedSuspect_13,準備よし。,Letting command know of arrest after handcuffing
+[CALL]ReportArrestedSuspect_14,1人を拘束。無抵抗だ。,Letting command know of arrest after handcuffing
+[CALL]ReportArrestedSuspect_15,準備よし。無抵抗だ。,Letting command know of arrest after handcuffing
+[CALL]ReportArrestedSuspect_16,容疑者を拘束。移送準備よし。,Letting command know of arrest after handcuffing
+[CALL]ReportArrestedSuspect_17,容疑者を拘束。,Letting command know of arrest after handcuffing
+[CALL]ReportArrestedSuspect_18,1人を拘束。,Letting command know of arrest after handcuffing
+[CALL]ReportArrestedSuspect_19,確保した。,Letting command know of arrest after handcuffing
+[CALL]ReportArrestedSuspect_2,立ち上がるな。,While arresting suspect
+[CALL]ReportArrestedSuspect_20,容疑者を確保。移送準備よし。,Letting command know of arrest after handcuffing
+[CALL]ReportArrestedSuspect_21,静かにしろ、動くな。,Letting command know of arrest after handcuffing
+[CALL]ReportArrestedSuspect_22,行動には結果が伴う。,Letting command know of arrest after handcuffing
+[CALL]ReportArrestedSuspect_3,あなたには黙秘権がある。,While arresting suspect
+[CALL]ReportArrestedSuspect_4,これは必要な事だ。,While arresting suspect
+[CALL]ReportArrestedSuspect_5,動くな。,While arresting suspect
+[CALL]ReportArrestedSuspect_6,静かにしていろ。,While arresting suspect
+[CALL]ReportArrestedSuspect_7,お前を拘束する。いくら訴えても無駄だ。,While arresting suspect
+[CALL]ReportArrestedSuspect_8,自業自得だ。,While arresting suspect
+[CALL]ReportArrestedSuspect_9,容疑者を確保。,Letting command know of arrest after handcuffing
+[CALL]ReportDeadCivilian_0,民間人がやられた。,Finding a dead civilian on the ground
+[CALL]ReportDeadCivilian_1,民間人が被弾。,Finding a dead civilian on the ground
+[CALL]ReportDeadCivilian_2,民間人だ。,Finding a dead civilian on the ground
+[CALL]ReportDeadCivilian_3,民間人がやられた。,Finding a dead civilian on the ground
+[CALL]ReportDeadCivilian_4,民間人がやられた。,Finding a dead civilian on the ground
+[CALL]ReportDeadCivilian_5,民間人がやられた。,Finding a dead civilian on the ground
+[CALL]ReportDeadCivilian_6,ここに民間人がいる。,Finding a dead civilian on the ground
+[CALL]ReportDeadCivilian_7,くそ、民間人がやられた。,Finding a dead civilian on the ground
+[CALL]ReportDeadCivilian_8,くそ。民間人だ。,Finding a dead civilian on the ground
+[CALL]ReportDeadSWAT_0,仲間がやられた！,Reporting dead friendly after firefight
+[CALL]ReportDeadSWAT_1,くそっ！仲間がやられた。,Reporting dead friendly after firefight
+[CALL]ReportDeadSWAT_2,くそ、仲間がやられた。,Reporting dead friendly after firefight
+[CALL]ReportDeadSWAT_3,仲間がやられた、戦術的緊急医療サービスが必要だ！,Reporting dead friendly after firefight
+[CALL]ReportDeadSWAT_4,仲間がやられた、救護が必要だ！,Reporting dead friendly after firefight
+[CALL]ReportDeadSWAT_5,仲間が1人やられた、戦術的緊急医療サービスが今すぐ必要だ！,Reporting dead friendly after firefight
+[CALL]ReportDeadSWAT_6,仲間が1人やられた。戦術的緊急医療サービスを要請する！,Reporting dead friendly after firefight
+[CALL]ReportDeadSWAT_7,仲間がやられた。救護が必要だ！,Reporting dead friendly after firefight
+[CALL]ReportDeadSuspect_0,接触相手がやられた。,Finding a dead suspect on the ground
+[CALL]ReportDeadSuspect_1,容疑者を仕留めた。,Finding a dead suspect on the ground
+[CALL]ReportDeadSuspect_10,1人仕留めた。,Finding a dead suspect on the ground
+[CALL]ReportDeadSuspect_2,奴らを仕留めた。,Finding a dead suspect on the ground
+[CALL]ReportDeadSuspect_3,容疑者を1人仕留めた。,Finding a dead suspect on the ground
+[CALL]ReportDeadSuspect_4,脅威を無力化。,Finding a dead suspect on the ground
+[CALL]ReportDeadSuspect_5,接触相手を仕留めた。,Finding a dead suspect on the ground
+[CALL]ReportDeadSuspect_6,容疑者を仕留めた。,Finding a dead suspect on the ground
+[CALL]ReportDeadSuspect_7,容疑者を1人仕留めた。,Finding a dead suspect on the ground
+[CALL]ReportDeadSuspect_8,仕留めた。,Finding a dead suspect on the ground
+[CALL]ReportDeadSuspect_9,1人を仕留めた。,Finding a dead suspect on the ground
+[CALL]ReportIncapacitatedCivilian_0,民間人が1人やられた。呼吸はある。,Reporting a wounded civilian
+[CALL]ReportIncapacitatedCivilian_1,民間人が1人やられた。戦術的緊急医療サービスを今すぐ頼む。,Reporting a wounded civilian
+[CALL]ReportIncapacitatedCivilian_2,民間人が意識不明だ。,Reporting a wounded civilian
+[CALL]ReportIncapacitatedCivilian_3,民間人が治療を必要としている。,Reporting a wounded civilian
+[CALL]ReportIncapacitatedCivilian_4,民間人1人が治療を必要としている。,Reporting a wounded civilian
+[CALL]ReportIncapacitatedCivilian_5,民間人が1人やられた。戦術的緊急医療サービスが至急必要だ。,Reporting a wounded civilian
+[CALL]ReportIncapacitatedCivilian_6,民間人がやられた、救護が必要だ。,Reporting a wounded civilian
+[CALL]ReportIncapacitatedSWAT_0,仲間がやられた。呼吸はある。,
+[CALL]ReportIncapacitatedSWAT_1,仲間がやられた。治療が必要だ。,
+[CALL]ReportIncapacitatedSWAT_2,民間人がやられた。救護が必要だ。,
+[CALL]ReportIncapacitatedSWAT_3,仲間がやられた！今すぐ救護が必要だ！,
+[CALL]ReportIncapacitatedSWAT_4,仲間がやられた、戦術的緊急医療サービスを送れ！,
+[CALL]ReportIncapacitatedSuspect_0,容疑者を1人仕留めた。戦術的緊急医療サービスが至急必要だ！,Reporting a suspect that you wounded
+[CALL]ReportIncapacitatedSuspect_1,容疑者を仕留めた。戦術的緊急医療サービスを要請する。,Reporting a suspect that you wounded
+[CALL]ReportIncapacitatedSuspect_10,仲間がやられた！治療が必要だ！,Reporting a wounded SWAT officer
+[CALL]ReportIncapacitatedSuspect_11,仲間がやられた！救護が必要だ！,Reporting a wounded SWAT officer
+[CALL]ReportIncapacitatedSuspect_12,仲間がやられた！今すぐ救護が必要だ！,Reporting a wounded SWAT officer
+[CALL]ReportIncapacitatedSuspect_13,仲間がやられた！戦術的緊急医療サービスを頼む！,Reporting a wounded SWAT officer
+[CALL]ReportIncapacitatedSuspect_2,容疑者を仕留めたが、呼吸はある。,Reporting a suspect that you wounded
+[CALL]ReportIncapacitatedSuspect_3,容疑者が意識不明だ。,Reporting a suspect that you wounded
+[CALL]ReportIncapacitatedSuspect_4,容疑者を1人仕留めた。呼吸はある。,Reporting a suspect that you wounded
+[CALL]ReportIncapacitatedSuspect_5,容疑者1人が治療を必要としている。,Reporting a suspect that you wounded
+[CALL]ReportIncapacitatedSuspect_6,容疑者を仕留めた。戦術的緊急医療サービスが必要だ。,Reporting a suspect that you wounded
+[CALL]ReportIncapacitatedSuspect_7,容疑者を仕留めた。治療が必要だ。,Reporting a suspect that you wounded
+[CALL]ReportIncapacitatedSuspect_8,容疑者を仕留めた。負傷している。,Reporting a suspect that you wounded
+[CALL]ReportIncapacitatedSuspect_9,仲間がやられた！呼吸はある！,Reporting a wounded SWAT officer
+[CALL]SBAGSS_0,仕事をプライベートに持ち込まない方が良い。,
+[CALL]SBAGSS_1,仕事をプライベートに持ち込まないことだ。,
+[CALL]SBAGSS_2,生活の質が大事だ。,
+[CALL]SBAGS_0,仕事をプライベートに持ち込まない方が良い。,Specific trait that gives the rest of the team a bonus
+[CALL]SBAGS_1,仕事をプライベートに持ち込まないことだ。,Specific trait that gives the rest of the team a bonus
+[CALL]SBAGS_2,生活の質が大事だ。,Specific trait that gives the rest of the team a bonus
+[CALL]SearchS_0,捜索中。,
+[CALL]SearchS_1,周辺に誰かいないか捜索中。,
+[CALL]SearchS_2,確認中。,
+[CALL]SearchS_3,周辺を捜索中。,
+[CALL]SearchS_4,周辺を確認中。,
+[CALL]SearchS_5,掃討中。,
+[CALL]SearchS_6,掃討を行っている。,
+[CALL]Search_0,捜索中。,searching for things to secure in the current room
+[CALL]Search_1,周辺に誰かいないか捜索中。,searching for things to secure in the current room
+[CALL]Search_2,確認中。,searching for things to secure in the current room
+[CALL]Search_3,周辺を捜索中。,searching for things to secure in the current room
+[CALL]Search_4,周辺を確認中。,searching for things to secure in the current room
+[CALL]Search_5,一掃中。,searching for things to secure in the current room
+[CALL]Search_6,一掃中だ。,searching for things to secure in the current room
+[CALL]SearchingBedS_0,ベッドを調べる。,
+[CALL]SearchingBedS_1,ベッドを確認中。,
+[CALL]SearchingBedS_2,周辺を確認中。,
+[CALL]SearchingBedS_3,ベッドの下を確認中。,
+[CALL]SearchingBed_0,ベッドを調べる。,"clearing a room and sees a bed, and announces to search"
+[CALL]SearchingBed_1,ベッドを確認する。,"clearing a room and sees a bed, and announces to search"
+[CALL]SearchingBed_2,ベッドを確認中。,"clearing a room and sees a bed, and announces to search"
+[CALL]SearchingBed_3,ベッドの下を確認する。,"clearing a room and sees a bed, and announces to search"
+[CALL]SearchingClosetS_0,クローゼットを調べる。,
+[CALL]SearchingClosetS_1,クローゼット捜索中。,
+[CALL]SearchingClosetS_2,クローゼットを確認中。,
+[CALL]SearchingClosetS_3,クローゼットを調べる。,
+[CALL]SearchingCloset_0,クローゼットを調べる。,"clearing a room and sees a closet, and announces to search"
+[CALL]SearchingCloset_1,クローゼットを捜索中。,"clearing a room and sees a closet, and announces to search"
+[CALL]SearchingCloset_2,クローゼットを確認中。,"clearing a room and sees a closet, and announces to search"
+[CALL]SearchingCloset_3,クローゼットを調べる。,"clearing a room and sees a closet, and announces to search"
+[CALL]SearchingTableS_0,テーブルを確認中。,
+[CALL]SearchingTableS_1,机を確認中。,
+[CALL]SearchingTableS_2,テーブルと机を調べる。,
+[CALL]SearchingTableS_3,机の下を調べる。,
+[CALL]SearchingTableS_4,テーブルの下を捜索中。,
+[CALL]SearchingTable_0,テーブルを確認中。,"clearing a room and sees a desk/table, and announces to search"
+[CALL]SearchingTable_1,机を確認中。,"clearing a room and sees a desk/table, and announces to search"
+[CALL]SearchingTable_2,テーブルと机を調べる。,"clearing a room and sees a desk/table, and announces to search"
+[CALL]SearchingTable_3,机の下を捜索中。,"clearing a room and sees a desk/table, and announces to search"
+[CALL]SearchingTable_4,テーブルを捜索中。,"clearing a room and sees a desk/table, and announces to search"
+[CALL]ShotAtBySuspect_0,くそ！,While being shot at by suspect
+[CALL]ShotAtBySuspect_1,くそっ！,While being shot at by suspect
+[CALL]ShotAtBySuspect_2,銃だ！,While being shot at by suspect
+[CALL]ShotAtBySuspect_3,伏せていろ！,While being shot at by suspect
+[CALL]ShotAtBySuspect_4,気をつけろ！,While being shot at by suspect
+[CALL]ShotAtBySuspect_5,隠れろ！,While being shot at by suspect
+[CALL]ShotAtBySuspect_6,くそ野郎が！,While being shot at by suspect
+[CALL]ShotAtBySuspect_7,この野郎が！,While being shot at by suspect
+[CALL]ShotAtBySuspect_8,発砲！発砲！,While being shot at by suspect
+[CALL]ShotAtBySuspect_9,銃撃を受けている！,While being shot at by suspect
+[CALL]SpottedCivilian1S_0,丸腰の相手と接触。,
+[CALL]SpottedCivilian1S_1,接触。丸腰だ。,
+[CALL]SpottedCivilian1S_2,民間人と接触。,
+[CALL]SpottedCivilian1S_3,民間人が1人。丸腰だ。,
+[CALL]SpottedCivilian1S_4,民間人を確認。問題なし。,
+[CALL]SpottedCivilian1S_5,1人確認。何も持ってない。,
+[CALL]SpottedCivilian1_0,丸腰の相手と接触。,Reporting unarmed civilians to team
+[CALL]SpottedCivilian1_1,接触。丸腰だ。,Reporting unarmed civilians to team
+[CALL]SpottedCivilian1_2,民間人と接触。,Reporting unarmed civilians to team
+[CALL]SpottedCivilian1_3,民間人が1人。丸腰だ。,Reporting unarmed civilians to team
+[CALL]SpottedCivilian1_4,民間人を確認。問題なし。,Reporting unarmed civilians to team
+[CALL]SpottedCivilian1_5,1人確認。何も持ってない。,Reporting unarmed civilians to team
+[CALL]SpottedCivilian2S_0,複数と接触。全員丸腰だ。,
+[CALL]SpottedCivilian2S_1,複数を確認。武器なし。,
+[CALL]SpottedCivilian2S_2,複数と接触。武器は見当たらない。,
+[CALL]SpottedCivilian2S_3,数人と接触。丸腰のようだ。,
+[CALL]SpottedCivilian2S_4,複数を確認。何も持ってない。,
+[CALL]SpottedCivilian2S_5,数人を確認。何も持ってない。,
+[CALL]SpottedCivilian2_0,複数と接触。全員丸腰だ。,Reporting unarmed civilians to team
+[CALL]SpottedCivilian2_1,複数を確認。武器なし。,Reporting unarmed civilians to team
+[CALL]SpottedCivilian2_2,複数と接触。武器は見当たらない。,Reporting unarmed civilians to team
+[CALL]SpottedCivilian2_3,数人と接触。丸腰のようだ。,Reporting unarmed civilians to team
+[CALL]SpottedCivilian2_4,複数を確認。何も持ってない。,Reporting unarmed civilians to team
+[CALL]SpottedCivilian2_5,数人を確認。何も持ってない。,Reporting unarmed civilians to team
+[CALL]SpottedCivilianAndSuspectS_0,容疑者が1人。民間人が1人。,
+[CALL]SpottedCivilianAndSuspectS_1,1人は武器を所持、1人は丸腰。,
+[CALL]SpottedCivilianAndSuspectS_2,2人発見。1人は丸腰。,
+[CALL]SpottedCivilianAndSuspectS_3,2人発見、1人は銃を所持。,
+[CALL]SpottedCivilianAndSuspectS_4,2人と接触。1人は武器を所持。,
+[CALL]SpottedCivilianAndSuspectS_5,容疑者と民間人だ。,
+[CALL]SpottedCivilianAndSuspect_0,容疑者1人、民間人1人。,Reporting a suspect and civilian to team
+[CALL]SpottedCivilianAndSuspect_1,1人は武器を所持、1人は丸腰。,Reporting a suspect and civilian to team
+[CALL]SpottedCivilianAndSuspect_2,2人発見。1人は丸腰。,Reporting a suspect and civilian to team
+[CALL]SpottedCivilianAndSuspect_3,2人発見。1人は銃を所持。,Reporting a suspect and civilian to team
+[CALL]SpottedCivilianAndSuspect_4,2人と接触。1人は武器を所持。,Reporting a suspect and civilian to team
+[CALL]SpottedCivilianAndSuspect_5,容疑者と民間人だ。,Reporting a suspect and civilian to team
+[CALL]SpottedNoTrapS_0,大丈夫だ。,
+[CALL]SpottedNoTrapS_1,クリア。,
+[CALL]SpottedNoTrapS_10,安全だ。,
+[CALL]SpottedNoTrapS_2,大丈夫そうです。,
+[CALL]SpottedNoTrapS_3,罠は見当たらない。,
+[CALL]SpottedNoTrapS_4,クリア。,
+[CALL]SpottedNoTrapS_5,大丈夫だ。,
+[CALL]SpottedNoTrapS_6,何もない。大丈夫だ。,
+[CALL]SpottedNoTrapS_7,安全だ。罠はない。,
+[CALL]SpottedNoTrapS_8,ここにデバイスはない。,
+[CALL]SpottedNoTrapS_9,デバイスは一切なし。,
+[CALL]SpottedNoTrap_0,大丈夫だ。,Reporting no traps on door to team
+[CALL]SpottedNoTrap_1,クリア。,Reporting no traps on door to team
+[CALL]SpottedNoTrap_10,安全だ。,Reporting no traps on door to team
+[CALL]SpottedNoTrap_2,大丈夫そうです。,Reporting no traps on door to team
+[CALL]SpottedNoTrap_3,罠は見当たらない。,Reporting no traps on door to team
+[CALL]SpottedNoTrap_4,クリア。,Reporting no traps on door to team
+[CALL]SpottedNoTrap_5,大丈夫だ。,Reporting no traps on door to team
+[CALL]SpottedNoTrap_6,何もない、大丈夫だ。,Reporting no traps on door to team
+[CALL]SpottedNoTrap_7,安全だ。罠はない。,Reporting no traps on door to team
+[CALL]SpottedNoTrap_8,ここにデバイスはない。,Reporting no traps on door to team
+[CALL]SpottedNoTrap_9,デバイスは一切なし。,Reporting no traps on door to team
+[CALL]SpottedNoneS_0,周辺はクリア。,
+[CALL]SpottedNoneS_1,部屋はクリア。,
+[CALL]SpottedNoneS_10,大丈夫だ。,
+[CALL]SpottedNoneS_11,ここは問題なし。,
+[CALL]SpottedNoneS_2,クリア。,
+[CALL]SpottedNoneS_3,何もない。,
+[CALL]SpottedNoneS_4,何も見当たらない。,
+[CALL]SpottedNoneS_5,全てクリア。,
+[CALL]SpottedNoneS_6,接触なし。,
+[CALL]SpottedNoneS_7,接触なし。,
+[CALL]SpottedNoneS_8,クリア。,
+[CALL]SpottedNoneS_9,全てクリア。,
+[CALL]SpottedNone_0,周辺はクリア。,Reporting area clear to team
+[CALL]SpottedNone_1,部屋はクリア。,Reporting area clear to team
+[CALL]SpottedNone_10,大丈夫だ。,Reporting area clear to team
+[CALL]SpottedNone_11,ここは問題なし。,Reporting area clear to team
+[CALL]SpottedNone_2,クリア。,Reporting area clear to team
+[CALL]SpottedNone_3,何もない。,Reporting area clear to team
+[CALL]SpottedNone_4,何も見当たらない。,Reporting area clear to team
+[CALL]SpottedNone_5,全てクリア。,Reporting area clear to team
+[CALL]SpottedNone_6,接触なし。,Reporting area clear to team
+[CALL]SpottedNone_7,接触なし。,Reporting area clear to team
+[CALL]SpottedNone_8,クリア。,Reporting area clear to team
+[CALL]SpottedNone_9,全てクリア。,Reporting area clear to team
+[CALL]SpottedSuspect1S_0,容疑者を1人発見。,
+[CALL]SpottedSuspect1S_1,丸腰の相手と接触。,
+[CALL]SpottedSuspect1S_2,容疑者を発見。,
+[CALL]SpottedSuspect1S_3,容疑者を1人発見。,
+[CALL]SpottedSuspect1S_4,接触相手が武器を所持。,
+[CALL]SpottedSuspect1S_5,丸腰の容疑者だ。,
+[CALL]SpottedSuspect1S_6,武装した容疑者を発見。,
+[CALL]SpottedSuspect1S_7,容疑者が武器を所持。,
+[CALL]SpottedSuspect1S_8,容疑者が武器を構えている。,
+[CALL]SpottedSuspect1S_9,容疑者は武器を保持。,
+[CALL]SpottedSuspect1_0,容疑者を1人発見。,Reporting armed suspect to team
+[CALL]SpottedSuspect1_1,武装した1人と接触。,Reporting armed suspect to team
+[CALL]SpottedSuspect1_2,容疑者を発見。,Reporting armed suspect to team
+[CALL]SpottedSuspect1_3,容疑者を1人発見。,Reporting armed suspect to team
+[CALL]SpottedSuspect1_4,接触相手が武器を所持。,Reporting armed suspect to team
+[CALL]SpottedSuspect1_5,武装した容疑者1人。,Reporting armed suspect to team
+[CALL]SpottedSuspect1_6,武装した容疑者を発見。,Reporting armed suspect to team
+[CALL]SpottedSuspect1_7,容疑者を発見。武器を所持。,Reporting armed suspect to team
+[CALL]SpottedSuspect1_8,容疑者が武器を構えている。,Reporting armed suspect to team
+[CALL]SpottedSuspect1_9,容疑者は武器を保持。,Reporting armed suspect to team
+[CALL]SpottedSuspect2S_0,容疑者が数人。全員が武器を所持。,
+[CALL]SpottedSuspect2S_1,複数の容疑者。,
+[CALL]SpottedSuspect2S_2,複数の容疑者。武装している。,
+[CALL]SpottedSuspect2S_3,武装した容疑者が数人。,
+[CALL]SpottedSuspect2S_4,武装した接触者が複数。,
+[CALL]SpottedSuspect2S_5,武装した容疑者が複数。,
+[CALL]SpottedSuspect2S_6,容疑者が数人。,
+[CALL]SpottedSuspect2S_7,容疑者が複数。,
+[CALL]SpottedSuspect2S_8,武装した接触者が複数。,
+[CALL]SpottedSuspect2_0,容疑者が数人。全員が武器を所持。,Reporting multiple suspects to team
+[CALL]SpottedSuspect2_1,複数の容疑者。,Reporting multiple suspects to team
+[CALL]SpottedSuspect2_2,複数の容疑者。武器を所持。,Reporting multiple suspects to team
+[CALL]SpottedSuspect2_3,武装した容疑者が数人。,Reporting multiple suspects to team
+[CALL]SpottedSuspect2_4,武装した接触者が複数。,Reporting multiple suspects to team
+[CALL]SpottedSuspect2_5,武装した容疑者が複数。,Reporting multiple suspects to team
+[CALL]SpottedSuspect2_6,容疑者が数人。,Reporting multiple suspects to team
+[CALL]SpottedSuspect2_7,容疑者が複数。,Reporting multiple suspects to team
+[CALL]SpottedSuspect2_8,武装した接触者が複数。,Reporting multiple suspects to team
+[CALL]SpottedTrapExplosiveS_0,何らかのデバイスだ。,
+[CALL]SpottedTrapExplosiveS_1,罠を発見。,
+[CALL]SpottedTrapExplosiveS_2,罠がある。,
+[CALL]SpottedTrapExplosiveS_3,何かある。配線されている。,
+[CALL]SpottedTrapExplosiveS_4,クソ、配線だ。,
+[CALL]SpottedTrapExplosiveS_5,配線されてやがる。,
+[CALL]SpottedTrapExplosiveS_6,罠のようだ。,
+[CALL]SpottedTrapExplosiveS_7,配線されてるようだ。,
+[CALL]SpottedTrapExplosive_0,これは何らかのデバイスだ。,Reporting trap to team
+[CALL]SpottedTrapExplosive_1,罠を発見。,Reporting trap to team
+[CALL]SpottedTrapExplosive_2,罠がある。,Reporting trap to team
+[CALL]SpottedTrapExplosive_3,何かある。配線されている。,Reporting trap to team
+[CALL]SpottedTrapExplosive_4,クソ、配線されてる。,Reporting trap to team
+[CALL]SpottedTrapExplosive_5,配線されてやがる。,Reporting trap to team
+[CALL]SpottedTrapExplosive_6,罠のようだ。,Reporting trap to team
+[CALL]SpottedTrapExplosive_7,配線されてるようだ。,Reporting trap to team
+[CALL]SpottedTrapNoMirrorgunS_0,配線だ。罠のようだ。,
+[CALL]SpottedTrapNoMirrorgunS_1,気をつけろ、配線されてる。,
+[CALL]SpottedTrapNoMirrorgunS_2,配線されてる。,
+[CALL]SpottedTrapNoMirrorgunS_3,クソ、配線されてる。,
+[CALL]SpottedTrapNoMirrorgunS_4,配線されてるようだ。,
+[CALL]SpottedTrapNoMirrorgunS_5,下がってろ。ここにデバイスがある。,
+[CALL]SpottedTrapNoMirrorgun_0,配線されてる。罠のようだ。,Reporting trap to team
+[CALL]SpottedTrapNoMirrorgun_1,気をつけろ。配線されてる。,Reporting trap to team
+[CALL]SpottedTrapNoMirrorgun_2,配線されてる。,Reporting trap to team
+[CALL]SpottedTrapNoMirrorgun_3,クソ、配線されてる。,Reporting trap to team
+[CALL]SpottedTrapNoMirrorgun_4,配線されてるようだ。,Reporting trap to team
+[CALL]SpottedTrapNoMirrorgun_5,下がってろ。ここにデバイスがある。,Reporting trap to team
+[CALL]SuspectKilled_0,容疑者を仕留めた！,Reporting suspect down after firefight
+[CALL]SuspectKilled_1,仕留めた！,Reporting suspect down after firefight
+[CALL]SuspectKilled_2,奴らを仕留めた！,Reporting suspect down after firefight
+[CALL]SuspectKilled_3,接触相手を仕留めた！,Reporting suspect down after firefight
+[CALL]SuspectKilled_4,接触相手を仕留めた！,Reporting suspect down after firefight
+[CALL]SuspectKilled_5,脅威を無力化！,Reporting suspect down after firefight
+[CALL]SuspectKilled_6,脅威を無力化！,Reporting suspect down after firefight
+[CALL]SuspectKilled_7,仕留めた！,Reporting suspect down after firefight
+[CALL]SuspectSurrenderExit_Gun_0,銃だ！,
+[CALL]SuspectSurrenderExit_Knife_0,気をつけろ！,
+[CALL]SwapS_0,交代しよう。,
+[CALL]SwapS_1,交代。,
+[CALL]SwapS_2,替わろう。,
+[CALL]SwapS_3,替わろう。,
+[CALL]Swap_0,交代しよう。,
+[CALL]Swap_1,交代。,
+[CALL]Swap_2,替わろう。,
+[CALL]Swap_3,替わろう。,
+[CALL]TrapDisarmedS_0,武装を解除。,
+[CALL]TrapDisarmedS_1,武装を解除。もう大丈夫だ。,
+[CALL]TrapDisarmedS_2,デバイスはクリア。,
+[CALL]TrapDisarmedS_3,罠はクリア。,
+[CALL]TrapDisarmedS_4,処分しろ。,
+[CALL]TrapDisarmedS_5,解除した。,
+[CALL]TrapDisarmedS_6,安全だ。もう爆発しない。,
+[CALL]TrapDisarmedS_7,大丈夫だ。もう爆発しない。,
+[CALL]TrapDisarmed_0,解除した。,Reporting trap disarmed to team
+[CALL]TrapDisarmed_1,解除した。もう大丈夫だ。,Reporting trap disarmed to team
+[CALL]TrapDisarmed_2,デバイスはクリア。,Reporting trap disarmed to team
+[CALL]TrapDisarmed_3,罠はクリア。,Reporting trap disarmed to team
+[CALL]TrapDisarmed_4,処分した。,Reporting trap disarmed to team
+[CALL]TrapDisarmed_5,解除した。,Reporting trap disarmed to team
+[CALL]TrapDisarmed_6,安全だ。もう爆発しない。,Reporting trap disarmed to team
+[CALL]TrapDisarmed_7,大丈夫だ。もう爆発しない。,Reporting trap disarmed to team
+[CALL]VeteranS_0,このドア、嫌な予感がする。,
+[CALL]VeteranS_1,きっと仕掛けられている。,
+[CALL]VeteranS_2,おそらく、かなりの配線がされている。,
+[CALL]Veteran_0,このドア、嫌な予感がする。,Specific trait that gives the rest of the team a bonus
+[CALL]Veteran_1,きっと仕掛けられている。,Specific trait that gives the rest of the team a bonus
+[CALL]Veteran_2,おそらく、かなりの配線がされている。,Specific trait that gives the rest of the team a bonus
+[CALL]WaitingS_0,指示を。,
+[CALL]WaitingS_1,あなたが上官でしょう？,
+[CALL]WaitingS_2,準備はいつでも出来ています。,
+[CALL]WaitingS_3,俺はいつでも大丈夫。,
+[CALL]WaitingS_4,指示を。,
+[CALL]WaitingS_5,さっさと終わらせよう。,
+[CALL]WaitingS_6,準備よし。,
+[CALL]WaitingS_7,準備よし。,
+[CALL]WaitingS_8,やってやろう。,
+[CALL]WaitingS_9,大丈夫か？,
+[CALL]Waiting_0,指示を。,Telling player you are ready 
+[CALL]Waiting_1,あなたが上官でしょう？,Telling player you are ready 
+[CALL]Waiting_2,準備はいつでも出来ています。,Telling player you are ready 
+[CALL]Waiting_3,俺はいつでも大丈夫。,Telling player you are ready 
+[CALL]Waiting_4,指示を。,Telling player you are ready 
+[CALL]Waiting_5,さっさと終わらせよう。,Telling player you are ready 
+[CALL]Waiting_6,準備よし。,Telling player you are ready 
+[CALL]Waiting_7,準備よし。,Telling player you are ready 
+[CALL]Waiting_8,やってやろう。,Telling player you are ready 
+[CALL]Waiting_9,大丈夫か？,Telling player you are ready 
+[CALL]WeaponDropGeneric_0,武器を捨てろ！,Ordering suspect to drop weapon
+[CALL]WeaponDropGeneric_1,武器を捨てろ！,Ordering suspect to drop weapon
+[CALL]WeaponDropGeneric_2,武器を下ろせ！,Ordering suspect to drop weapon
+[CALL]WeaponDropGeneric_3,捨てろ！,Ordering suspect to drop weapon
+[CALL]WeaponDropKnife_0,ナイフを捨てろ！,Ordering suspect to drop weapon
+[CALL]WeaponDropKnife_1,ナイフを置け！,Ordering suspect to drop weapon
+[CALL]WeaponDropKnife_2,ナイフを地面に置け！,Ordering suspect to drop weapon
+[CALL]YellAtCivilian_0,警察だ！手を上げろ！,Civilian encounter
+[CALL]YellAtCivilian_1,警察だ、両手を上げろ！,Civilian encounter
+[CALL]YellAtCivilian_10,伏せるんだ！,Civilian encounter
+[CALL]YellAtCivilian_11,伏せろ！動くな！,Civilian encounter
+[CALL]YellAtCivilian_12,LSPDだ！,Civilian encounter
+[CALL]YellAtCivilian_13,警察だ、伏せろ！,Civilian encounter
+[CALL]YellAtCivilian_14,両手を上げて、ゆっくり伏せろ！,Civilian encounter
+[CALL]YellAtCivilian_15,LSPDだ、動くな！,Civilian encounter
+[CALL]YellAtCivilian_16,警察だ、動くな！,Civilian encounter
+[CALL]YellAtCivilian_2,LSPDだ、動くな！,Civilian encounter
+[CALL]YellAtCivilian_3,今すぐ両手を上げろ！,Civilian encounter
+[CALL]YellAtCivilian_4,両手を上げろ！,Civilian encounter
+[CALL]YellAtCivilian_5,伏せて両手を上げろ！,Civilian encounter
+[CALL]YellAtCivilian_6,両手を上げろ！,Civilian encounter
+[CALL]YellAtCivilian_7,両手を上げて動くな！,Civilian encounter
+[CALL]YellAtCivilian_8,両手を見えるところに出せ！,Civilian encounter
+[CALL]YellAtCivilian_9,LSPDだ！両手を上げろ！,Civilian encounter
+[CALL]YellAtSuspect_0,両手を見せろ！,Armed suspect encounter
+[CALL]YellAtSuspect_1,LSPDだ、今すぐ伏せろ！,Armed suspect encounter
+[CALL]YellAtSuspect_10,武器を捨てろ！,Armed suspect encounter
+[CALL]YellAtSuspect_11,武器を捨てて、伏せろ！,Armed suspect encounter
+[CALL]YellAtSuspect_12,武器を捨てて、両手を上げろ！,Armed suspect encounter
+[CALL]YellAtSuspect_13,武器を下ろせ！動くな！,Armed suspect encounter
+[CALL]YellAtSuspect_14,今ならまだ間に合う！,Armed suspect encounter
+[CALL]YellAtSuspect_15,武器を床に置け！,Armed suspect encounter
+[CALL]YellAtSuspect_16,警察だ、武器を捨てろ！,Armed suspect encounter
+[CALL]YellAtSuspect_17,捨てろ！,Armed suspect encounter
+[CALL]YellAtSuspect_18,言う事を聞け！これ以上問題を起こすな！,Armed suspect encounter
+[CALL]YellAtSuspect_19,LSPDだ、伏せろ！,Armed suspect encounter
+[CALL]YellAtSuspect_2,今すぐ両手を上げろ！,Armed suspect encounter
+[CALL]YellAtSuspect_20,両手を上げろ！二度は言わない！,Armed suspect encounter
+[CALL]YellAtSuspect_21,警察だ、両手を上げろ！,Armed suspect encounter
+[CALL]YellAtSuspect_22,警察だ、動くな！,Armed suspect encounter
+[CALL]YellAtSuspect_23,武器を床に置け！,Armed suspect encounter
+[CALL]YellAtSuspect_24,今すぐ銃を捨てろ！,Armed suspect encounter
+[CALL]YellAtSuspect_25,武器を床に置け！,Armed suspect encounter
+[CALL]YellAtSuspect_26,武器をゆっくり下ろせ！,Armed suspect encounter
+[CALL]YellAtSuspect_27,警察だ、今すぐ床に伏せろ！,Armed suspect encounter
+[CALL]YellAtSuspect_28,両手を見せろ！,Armed suspect encounter
+[CALL]YellAtSuspect_29,LSPDだ、動くな！,Armed suspect encounter
+[CALL]YellAtSuspect_3,両手を上げろ！,Armed suspect encounter
+[CALL]YellAtSuspect_30,お前を撃ちたくない、武器を下ろせ！,Armed suspect encounter
+[CALL]YellAtSuspect_4,銃を落として伏せろ！,Armed suspect encounter
+[CALL]YellAtSuspect_5,今すぐ銃を捨てろ！,Armed suspect encounter
+[CALL]YellAtSuspect_6,警察だ、武器を捨てろ！,Armed suspect encounter
+[CALL]YellAtSuspect_7,今すぐ武器を捨てろ！,Armed suspect encounter
+[CALL]YellAtSuspect_8,銃を捨てろ！,Armed suspect encounter
+[CALL]YellAtSuspect_9,両手を上げろ！今すぐだ！,Armed suspect encounter
+[CALL]YellHiding_0,警察だ、出てこい！,Civilian encounter
+[CALL]YellHiding_1,今すぐそこから出てこい！,Civilian encounter
+[CALL]YellHiding_2,LSPDだ、出てこい！,Civilian encounter
+[CALL]YellHiding_3,今すぐ出てこい！,Civilian encounter
+[CALL]YellHiding_4,出てきて伏せろ！,Civilian encounter
+[CALL]YellHiding_5,両手を上げて出てこい！,Civilian encounter
+[PAGE]TOCPrefix_0,突入班から作戦本部へ...,
+[PAGE]TOCPrefix_1,リードから作戦本部へ...,
+[PAGE]TOCPrefix_2,エレメントから作戦本部へ...,
+[PAGE]TOCPrefix_3,狙撃班から作戦本部へ。,
+[PAGE]TOCPrefix_4,作戦本部...,
+[REPLY]Command_0,了解。,
+[REPLY]Command_1,了解。,
+[REPLY]Command_10,了解。,
+[REPLY]Command_2,了解。,
+[REPLY]Command_3,了解だ。,
+[REPLY]Command_4,了解。,
+[REPLY]Command_5,了解だ。,
+[REPLY]Command_6,承知。,
+[REPLY]Command_7,承知した。,
+[REPLY]Command_8,了解だ。,
+[REPLY]Command_9,了解。,
+[RESPONSE]BreachC2S_0,爆破させるぞ。,
+[RESPONSE]BreachC2S_1,爆発物を設置する。,
+[RESPONSE]BreachC2S_2,俺がやる。,
+[RESPONSE]BreachC2S_3,設置中だ。,
+[RESPONSE]BreachC2S_4,爆発物を準備する。,
+[RESPONSE]BreachC2_0,爆破させるぞ。,Response to breach with explosive order
+[RESPONSE]BreachC2_1,爆発物を設置する。,Response to breach with explosive order
+[RESPONSE]BreachC2_2,俺がやる。,Response to breach with explosive order
+[RESPONSE]BreachC2_3,設置中だ。,Response to breach with explosive order
+[RESPONSE]BreachC2_4,爆発物を準備する。,Response to breach with explosive order
+[RESPONSE]BreachKickS_0,突破準備よし。,
+[RESPONSE]BreachKickS_1,ドアを突破。,
+[RESPONSE]BreachKickS_2,突入！突入！,
+[RESPONSE]BreachKickS_3,ドアを突破。,
+[RESPONSE]BreachKickS_4,突入。,
+[RESPONSE]BreachKick_0,突破準備よし。,Response to breach with kick to door
+[RESPONSE]BreachKick_1,ドアを突破。,Response to breach with kick to door
+[RESPONSE]BreachKick_2,突入、突入。,Response to breach with kick to door
+[RESPONSE]BreachKick_3,ドアを突破。,Response to breach with kick to door
+[RESPONSE]BreachKick_4,突入！,Response to breach with kick to door
+[RESPONSE]BreachShotgunS_0,今から突入する。,
+[RESPONSE]BreachShotgunS_1,今からドアを突破する。,
+[RESPONSE]BreachShotgunS_2,ドアを突破する。,
+[RESPONSE]BreachShotgunS_3,突入。,
+[RESPONSE]BreachShotgunS_4,突破して開けるぞ。,
+[RESPONSE]BreachShotgun_0,今から突入する。,Response to breach door with shotgun
+[RESPONSE]BreachShotgun_1,今からドアを突破する。,Response to breach door with shotgun
+[RESPONSE]BreachShotgun_2,ドアを吹き飛ばす。,Response to breach door with shotgun
+[RESPONSE]BreachShotgun_3,突入！,Response to breach door with shotgun
+[RESPONSE]BreachShotgun_4,爆破させるぞ。,Response to breach door with shotgun
+[RESPONSE]Chase_0,追跡中！,Chasing target
+[RESPONSE]Chase_1,ターゲットを追跡中！,Chasing target
+[RESPONSE]Chase_2,奴らを追う！,Chasing target
+[RESPONSE]Chase_3,奴らを捕まえた！,Chasing target
+[RESPONSE]Chase_4,奴らを追いかける！,Chasing target
+[RESPONSE]CheckForTrapsS_0,オプティワンドを使う。,
+[RESPONSE]CheckForTrapsS_1,オプティワンドで確認中。,
+[RESPONSE]CheckForTrapsS_10,カメラを持ってる。,
+[RESPONSE]CheckForTrapsS_11,スネークを使う。,
+[RESPONSE]CheckForTrapsS_12,ドアカメラを持ってる。,
+[RESPONSE]CheckForTrapsS_2,ミラーガンを持ってる。,
+[RESPONSE]CheckForTrapsS_3,ミラーガンで確認する。,
+[RESPONSE]CheckForTrapsS_4,オプティワンドで確認する。,
+[RESPONSE]CheckForTrapsS_5,確認する。,
+[RESPONSE]CheckForTrapsS_6,テクを使う。,
+[RESPONSE]CheckForTrapsS_7,テックを持ってる。,
+[RESPONSE]CheckForTrapsS_8,スネークで確認中。,
+[RESPONSE]CheckForTrapsS_9,カメラで確認する。,
+[RESPONSE]CheckForTraps_0,オプティワンドを使う。,Response to check door with mirrorgun
+[RESPONSE]CheckForTraps_1,オプティワンドで確認中。,Response to check door with mirrorgun
+[RESPONSE]CheckForTraps_10,カメラを持ってる。,Response to check door with mirrorgun
+[RESPONSE]CheckForTraps_11,スネークで確認中。,Response to check door with mirrorgun
+[RESPONSE]CheckForTraps_12,ドアカメラを持ってる。,Response to check door with mirrorgun
+[RESPONSE]CheckForTraps_2,ミラーガンを持ってる。,Response to check door with mirrorgun
+[RESPONSE]CheckForTraps_3,ミラーガンで確認する。,Response to check door with mirrorgun
+[RESPONSE]CheckForTraps_4,オプティワンドで確認する。,Response to check door with mirrorgun
+[RESPONSE]CheckForTraps_5,オプティワンドで確認する。,Response to check door with mirrorgun
+[RESPONSE]CheckForTraps_6,テックで確認する。,Response to check door with mirrorgun
+[RESPONSE]CheckForTraps_7,テックを持ってる。,Response to check door with mirrorgun
+[RESPONSE]CheckForTraps_8,スネークで確認中。,Response to check door with mirrorgun
+[RESPONSE]CheckForTraps_9,カメラで確認する。,Response to check door with mirrorgun
+[RESPONSE]CloseDoorS_0,今、閉める。,
+[RESPONSE]CloseDoorS_1,了解。,
+[RESPONSE]CloseDoorS_2,閉めている。,
+[RESPONSE]CloseDoorS_3,俺が閉める。,
+[RESPONSE]CloseDoorS_4,ドアを閉める。,
+[RESPONSE]CloseDoorS_5,ドアを閉める。,
+[RESPONSE]CloseDoorS_6,俺が閉める。,
+[RESPONSE]CloseDoorS_7,俺が閉める。,
+[RESPONSE]CloseDoor_0,今、閉める。,Response to order to close a door
+[RESPONSE]CloseDoor_1,了解だ。,Response to order to close a door
+[RESPONSE]CloseDoor_2,閉めている。,Response to order to close a door
+[RESPONSE]CloseDoor_3,俺が閉める。,Response to order to close a door
+[RESPONSE]CloseDoor_4,ドアを閉める。,Response to order to close a door
+[RESPONSE]CloseDoor_5,ドアを閉める。,Response to order to close a door
+[RESPONSE]CloseDoor_6,俺が閉める。,Response to order to close a door
+[RESPONSE]CloseDoor_7,俺が閉める。,Response to order to close a door
+[RESPONSE]CommandS_0,了解。,
+[RESPONSE]CommandS_1,了解。,
+[RESPONSE]CommandS_10,了解。,
+[RESPONSE]CommandS_2,了解。,
+[RESPONSE]CommandS_3,了解だ。,
+[RESPONSE]CommandS_4,了解。,
+[RESPONSE]CommandS_5,了解だ。,
+[RESPONSE]CommandS_6,承知。,
+[RESPONSE]CommandS_7,承知した。,
+[RESPONSE]CommandS_8,了解。,
+[RESPONSE]CommandS_9,了解。,
+[RESPONSE]Command_0,了解。,
+[RESPONSE]Command_1,了解。,
+[RESPONSE]Command_10,了解。,
+[RESPONSE]Command_2,了解。,
+[RESPONSE]Command_3,了解だ。,
+[RESPONSE]Command_4,了解。,
+[RESPONSE]Command_5,了解だ。,
+[RESPONSE]Command_6,承知。,
+[RESPONSE]Command_7,承知した。,
+[RESPONSE]Command_8,了解。,
+[RESPONSE]Command_9,了解。,
+[RESPONSE]CoverS_0,特に報告なし。,
+[RESPONSE]CoverS_1,ここは接触なし。,
+[RESPONSE]CoverS_2,クリア。まだ大丈夫だ。,
+[RESPONSE]CoverS_3,ここはまだ大丈夫そうだ。,
+[RESPONSE]CoverS_4,援護する。,
+[RESPONSE]CoverS_5,大丈夫だ。,
+[RESPONSE]CoverS_6,援護する。,
+[RESPONSE]CoverS_7,全てクリア。,
+[RESPONSE]CoverS_8,クリア、接触なし。,
+[RESPONSE]Cover_0,特に報告なし。,Response to order to cover the area
+[RESPONSE]Cover_1,ここは接触なし。,Response to order to cover the area
+[RESPONSE]Cover_2,クリア。まだ大丈夫だ。,Response to order to cover the area
+[RESPONSE]Cover_3,ここはまだ大丈夫そうだ。,Response to order to cover the area
+[RESPONSE]Cover_4,援護する。,Response to order to cover the area
+[RESPONSE]Cover_5,大丈夫だ。,Response to order to cover the area
+[RESPONSE]Cover_6,援護する。,Response to order to cover the area
+[RESPONSE]Cover_7,全てクリア。,Response to order to cover the area
+[RESPONSE]Cover_8,クリア。接触なし,Response to order to cover the area
+[RESPONSE]DeployCSGasS_0,催涙ガス、放出。,
+[RESPONSE]DeployCSGasS_1,ガス、放出。,
+[RESPONSE]DeployCSGasS_2,催涙ガスが切れた。,
+[RESPONSE]DeployCSGasS_3,ガス、放出。,
+[RESPONSE]DeployCSGasS_4,ガスを使う。,
+[RESPONSE]DeployCSGasS_5,ガス、ガス、ガス。,
+[RESPONSE]DeployCSGasS_6,催涙ガス。,
+[RESPONSE]DeployCSGas_0,催涙ガス、放出。,Response to order to deploy tear gas
+[RESPONSE]DeployCSGas_1,ガスを放出。,Response to order to deploy tear gas
+[RESPONSE]DeployCSGas_2,催涙ガス、放出。,Response to order to deploy tear gas
+[RESPONSE]DeployCSGas_3,ガス、放出。,Response to order to deploy tear gas
+[RESPONSE]DeployCSGas_4,ガスを使う。,Response to order to deploy tear gas
+[RESPONSE]DeployCSGas_5,ガス、ガス、ガス！,Response to order to deploy tear gas
+[RESPONSE]DeployCSGas_6,催涙ガス！,Response to order to deploy tear gas
+[RESPONSE]DeployChemlightS_0,ケムライトが切れた。,
+[RESPONSE]DeployChemlightS_1,ケムライトを投げる。,
+[RESPONSE]DeployChemlightS_2,ライトスティックが切れた。,
+[RESPONSE]DeployChemlightS_3,ケムライト。,
+[RESPONSE]DeployChemlight_0,ケムライト、点灯。,Response to order to drop a glowstick
+[RESPONSE]DeployChemlight_1,ライト、点灯。,Response to order to drop a glowstick
+[RESPONSE]DeployChemlight_2,ライトスティック、点灯。,Response to order to drop a glowstick
+[RESPONSE]DeployChemlight_3,ケムライト。,Response to order to drop a glowstick
+[RESPONSE]DeployFlashbangS_0,閃光手榴弾が切れた。,
+[RESPONSE]DeployFlashbangS_1,閃光手榴弾、投擲。,
+[RESPONSE]DeployFlashbangS_2,閃光手榴弾を投擲中。,
+[RESPONSE]DeployFlashbangS_3,閃光手榴弾。,
+[RESPONSE]DeployFlashbangS_4,閃光手榴弾を投擲中。,
+[RESPONSE]DeployFlashbangS_5,閃光手榴弾を投擲中。,
+[RESPONSE]DeployFlashbangS_6,閃光手榴弾は使えない。,
+[RESPONSE]DeployFlashbang_0,閃光手榴弾、投擲。,Response to order to deploy flash grenade
+[RESPONSE]DeployFlashbang_1,閃光手榴弾、投擲。,Response to order to deploy flash grenade
+[RESPONSE]DeployFlashbang_2,閃光手榴弾、投擲中。,Response to order to deploy flash grenade
+[RESPONSE]DeployFlashbang_3,閃光手榴弾。,Response to order to deploy flash grenade
+[RESPONSE]DeployFlashbang_4,閃光手榴弾、投擲中。,Response to order to deploy flash grenade
+[RESPONSE]DeployFlashbang_5,閃光手榴弾、投擲。,Response to order to deploy flash grenade
+[RESPONSE]DeployFlashbang_6,閃光手榴弾を投擲する。,Response to order to deploy flash grenade
+[RESPONSE]DeployStingerS_0,スティンガーを展開！,
+[RESPONSE]DeployStingerS_1,フラググレネード、投擲。,
+[RESPONSE]DeployStingerS_2,フラググレネード、投擲。,
+[RESPONSE]DeployStingerS_3,フラググレネード。,
+[RESPONSE]DeployStinger_0,フラググレネード、投擲。,Response to order to deploy flash grenade
+[RESPONSE]DeployStinger_1,フラググレネード、投擲。,Response to order to deploy flash grenade
+[RESPONSE]DeployStinger_2,フラググレネード、投擲。,Response to order to deploy flash grenade
+[RESPONSE]DeployStinger_3,フラググレネード。,Response to order to deploy flash grenade
+[RESPONSE]DoorJamS_0,ドアウェッジ準備よし。,
+[RESPONSE]DoorJamS_1,ドアジャマー準備よし。,
+[RESPONSE]DoorJamS_2,ドアウェッジ準備よし。,
+[RESPONSE]DoorJamS_3,封鎖する。,
+[RESPONSE]DoorJamS_4,ウェッジで封鎖する。,
+[RESPONSE]DoorJamS_5,ここをウェッジで封鎖。,
+[RESPONSE]DoorJamS_6,封鎖する。,
+[RESPONSE]DoorJam_0,ドアウェッジ準備よし。,Response to order to jam a door shut
+[RESPONSE]DoorJam_1,ドアジャマー準備完了。,Response to order to jam a door shut
+[RESPONSE]DoorJam_2,ドアウェッジ準備よし。,Response to order to jam a door shut
+[RESPONSE]DoorJam_3,封鎖する。,Response to order to jam a door shut
+[RESPONSE]DoorJam_4,ウェッジで封鎖する。,Response to order to jam a door shut
+[RESPONSE]DoorJam_5,ウェッジがある。,Response to order to jam a door shut
+[RESPONSE]DoorJam_6,封鎖する。,Response to order to jam a door shut
+[RESPONSE]EngageLessLethalBeanbag_0,,
+[RESPONSE]EngageLessLethalPepper_0,ペッパースプレーを！,
+[RESPONSE]EngageLessLethalSpray_0,スプレーを！,
+[RESPONSE]EngageLessLethalTaser_0,テーザーを！,
+[RESPONSE]EngageLessLethalTaser_1,テーザー、テーザー、テーザーを！,
+[RESPONSE]EngageLessLethal_0,致命傷を避けろ！,Using less lethal force against target
+[RESPONSE]EngageLessLethal_1,致命傷を避けろ！殺すな！,Using less lethal force against target
+[RESPONSE]EngageLessLethal_2,ビーンバッグを！,Using less lethal force against target
+[RESPONSE]EngageLessLethal_3,ペッパースプレーを！,Using less lethal force against target
+[RESPONSE]EngageLessLethal_4,スプレーを！,Using less lethal force against target
+[RESPONSE]EngageLessLethal_5,テーザーを！,Using less lethal force against target
+[RESPONSE]EngageLessLethal_6,テーザー、テーザー、テーザーを！,Using less lethal force against target
+[RESPONSE]EngageLethal_0,致命傷を狙え！,Using lethal force against target
+[RESPONSE]EngageLethal_1,致命傷を狙え！構わず狙え！,Using lethal force against target
+[RESPONSE]EngageLethal_2,仕留めろ！,Using lethal force against target
+[RESPONSE]EngageLethal_3,仕留めろ！,Using lethal force against target
+[RESPONSE]EngageLethal_4,致命傷を狙う！,Using lethal force against target
+[RESPONSE]FallinS_0,俺がついてる。,
+[RESPONSE]FallinS_1,君につく。,
+[RESPONSE]FallinS_2,俺はすぐ隣だ。,
+[RESPONSE]FallinS_3,俺がついてる。,
+[RESPONSE]FallinS_4,後につく。,
+[RESPONSE]FallinS_5,先頭を任せた。,
+[RESPONSE]FallinS_6,後ろは任せろ。,
+[RESPONSE]FallinS_7,後ろは任せろ。,
+[RESPONSE]FallinS_8,背中は任せろ。,
+[RESPONSE]Fallin_0,俺がついてる。,Response to order to regroup
+[RESPONSE]Fallin_1,君につく。,Response to order to regroup
+[RESPONSE]Fallin_2,俺はすぐ隣だ。,Response to order to regroup
+[RESPONSE]Fallin_3,俺がついてる。,Response to order to regroup
+[RESPONSE]Fallin_4,後につく。,Response to order to regroup
+[RESPONSE]Fallin_5,先頭を任せた。,Response to order to regroup
+[RESPONSE]Fallin_6,後ろは任せろ。,Response to order to regroup
+[RESPONSE]Fallin_7,後ろは任せろ。,Response to order to regroup
+[RESPONSE]Fallin_8,背中は任せろ。,Response to order to regroup
+[RESPONSE]FocusS_0,ターゲットを追跡中。,
+[RESPONSE]FocusS_1,目を光らせている。,
+[RESPONSE]FocusS_2,追跡中。,
+[RESPONSE]Focus_0,ターゲットを追跡中。,Tracking target visually
+[RESPONSE]Focus_1,目を光らせている。,Tracking target visually
+[RESPONSE]Focus_2,追跡中。,Tracking target visually
+[RESPONSE]FollowingCommandS_0,,
+[RESPONSE]FollowingCommandS_1,了解した。,
+[RESPONSE]FollowingCommandS_2,了解した。,
+[RESPONSE]FollowingCommandS_3,取り掛かる。,
+[RESPONSE]FollowingCommand_0,了解。,Acknowledgement
+[RESPONSE]FollowingCommand_1,承知した。,Acknowledgement
+[RESPONSE]FollowingCommand_2,了解した。,Acknowledgement
+[RESPONSE]FollowingCommand_3,了解した。,Acknowledgement
+[RESPONSE]ForgetS_0,了解、撤退する。,
+[RESPONSE]ForgetS_1,了解。撤退する。,
+[RESPONSE]ForgetS_2,撤退する。,
+[RESPONSE]ForgetS_3,撤退する。,
+[RESPONSE]Forget_0,了解、撤退する。,Acknowledgement
+[RESPONSE]Forget_1,了解、撤退する。,Acknowledgement
+[RESPONSE]Forget_2,撤退する。,Acknowledgement
+[RESPONSE]Forget_3,撤退する。,Acknowledgement
+[RESPONSE]HoldS_0,保持中。,
+[RESPONSE]HoldS_1,待機中。,
+[RESPONSE]HoldS_2,待機中。,
+[RESPONSE]HoldS_3,準備はいつでも出来ている。,
+[RESPONSE]Hold_0,保持中。,Acknowledgement
+[RESPONSE]Hold_1,待機中。 ,Acknowledgement
+[RESPONSE]Hold_2,待機中。,Acknowledgement
+[RESPONSE]Hold_3,準備はいつでも出来ている。,Acknowledgement
+[RESPONSE]MirrorgunS_0,オプティワンドを持っている。,
+[RESPONSE]MirrorgunS_1,ミラーガン準備よし。,
+[RESPONSE]MirrorgunS_2,オプティワンド準備よし。,
+[RESPONSE]MirrorgunS_3,オプティワンド準備よし。,
+[RESPONSE]MirrorgunS_4,ミラーガン準備よし。,
+[RESPONSE]MirrorgunS_5,オプティワンド準備よし。,
+[RESPONSE]MirrorgunS_6,オプティワンドを持っている。,
+[RESPONSE]MirrorgunS_7,ミラーガンを持っている。,
+[RESPONSE]Mirrorgun_0,オプティワンドを持っている。,Gear check
+[RESPONSE]Mirrorgun_1,ミラーガン準備よし。,Gear check
+[RESPONSE]Mirrorgun_2,オプティワンド準備よし。,Gear check
+[RESPONSE]Mirrorgun_3,オプティワンド準備よし。,Gear check
+[RESPONSE]Mirrorgun_4,ミラーガン準備よし。,Gear check
+[RESPONSE]Mirrorgun_5,オプティワンド準備よし。,Gear check
+[RESPONSE]Mirrorgun_6,オプティワンドを持っている。,Gear check
+[RESPONSE]Mirrorgun_7,ミラーガンを持っている。,Gear check
+[RESPONSE]MoveToS_0,移動中。,
+[RESPONSE]MoveToS_1,移動中。,
+[RESPONSE]MoveToS_2,移動中。,
+[RESPONSE]MoveToS_3,移動中。,
+[RESPONSE]MoveToS_4,今行く。,
+[RESPONSE]MoveToS_5,今行く。,
+[RESPONSE]MoveToS_6,今行く。,
+[RESPONSE]MoveToS_7,今向かう。,
+[RESPONSE]MoveToS_8,移動中。,
+[RESPONSE]MoveTo_0,移動中。,Response to order to move to location
+[RESPONSE]MoveTo_1,移動中。,Response to order to move to location
+[RESPONSE]MoveTo_2,移動中。,Response to order to move to location
+[RESPONSE]MoveTo_3,移動中。,Response to order to move to location
+[RESPONSE]MoveTo_4,今行く。,Response to order to move to location
+[RESPONSE]MoveTo_5,今行く。,Response to order to move to location
+[RESPONSE]MoveTo_6,今行く。,Response to order to move to location
+[RESPONSE]MoveTo_7,今向かう。,Response to order to move to location
+[RESPONSE]MoveTo_8,移動中。,Response to order to move to location
+[RESPONSE]NegativeGenericS_0,それは無理だ。,
+[RESPONSE]NegativeGenericS_1,それは無理だ。,
+[RESPONSE]NegativeGenericS_2,それは無理だ。,
+[RESPONSE]NegativeGenericS_3,それは無理だ。,
+[RESPONSE]NegativeGenericS_4,無理だ。,
+[RESPONSE]NegativeGenericS_5,それは無理だ。,
+[RESPONSE]NegativeGenericS_6,無理だ。,
+[RESPONSE]NegativeGenericS_7,無理だ。,
+[RESPONSE]NegativeGenericS_8,それは無理だ。,
+[RESPONSE]NegativeGenericS_9,それは無理だ。,
+[RESPONSE]NegativeGeneric_0,無理だ。,Generic negative response
+[RESPONSE]NegativeGeneric_1,それは無理だ。,Generic negative response
+[RESPONSE]NegativeGeneric_2,それは無理だ。,Generic negative response
+[RESPONSE]NegativeGeneric_3,それは無理だ。,Generic negative response
+[RESPONSE]NegativeGeneric_4,無理だ。,Generic negative response
+[RESPONSE]NegativeGeneric_5,それは無理だ。,Generic negative response
+[RESPONSE]NegativeGeneric_6,無理だ。,Generic negative response
+[RESPONSE]NegativeGeneric_7,無理だ。,Generic negative response
+[RESPONSE]NegativeGeneric_8,それは無理だ。,Generic negative response
+[RESPONSE]NegativeGeneric_9,それは無理だ。,Generic negative response
+[RESPONSE]NegativeNoC2S_0,吹き飛ばすのは無理だ。,
+[RESPONSE]NegativeNoC2S_1,爆発物がもうない。,
+[RESPONSE]NegativeNoC2S_2,爆薬がない。,
+[RESPONSE]NegativeNoC2S_3,爆発物が切れた。,
+[RESPONSE]NegativeNoC2S_4,C2がない。,
+[RESPONSE]NegativeNoC2S_5,爆発物がない。,
+[RESPONSE]NegativeNoC2S_6,爆薬がない。,
+[RESPONSE]NegativeNoC2_0,吹き飛ばすのは無理だ。,Negative response to explosive use
+[RESPONSE]NegativeNoC2_1,爆発物がない。,Negative response to explosive use
+[RESPONSE]NegativeNoC2_2,爆薬がない。,Negative response to explosive use
+[RESPONSE]NegativeNoC2_3,爆発物が切れた。,Negative response to explosive use
+[RESPONSE]NegativeNoC2_4,C2がない。,Negative response to explosive use
+[RESPONSE]NegativeNoC2_5,爆発物がない。,Negative response to explosive use
+[RESPONSE]NegativeNoC2_6,爆薬がない。,Negative response to explosive use
+[RESPONSE]NegativeNoCSGasS_0,ガス切れだ。,
+[RESPONSE]NegativeNoCSGasS_1,ガスがない。,
+[RESPONSE]NegativeNoCSGasS_2,缶がない。,
+[RESPONSE]NegativeNoCSGasS_3,ガスがない。,
+[RESPONSE]NegativeNoCSGasS_4,ガスは使えない。,
+[RESPONSE]NegativeNoCSGasS_5,催涙ガスがない。,
+[RESPONSE]NegativeNoCSGasS_6,催涙ガスが切れた。,
+[RESPONSE]NegativeNoCSGas_0,ガスがない。,Negative response to gas use
+[RESPONSE]NegativeNoCSGas_1,ガスがない。,Negative response to gas use
+[RESPONSE]NegativeNoCSGas_2,缶がない。,Negative response to gas use
+[RESPONSE]NegativeNoCSGas_3,ガスがない。,Negative response to gas use
+[RESPONSE]NegativeNoCSGas_4,催涙ガスは使えない。,Negative response to gas use
+[RESPONSE]NegativeNoCSGas_5,催涙ガスがない。,Negative response to gas use
+[RESPONSE]NegativeNoCSGas_6,催涙ガス切れだ。,Negative response to gas use
+[RESPONSE]NegativeNoChemlightS_0,ライトが切れた。,
+[RESPONSE]NegativeNoChemlightS_1,スティックがない。,
+[RESPONSE]NegativeNoChemlightS_2,ライトがない。,
+[RESPONSE]NegativeNoChemlightS_3,ケムライトが切れた。,
+[RESPONSE]NegativeNoChemlightS_4,ライトスティックが切れた。,
+[RESPONSE]NegativeNoChemlightS_5,ケムライトが切れた。,
+[RESPONSE]NegativeNoChemlight_0,ライトが切れた。,Negative response to glowstick use
+[RESPONSE]NegativeNoChemlight_1,スティックがない。,Negative response to glowstick use
+[RESPONSE]NegativeNoChemlight_2,ライトがない。,Negative response to glowstick use
+[RESPONSE]NegativeNoChemlight_3,ケムライトが切れた。,Negative response to glowstick use
+[RESPONSE]NegativeNoChemlight_4,ライトスティックが切れた。,Negative response to glowstick use
+[RESPONSE]NegativeNoChemlight_5,ケムライトが切れた。,Negative response to glowstick use
+[RESPONSE]NegativeNoDoorJamS_0,無理だ。ウェッジが切れた。,
+[RESPONSE]NegativeNoDoorJamS_1,ドアジャマーがない。,
+[RESPONSE]NegativeNoDoorJamS_2,ジャムが使えない。,
+[RESPONSE]NegativeNoDoorJamS_3,ウェッジは使えない。,
+[RESPONSE]NegativeNoDoorJam_0,無理だ。ウェッジが切れた。,Negative response to door jam use
+[RESPONSE]NegativeNoDoorJam_1,ドアジャマーがない。,Negative response to door jam use
+[RESPONSE]NegativeNoDoorJam_2,ジャマーは使えない。,Negative response to door jam use
+[RESPONSE]NegativeNoDoorJam_3,ウェッジは使えない。,Negative response to door jam use
+[RESPONSE]NegativeNoFlashbangS_0,閃光手榴弾が切れた。,
+[RESPONSE]NegativeNoFlashbangS_1,閃光手榴弾が切れた。,
+[RESPONSE]NegativeNoFlashbangS_2,ジャムが使えない。,
+[RESPONSE]NegativeNoFlashbangS_3,閃光手榴弾は使えない。,
+[RESPONSE]NegativeNoFlashbangS_4,使える閃光手榴弾がない。,
+[RESPONSE]NegativeNoFlashbangS_5,,
+[RESPONSE]NegativeNoFlashbang_0,閃光手榴弾が切れた。,Negative response to flash grenade use
+[RESPONSE]NegativeNoFlashbang_1,閃光手榴弾が切れた。,Negative response to flash grenade use
+[RESPONSE]NegativeNoFlashbang_2,閃光手榴弾は使えない。,Negative response to flash grenade use
+[RESPONSE]NegativeNoFlashbang_3,閃光手榴弾は使えない。,Negative response to flash grenade use
+[RESPONSE]NegativeNoFlashbang_4,使える閃光手榴弾がない。,Negative response to flash grenade use
+[RESPONSE]NegativeNoFlashbang_5,もう残ってない。,Negative response to flash grenade use
+[RESPONSE]NegativeNoMirrorgunS_0,オプティワンドがない。,
+[RESPONSE]NegativeNoMirrorgunS_1,オプティワンドを持って来なかった。,
+[RESPONSE]NegativeNoMirrorgunS_2,オプティワンドは使えない。,
+[RESPONSE]NegativeNoMirrorgunS_3,ミラーガンは使えない。,
+[RESPONSE]NegativeNoMirrorgunS_4,使えない。,
+[RESPONSE]NegativeNoMirrorgunS_5,持ってない。,
+[RESPONSE]NegativeNoMirrorgunS_6,ミラーガンがない。,
+[RESPONSE]NegativeNoMirrorgun_0,オプティワンドがない。,Negative response to mirrorgun use
+[RESPONSE]NegativeNoMirrorgun_1,オプティワンドを持って来なかった。,Negative response to mirrorgun use
+[RESPONSE]NegativeNoMirrorgun_2,オプティワンドは使えない。,Negative response to mirrorgun use
+[RESPONSE]NegativeNoMirrorgun_3,ミラーガンは使えない。,Negative response to mirrorgun use
+[RESPONSE]NegativeNoMirrorgun_4,使えない。,Negative response to mirrorgun use
+[RESPONSE]NegativeNoMirrorgun_5,持ってない。,Negative response to mirrorgun use
+[RESPONSE]NegativeNoMirrorgun_6,ミラーガンがない。,Negative response to mirrorgun use
+[RESPONSE]NegativeNoShotgunS_0,弾切れだ。,
+[RESPONSE]NegativeNoShotgunS_1,撃てない。,
+[RESPONSE]NegativeNoShotgunS_2,ブリーチング弾が切れた。,
+[RESPONSE]NegativeNoShotgunS_3,行く道がない。,
+[RESPONSE]NegativeNoShotgunS_4,突破できない。弾切れだ。,
+[RESPONSE]NegativeNoShotgunS_5,ショットガンは使えない。,
+[RESPONSE]NegativeNoShotgun_0,弾切れだ。,Negative response to shotgun use
+[RESPONSE]NegativeNoShotgun_1,撃てない！,Negative response to shotgun use
+[RESPONSE]NegativeNoShotgun_2,ブリーチング弾が切れた。,Negative response to shotgun use
+[RESPONSE]NegativeNoShotgun_3,弾がない。,Negative response to shotgun use
+[RESPONSE]NegativeNoShotgun_4,突破できない。弾切れだ。,Negative response to shotgun use
+[RESPONSE]NegativeNoShotgun_5,ショットガンは使えない。,Negative response to shotgun use
+[RESPONSE]NegativeNoStingerS_0,フラググレネードがない！,
+[RESPONSE]NegativeNoStingerS_1,フラググレネードがもうない！,
+[RESPONSE]NegativeNoStingerS_2,フラググレネードが切れた。,
+[RESPONSE]NegativeNoStingerS_3,スティンガーがない。,
+[RESPONSE]NegativeNoStingerS_4,ショットガンは使えない。,
+[RESPONSE]NegativeNoStinger_0,フラググレネードがない。,Negative response to stinger grenade use
+[RESPONSE]NegativeNoStinger_1,フラググレネードがもうない。,Negative response to stinger grenade use
+[RESPONSE]NegativeNoStinger_2,フラググレネードが切れた。,Negative response to stinger grenade use
+[RESPONSE]NegativeNoStinger_3,フラググレネードがない。,Negative response to stinger grenade use
+[RESPONSE]NegativeNoStinger_4,フラググレネードは使えない。,Negative response to stinger grenade use
+[RESPONSE]NegativePositionS_0,そこには行けない。,
+[RESPONSE]NegativePositionS_1,そこに行くのは無理だ。,
+[RESPONSE]NegativePositionS_2,そこに行く手段がない。,
+[RESPONSE]NegativePositionS_3,そこには行けない。,
+[RESPONSE]NegativePositionS_4,そこに行く道がない。,
+[RESPONSE]NegativePositionS_5,そこには行けない。,
+[RESPONSE]NegativePositionS_6,そこには行けない。,
+[RESPONSE]NegativePosition_0,そこには行けない。,Negative response to relocate
+[RESPONSE]NegativePosition_1,そこに行くのは無理だ。,Negative response to relocate
+[RESPONSE]NegativePosition_2,そこに行く手段がない。,Negative response to relocate
+[RESPONSE]NegativePosition_3,そこには行けない。,Negative response to relocate
+[RESPONSE]NegativePosition_4,そこに行く道がない。,Negative response to relocate
+[RESPONSE]NegativePosition_5,そこには行けない。,Negative response to relocate
+[RESPONSE]NegativePosition_6,そこには行けない。,Negative response to relocate
+[RESPONSE]OpenClearS_0,準備よし。,
+[RESPONSE]OpenClearS_1,中に入るぞ。,
+[RESPONSE]OpenClearS_2,やるぞ。,
+[RESPONSE]OpenClearS_3,行こう。,
+[RESPONSE]OpenClearS_4,準備はできている。,
+[RESPONSE]OpenClearS_5,配置につく。,
+[RESPONSE]OpenClearS_6,準備しろ。,
+[RESPONSE]OpenClearS_7,クリアリング。,
+[RESPONSE]OpenClearS_8,行こう。,
+[RESPONSE]OpenClear_0,準備よし。,Response to order to move in and clear area
+[RESPONSE]OpenClear_1,中に入る。,Response to order to move in and clear area
+[RESPONSE]OpenClear_2,やるぞ。,Response to order to move in and clear area
+[RESPONSE]OpenClear_3,行こう。,Response to order to move in and clear area
+[RESPONSE]OpenClear_4,準備できている。,Response to order to move in and clear area
+[RESPONSE]OpenClear_5,配置につく。,Response to order to move in and clear area
+[RESPONSE]OpenClear_6,準備しろ。,Response to order to move in and clear area
+[RESPONSE]OpenClear_7,クリアリング。,Response to order to move in and clear area
+[RESPONSE]OpenClear_8,行こう。,Response to order to move in and clear area
+[RESPONSE]PickLockS_0,マルチツールを使う。,
+[RESPONSE]PickLockS_1,解錠する。,
+[RESPONSE]PickLockS_2,解錠する。,
+[RESPONSE]PickLockS_3,鍵を開ける。,
+[RESPONSE]PickLockS_4,ロックピックを使う。,
+[RESPONSE]PickLockS_5,マルチツール、準備よし。,
+[RESPONSE]PickLockS_6,解錠する。,
+[RESPONSE]PickLock_0,マルチツールを使う。,Response to order to pick a lock
+[RESPONSE]PickLock_1,解錠する。,Response to order to pick a lock
+[RESPONSE]PickLock_2,解錠する。,Response to order to pick a lock
+[RESPONSE]PickLock_3,鍵を開ける。,Response to order to pick a lock
+[RESPONSE]PickLock_4,ロックピックを持ってる。,Response to order to pick a lock
+[RESPONSE]PickLock_5,マルチツール、準備よし。,Response to order to pick a lock
+[RESPONSE]PickLock_6,解錠する。,Response to order to pick a lock
+[RESPONSE]RogerGenericS_0,了解。,
+[RESPONSE]RogerGenericS_1,了解。,
+[RESPONSE]RogerGenericS_10,わかった。,
+[RESPONSE]RogerGenericS_11,実行中。,
+[RESPONSE]RogerGenericS_12,了解。,
+[RESPONSE]RogerGenericS_13,わかった。,
+[RESPONSE]RogerGenericS_2,了解。,
+[RESPONSE]RogerGenericS_3,了解。,
+[RESPONSE]RogerGenericS_4,了解。,
+[RESPONSE]RogerGenericS_5,問題ない。,
+[RESPONSE]RogerGenericS_6,承知。,
+[RESPONSE]RogerGenericS_7,取り掛かる。,
+[RESPONSE]RogerGenericS_8,実行中。,
+[RESPONSE]RogerGenericS_9,実行中。,
+[RESPONSE]RogerGeneric_0,了解。,Generic acknowledgement
+[RESPONSE]RogerGeneric_1,了解。,Generic acknowledgement
+[RESPONSE]RogerGeneric_10,わかった。,Generic acknowledgement
+[RESPONSE]RogerGeneric_11,了解。,Generic acknowledgement
+[RESPONSE]RogerGeneric_12,了解。,Generic acknowledgement
+[RESPONSE]RogerGeneric_13,わかった。,Generic acknowledgement
+[RESPONSE]RogerGeneric_2,了解。,Generic acknowledgement
+[RESPONSE]RogerGeneric_3,承知。,Generic acknowledgement
+[RESPONSE]RogerGeneric_4,了解だ。,Generic acknowledgement
+[RESPONSE]RogerGeneric_5,問題ない。,Generic acknowledgement
+[RESPONSE]RogerGeneric_6,承知。,Generic acknowledgement
+[RESPONSE]RogerGeneric_7,了解した。,Generic acknowledgement
+[RESPONSE]RogerGeneric_8,了解。,Generic acknowledgement
+[RESPONSE]RogerGeneric_9,実行中。,Generic acknowledgement
+[RESPONSE]StackUpS_0,配置についた,
+[RESPONSE]StackUpS_1,準備はいいか？,
+[RESPONSE]StackUpS_2,準備よし。,
+[RESPONSE]StackUpS_3,進むぞ。,
+[RESPONSE]StackUpS_4,配置につく。,
+[RESPONSE]StackUpS_5,スタッキング。,
+[RESPONSE]StackUpS_6,配置に移動する。,
+[RESPONSE]StackUpS_7,配置につく。,
+[RESPONSE]StackUp_0,配置についている。,Response to move into position
+[RESPONSE]StackUp_1,準備よし。,Response to move into position
+[RESPONSE]StackUp_2,準備よし。,Response to move into position
+[RESPONSE]StackUp_3,進むぞ。,Response to move into position
+[RESPONSE]StackUp_4,配置につく。,Response to move into position
+[RESPONSE]StackUp_5,スタッキング。,Response to move into position
+[RESPONSE]StackUp_6,配置に移動する。,Response to move into position
+[RESPONSE]StackUp_7,配置につく。,Response to move into position
+[TELL]Swap_0,俺と交代だ。,Telling another swat AI to swap with them
+[TELL]Swap_1,交代。,Telling another swat AI to swap with them
+[TELL]Swap_2,俺と替わるんだ。,Telling another swat AI to swap with them
+[TELL]Swap_3,替わろう。,Telling another swat AI to swap with them
