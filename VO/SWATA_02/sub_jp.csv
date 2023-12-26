@@ -1,24 +1,24 @@
 ﻿Key,Dialogue,Context
 [CALL]ArrestingCivilianComplete_0,民間人の移送準備よし。,
-[CALL]ArrestingCivilianComplete_1,民間人に手錠をかけ、準備よし。,
+[CALL]ArrestingCivilianComplete_1,民間人に手錠をかけた、準備よし。,
 [CALL]ArrestingCivilianComplete_2,後続班の準備よし。,
 [CALL]ArrestingCivilianComplete_3,救護の準備よし。,
 [CALL]ArrestingCivilianComplete_4,民間人の準備よし。,
 [CALL]ArrestingCivilianComplete_5,準備よし。,
 [CALL]ArrestingCivilianComplete_6,手錠をかけた！,
-[CALL]ArrestingCivilianComplete_7,手錠をかけ、準備よし。,
+[CALL]ArrestingCivilianComplete_7,手錠をかけた、準備よし。,
 [CALL]ArrestingCivilianMove_0,身柄を確保する！,
-[CALL]ArrestingCivilianMove_1,今、手錠をかける。,
-[CALL]ArrestingCivilianMove_2,今、準備する。,
+[CALL]ArrestingCivilianMove_1,手錠をかける。,
+[CALL]ArrestingCivilianMove_2,準備する。,
 [CALL]ArrestingCivilian_0,身柄を確保する。,While handcuffing someone - Civilian
-[CALL]ArrestingCivilian_1,今、手錠をかける。,While handcuffing someone - Civilian
+[CALL]ArrestingCivilian_1,手錠をかける。,While handcuffing someone - Civilian
 [CALL]ArrestingCivilian_10,民間人の準備よし。,While handcuffing someone - Civilian
 [CALL]ArrestingCivilian_11,準備よし。,While handcuffing someone - Civilian
 [CALL]ArrestingCivilian_12,手錠をかけた。,While handcuffing someone - Civilian
-[CALL]ArrestingCivilian_13,手錠をかけ、準備よし。,While handcuffing someone - Civilian
-[CALL]ArrestingCivilian_2,今、準備する。,While handcuffing someone - Civilian
+[CALL]ArrestingCivilian_13,手錠をかけた、準備よし。,While handcuffing someone - Civilian
+[CALL]ArrestingCivilian_2,準備する。,While handcuffing someone - Civilian
 [CALL]ArrestingCivilian_3,民間人の移送準備よし。,While handcuffing someone - Civilian
-[CALL]ArrestingCivilian_4,民間人に手錠をかけ、準備よし。,While handcuffing someone - Civilian
+[CALL]ArrestingCivilian_4,民間人に手錠をかけた、準備よし。,While handcuffing someone - Civilian
 [CALL]ArrestingCivilian_5,すまんな、リスクはとれないんだ。,While handcuffing someone - Civilian
 [CALL]ArrestingCivilian_6,大丈夫だ。,While handcuffing someone - Civilian
 [CALL]ArrestingCivilian_7,警察だ、とりあえず落ち着け。,While handcuffing someone - Civilian
@@ -27,7 +27,7 @@
 [CALL]ArrestingSuspectComplete_0,容疑者の移送準備よし。,
 [CALL]ArrestingSuspectComplete_1,やつらを全員、拘束した。,
 [CALL]ArrestingSuspectComplete_2,拘束して準備よし。,
-[CALL]ArrestingSuspectComplete_3,容疑者に手錠をかけ、身柄確保。,
+[CALL]ArrestingSuspectComplete_3,容疑者に手錠をかけた、身柄確保。,
 [CALL]ArrestingSuspectComplete_4,仕留めた！,
 [CALL]ArrestingSuspectComplete_5,移送準備よし。,
 [CALL]ArrestingSuspectComplete_6,すべて完了した。,
@@ -49,7 +49,7 @@
 [CALL]ArrestingSuspect_18,これでお前も犯罪者の仲間入りだ。,While handcuffing someone - Suspect
 [CALL]ArrestingSuspect_2,拘束して準備よし。,While handcuffing someone - Suspect
 [CALL]ArrestingSuspect_3,やつらを確保。,While handcuffing someone - Suspect
-[CALL]ArrestingSuspect_4,容疑者に手錠をかけ、身柄確保。,While handcuffing someone - Suspect
+[CALL]ArrestingSuspect_4,容疑者に手錠をかけた、身柄確保。,While handcuffing someone - Suspect
 [CALL]ArrestingSuspect_5,拘束中。,While handcuffing someone - Suspect
 [CALL]ArrestingSuspect_6,手錠をかける。,While handcuffing someone - Suspect
 [CALL]ArrestingSuspect_7,腕を動かすな、そっちを向け。,While handcuffing someone - Suspect
@@ -352,10 +352,10 @@
 [CALL]FriendlyFire_0,気をつけろ！,Shot at by friendly
 [CALL]FriendlyFire_1,撃つな！撃つな！,Shot at by friendly
 [CALL]FriendlyFire_10,イカれたのか？！,Shot at by friendly
-[CALL]FriendlyFire_11,ブルーチームだ！,Shot at by friendly
-[CALL]FriendlyFire_12,ブルーだ！ブルーチームだ！,Shot at by friendly
+[CALL]FriendlyFire_11,味方だ！,Shot at by friendly
+[CALL]FriendlyFire_12,ブルーだ！味方だ！,Shot at by friendly
 [CALL]FriendlyFire_2,撃つな！,Shot at by friendly
-[CALL]FriendlyFire_3,撤退せよ！,Shot at by friendly
+[CALL]FriendlyFire_3,下がれ！,Shot at by friendly
 [CALL]FriendlyFire_4,撃つな！気をつけろ！,Shot at by friendly
 [CALL]FriendlyFire_5,撃つな！ちゃんと確認しろ！,Shot at by friendly
 [CALL]FriendlyFire_6,味方だ！,Shot at by friendly
@@ -557,10 +557,10 @@
 [CALL]ReportDeadSWAT_0,仲間がやられた！,Reporting dead friendly after firefight
 [CALL]ReportDeadSWAT_1,くそっ！仲間がやられた。,Reporting dead friendly after firefight
 [CALL]ReportDeadSWAT_2,くそ、仲間がやられた。,Reporting dead friendly after firefight
-[CALL]ReportDeadSWAT_3,仲間がやられた、戦術的緊急医療サービスが必要だ！,Reporting dead friendly after firefight
+[CALL]ReportDeadSWAT_3,仲間がやられた、EMTが必要だ！,Reporting dead friendly after firefight
 [CALL]ReportDeadSWAT_4,仲間がやられた、救護が必要だ！,Reporting dead friendly after firefight
-[CALL]ReportDeadSWAT_5,仲間が1人やられた、戦術的緊急医療サービスが今すぐ必要だ！,Reporting dead friendly after firefight
-[CALL]ReportDeadSWAT_6,仲間が1人やられた。戦術的緊急医療サービスを要請する！,Reporting dead friendly after firefight
+[CALL]ReportDeadSWAT_5,仲間が1人やられた、EMTが今すぐ必要だ！,Reporting dead friendly after firefight
+[CALL]ReportDeadSWAT_6,仲間が1人やられた。EMTを要請する！,Reporting dead friendly after firefight
 [CALL]ReportDeadSWAT_7,仲間がやられた。救護が必要だ！,Reporting dead friendly after firefight
 [CALL]ReportDeadSuspect_0,接触相手がやられた。,Finding a dead suspect on the ground
 [CALL]ReportDeadSuspect_1,容疑者を仕留めた。,Finding a dead suspect on the ground
@@ -574,28 +574,28 @@
 [CALL]ReportDeadSuspect_8,仕留めた。,Finding a dead suspect on the ground
 [CALL]ReportDeadSuspect_9,1人を仕留めた。,Finding a dead suspect on the ground
 [CALL]ReportIncapacitatedCivilian_0,民間人が1人やられた。呼吸はある。,Reporting a wounded civilian
-[CALL]ReportIncapacitatedCivilian_1,民間人が1人やられた。戦術的緊急医療サービスを今すぐ頼む。,Reporting a wounded civilian
+[CALL]ReportIncapacitatedCivilian_1,民間人が1人やられた。EMTを今すぐ頼む。,Reporting a wounded civilian
 [CALL]ReportIncapacitatedCivilian_2,民間人が意識不明だ。,Reporting a wounded civilian
 [CALL]ReportIncapacitatedCivilian_3,民間人が治療を必要としている。,Reporting a wounded civilian
 [CALL]ReportIncapacitatedCivilian_4,民間人1人が治療を必要としている。,Reporting a wounded civilian
-[CALL]ReportIncapacitatedCivilian_5,民間人が1人やられた。戦術的緊急医療サービスが至急必要だ。,Reporting a wounded civilian
+[CALL]ReportIncapacitatedCivilian_5,民間人が1人やられた。EMTが至急必要だ。,Reporting a wounded civilian
 [CALL]ReportIncapacitatedCivilian_6,民間人がやられた、救護が必要だ。,Reporting a wounded civilian
 [CALL]ReportIncapacitatedSWAT_0,仲間がやられた。呼吸はある。,
 [CALL]ReportIncapacitatedSWAT_1,仲間がやられた。治療が必要だ。,
 [CALL]ReportIncapacitatedSWAT_2,民間人がやられた。救護が必要だ。,
 [CALL]ReportIncapacitatedSWAT_3,仲間がやられた！今すぐ救護が必要だ！,
-[CALL]ReportIncapacitatedSWAT_4,仲間がやられた、戦術的緊急医療サービスを送れ！,
-[CALL]ReportIncapacitatedSuspect_0,容疑者を1人仕留めた。戦術的緊急医療サービスが至急必要だ！,Reporting a suspect that you wounded
-[CALL]ReportIncapacitatedSuspect_1,容疑者を仕留めた。戦術的緊急医療サービスを要請する。,Reporting a suspect that you wounded
+[CALL]ReportIncapacitatedSWAT_4,仲間がやられた、EMTを送れ！,
+[CALL]ReportIncapacitatedSuspect_0,容疑者を1人仕留めた。EMTが至急必要だ！,Reporting a suspect that you wounded
+[CALL]ReportIncapacitatedSuspect_1,容疑者を仕留めた。EMTを要請する。,Reporting a suspect that you wounded
 [CALL]ReportIncapacitatedSuspect_10,仲間がやられた！治療が必要だ！,Reporting a wounded SWAT officer
 [CALL]ReportIncapacitatedSuspect_11,仲間がやられた！救護が必要だ！,Reporting a wounded SWAT officer
 [CALL]ReportIncapacitatedSuspect_12,仲間がやられた！今すぐ救護が必要だ！,Reporting a wounded SWAT officer
-[CALL]ReportIncapacitatedSuspect_13,仲間がやられた！戦術的緊急医療サービスを頼む！,Reporting a wounded SWAT officer
+[CALL]ReportIncapacitatedSuspect_13,仲間がやられた！EMTを頼む！,Reporting a wounded SWAT officer
 [CALL]ReportIncapacitatedSuspect_2,容疑者を仕留めたが、呼吸はある。,Reporting a suspect that you wounded
 [CALL]ReportIncapacitatedSuspect_3,容疑者が意識不明だ。,Reporting a suspect that you wounded
 [CALL]ReportIncapacitatedSuspect_4,容疑者を1人仕留めた。呼吸はある。,Reporting a suspect that you wounded
 [CALL]ReportIncapacitatedSuspect_5,容疑者1人が治療を必要としている。,Reporting a suspect that you wounded
-[CALL]ReportIncapacitatedSuspect_6,容疑者を仕留めた。戦術的緊急医療サービスが必要だ。,Reporting a suspect that you wounded
+[CALL]ReportIncapacitatedSuspect_6,容疑者を仕留めた。EMTが必要だ。,Reporting a suspect that you wounded
 [CALL]ReportIncapacitatedSuspect_7,容疑者を仕留めた。治療が必要だ。,Reporting a suspect that you wounded
 [CALL]ReportIncapacitatedSuspect_8,容疑者を仕留めた。負傷している。,Reporting a suspect that you wounded
 [CALL]ReportIncapacitatedSuspect_9,仲間がやられた！呼吸はある！,Reporting a wounded SWAT officer
@@ -984,7 +984,7 @@
 [RESPONSE]CheckForTrapsS_3,ミラーガンで確認する。,
 [RESPONSE]CheckForTrapsS_4,オプティワンドで確認する。,
 [RESPONSE]CheckForTrapsS_5,確認する。,
-[RESPONSE]CheckForTrapsS_6,テクを使う。,
+[RESPONSE]CheckForTrapsS_6,テックを使う。,
 [RESPONSE]CheckForTrapsS_7,テックを持ってる。,
 [RESPONSE]CheckForTrapsS_8,スネークで確認中。,
 [RESPONSE]CheckForTrapsS_9,カメラで確認する。,
@@ -1001,7 +1001,7 @@
 [RESPONSE]CheckForTraps_7,テックを持ってる。,Response to check door with mirrorgun
 [RESPONSE]CheckForTraps_8,スネークで確認中。,Response to check door with mirrorgun
 [RESPONSE]CheckForTraps_9,カメラで確認する。,Response to check door with mirrorgun
-[RESPONSE]CloseDoorS_0,今、閉める。,
+[RESPONSE]CloseDoorS_0,閉める。,
 [RESPONSE]CloseDoorS_1,了解。,
 [RESPONSE]CloseDoorS_2,閉めている。,
 [RESPONSE]CloseDoorS_3,俺が閉める。,
@@ -1009,7 +1009,7 @@
 [RESPONSE]CloseDoorS_5,ドアを閉める。,
 [RESPONSE]CloseDoorS_6,俺が閉める。,
 [RESPONSE]CloseDoorS_7,俺が閉める。,
-[RESPONSE]CloseDoor_0,今、閉める。,Response to order to close a door
+[RESPONSE]CloseDoor_0,閉める。,Response to order to close a door
 [RESPONSE]CloseDoor_1,了解だ。,Response to order to close a door
 [RESPONSE]CloseDoor_2,閉めている。,Response to order to close a door
 [RESPONSE]CloseDoor_3,俺が閉める。,Response to order to close a door
@@ -1079,20 +1079,20 @@
 [RESPONSE]DeployChemlight_1,ライト、点灯。,Response to order to drop a glowstick
 [RESPONSE]DeployChemlight_2,ライトスティック、点灯。,Response to order to drop a glowstick
 [RESPONSE]DeployChemlight_3,ケムライト。,Response to order to drop a glowstick
-[RESPONSE]DeployFlashbangS_0,閃光手榴弾が切れた。,
-[RESPONSE]DeployFlashbangS_1,閃光手榴弾、投擲。,
-[RESPONSE]DeployFlashbangS_2,閃光手榴弾を投擲中。,
-[RESPONSE]DeployFlashbangS_3,閃光手榴弾。,
-[RESPONSE]DeployFlashbangS_4,閃光手榴弾を投擲中。,
-[RESPONSE]DeployFlashbangS_5,閃光手榴弾を投擲中。,
-[RESPONSE]DeployFlashbangS_6,閃光手榴弾は使えない。,
-[RESPONSE]DeployFlashbang_0,閃光手榴弾、投擲。,Response to order to deploy flash grenade
-[RESPONSE]DeployFlashbang_1,閃光手榴弾、投擲。,Response to order to deploy flash grenade
-[RESPONSE]DeployFlashbang_2,閃光手榴弾、投擲中。,Response to order to deploy flash grenade
-[RESPONSE]DeployFlashbang_3,閃光手榴弾。,Response to order to deploy flash grenade
-[RESPONSE]DeployFlashbang_4,閃光手榴弾、投擲中。,Response to order to deploy flash grenade
-[RESPONSE]DeployFlashbang_5,閃光手榴弾、投擲。,Response to order to deploy flash grenade
-[RESPONSE]DeployFlashbang_6,閃光手榴弾を投擲する。,Response to order to deploy flash grenade
+[RESPONSE]DeployFlashbangS_0,フラッシュバンが切れた。,
+[RESPONSE]DeployFlashbangS_1,フラッシュバン、投擲。,
+[RESPONSE]DeployFlashbangS_2,フラッシュバンを投擲中。,
+[RESPONSE]DeployFlashbangS_3,フラッシュバン。,
+[RESPONSE]DeployFlashbangS_4,フラッシュバンを投擲中。,
+[RESPONSE]DeployFlashbangS_5,フラッシュバンを投擲中。,
+[RESPONSE]DeployFlashbangS_6,フラッシュバンは使えない。,
+[RESPONSE]DeployFlashbang_0,フラッシュバン、投擲。,Response to order to deploy flash grenade
+[RESPONSE]DeployFlashbang_1,フラッシュバン、投擲。,Response to order to deploy flash grenade
+[RESPONSE]DeployFlashbang_2,フラッシュバン、投擲中。,Response to order to deploy flash grenade
+[RESPONSE]DeployFlashbang_3,フラッシュバン。,Response to order to deploy flash grenade
+[RESPONSE]DeployFlashbang_4,フラッシュバン、投擲中。,Response to order to deploy flash grenade
+[RESPONSE]DeployFlashbang_5,フラッシュバン、投擲。,Response to order to deploy flash grenade
+[RESPONSE]DeployFlashbang_6,フラッシュバンを投擲する。,Response to order to deploy flash grenade
 [RESPONSE]DeployStingerS_0,スティンガーを展開！,
 [RESPONSE]DeployStingerS_1,フラググレネード、投擲。,
 [RESPONSE]DeployStingerS_2,フラググレネード、投擲。,
@@ -1116,17 +1116,17 @@
 [RESPONSE]DoorJam_5,ウェッジがある。,Response to order to jam a door shut
 [RESPONSE]DoorJam_6,封鎖する。,Response to order to jam a door shut
 [RESPONSE]EngageLessLethalBeanbag_0,,
-[RESPONSE]EngageLessLethalPepper_0,ペッパースプレーを！,
-[RESPONSE]EngageLessLethalSpray_0,スプレーを！,
-[RESPONSE]EngageLessLethalTaser_0,テーザーを！,
-[RESPONSE]EngageLessLethalTaser_1,テーザー、テーザー、テーザーを！,
+[RESPONSE]EngageLessLethalPepper_0,ペッパースプレーを使う！,
+[RESPONSE]EngageLessLethalSpray_0,スプレーを使う！,
+[RESPONSE]EngageLessLethalTaser_0,テーザーを使う！,
+[RESPONSE]EngageLessLethalTaser_1,テーザー、テーザー、テーザー！,
 [RESPONSE]EngageLessLethal_0,致命傷を避けろ！,Using less lethal force against target
 [RESPONSE]EngageLessLethal_1,致命傷を避けろ！殺すな！,Using less lethal force against target
-[RESPONSE]EngageLessLethal_2,ビーンバッグを！,Using less lethal force against target
-[RESPONSE]EngageLessLethal_3,ペッパースプレーを！,Using less lethal force against target
-[RESPONSE]EngageLessLethal_4,スプレーを！,Using less lethal force against target
-[RESPONSE]EngageLessLethal_5,テーザーを！,Using less lethal force against target
-[RESPONSE]EngageLessLethal_6,テーザー、テーザー、テーザーを！,Using less lethal force against target
+[RESPONSE]EngageLessLethal_2,ビーンバッグで撃つ！,Using less lethal force against target
+[RESPONSE]EngageLessLethal_3,ペッパースプレーを使う！,Using less lethal force against target
+[RESPONSE]EngageLessLethal_4,スプレーを使う！,Using less lethal force against target
+[RESPONSE]EngageLessLethal_5,テーザーを使う！,Using less lethal force against target
+[RESPONSE]EngageLessLethal_6,テーザー、テーザー、テーザー！,Using less lethal force against target
 [RESPONSE]EngageLethal_0,致命傷を狙え！,Using lethal force against target
 [RESPONSE]EngageLethal_1,致命傷を狙え！構わず狙え！,Using lethal force against target
 [RESPONSE]EngageLethal_2,仕留めろ！,Using lethal force against target
@@ -1282,17 +1282,17 @@
 [RESPONSE]NegativeNoDoorJam_1,ドアジャマーがない。,Negative response to door jam use
 [RESPONSE]NegativeNoDoorJam_2,ジャマーは使えない。,Negative response to door jam use
 [RESPONSE]NegativeNoDoorJam_3,ウェッジは使えない。,Negative response to door jam use
-[RESPONSE]NegativeNoFlashbangS_0,閃光手榴弾が切れた。,
-[RESPONSE]NegativeNoFlashbangS_1,閃光手榴弾が切れた。,
+[RESPONSE]NegativeNoFlashbangS_0,フラッシュバンが切れた。,
+[RESPONSE]NegativeNoFlashbangS_1,フラッシュバンが切れた。,
 [RESPONSE]NegativeNoFlashbangS_2,ジャムが使えない。,
-[RESPONSE]NegativeNoFlashbangS_3,閃光手榴弾は使えない。,
-[RESPONSE]NegativeNoFlashbangS_4,使える閃光手榴弾がない。,
+[RESPONSE]NegativeNoFlashbangS_3,フラッシュバンは使えない。,
+[RESPONSE]NegativeNoFlashbangS_4,使えるフラッシュバンがない。,
 [RESPONSE]NegativeNoFlashbangS_5,,
-[RESPONSE]NegativeNoFlashbang_0,閃光手榴弾が切れた。,Negative response to flash grenade use
-[RESPONSE]NegativeNoFlashbang_1,閃光手榴弾が切れた。,Negative response to flash grenade use
-[RESPONSE]NegativeNoFlashbang_2,閃光手榴弾は使えない。,Negative response to flash grenade use
-[RESPONSE]NegativeNoFlashbang_3,閃光手榴弾は使えない。,Negative response to flash grenade use
-[RESPONSE]NegativeNoFlashbang_4,使える閃光手榴弾がない。,Negative response to flash grenade use
+[RESPONSE]NegativeNoFlashbang_0,フラッシュバンが切れた。,Negative response to flash grenade use
+[RESPONSE]NegativeNoFlashbang_1,フラッシュバンが切れた。,Negative response to flash grenade use
+[RESPONSE]NegativeNoFlashbang_2,フラッシュバンは使えない。,Negative response to flash grenade use
+[RESPONSE]NegativeNoFlashbang_3,フラッシュバンは使えない。,Negative response to flash grenade use
+[RESPONSE]NegativeNoFlashbang_4,使えるフラッシュバンがない。,Negative response to flash grenade use
 [RESPONSE]NegativeNoFlashbang_5,もう残ってない。,Negative response to flash grenade use
 [RESPONSE]NegativeNoMirrorgunS_0,オプティワンドがない。,
 [RESPONSE]NegativeNoMirrorgunS_1,オプティワンドを持って来なかった。,
