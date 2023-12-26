@@ -563,33 +563,33 @@ Key,Dialogue,Context
 [CALL]SCC2ClearFlashbangS_0,C2で突破して安全確保だ。,
 [CALL]SCC2ClearFlashbangS_1,C2、フラッシュバンで安全確保だ。,
 [CALL]SCC2ClearFlashbangS_2,C2を展開し、フラッシュバンを投げろ。それで部屋の安全確保だ。,
-[CALL]SCC2ClearFlashbangS_3,C2、そして閃光だ。,
-[CALL]SCC2ClearFlashbangS_4,C2と閃光で安全確保だ。,
-[CALL]SCC2ClearFlashbangS_5,C2を投げ込んで、閃光で安全確保だ。,
+[CALL]SCC2ClearFlashbangS_3,C2、そしてフラッシュだ。,
+[CALL]SCC2ClearFlashbangS_4,C2とフラッシュで安全確保だ。,
+[CALL]SCC2ClearFlashbangS_5,C2を投げ込んで、フラッシュで安全確保だ。,
 [CALL]SCC2ClearFlashbangS_6,C2とフラッシュバンで安全確保だ。,
 [CALL]SCC2ClearFlashbang_0,C2。フラッシュバンで安全確保だ。,Ordering team to breach a door with an explosive then clear room with flashbang
 [CALL]SCC2ClearFlashbang_1,C2。フラッシュバンで安全確保しろ。,Ordering team to breach a door with an explosive then clear room with flashbang
 [CALL]SCC2ClearFlashbang_2,C2を展開し、フラッシュバンを投げろ。それで部屋の安全確保だ。,Ordering team to breach a door with an explosive then clear room with flashbang
-[CALL]SCC2ClearFlashbang_3,C2、そして閃光だ。,Ordering team to breach a door with an explosive then clear room with flashbang
-[CALL]SCC2ClearFlashbang_4,C2と閃光が欲しい。安全確保してくれ。,Ordering team to breach a door with an explosive then clear room with flashbang
-[CALL]SCC2ClearFlashbang_5,C2を投げ込んで、閃光で安全確保だ。,Ordering team to breach a door with an explosive then clear room with flashbang
-[CALL]SCC2ClearFlashbang_6,C2。閃光で安全確保だ。,Ordering team to breach a door with an explosive then clear room with flashbang
+[CALL]SCC2ClearFlashbang_3,C2、そしてフラッシュだ。,Ordering team to breach a door with an explosive then clear room with flashbang
+[CALL]SCC2ClearFlashbang_4,C2とフラッシュが欲しい。安全確保してくれ。,Ordering team to breach a door with an explosive then clear room with flashbang
+[CALL]SCC2ClearFlashbang_5,C2を投げ込んで、フラッシュで安全確保だ。,Ordering team to breach a door with an explosive then clear room with flashbang
+[CALL]SCC2ClearFlashbang_6,C2。フラッシュで安全確保だ。,Ordering team to breach a door with an explosive then clear room with flashbang
 [CALL]SCC2ClearS_0,ドアにC2で安全確保だ。,
 [CALL]SCC2ClearS_1,あのドアを吹き飛ばして安全確保だ。,
 [CALL]SCC2ClearS_2,C2を展開し、突入して安全確保しろ。,
 [CALL]SCC2ClearS_3,C2を展開し、安全確保だ。,
 [CALL]SCC2ClearS_4,突入してC2で安全確保だ。,
 [CALL]SCC2ClearS_5,C2で安全確保しろ。,
-[CALL]SCC2ClearStingerS_0,C2、そしてフラググレネードで安全確保だ。,
-[CALL]SCC2ClearStingerS_1,ドアをチャージし、フラググレネードで安全確保だ。,
-[CALL]SCC2ClearStingerS_2,C2とフラググレネードを使え。,
-[CALL]SCC2ClearStingerS_3,C2とフラググレネードで安全確保だ。,
-[CALL]SCC2ClearStingerS_4,C2を展開し、フラググレネードで安全確保だ。,
-[CALL]SCC2ClearStinger_0,C2、そしてフラググレネードで安全確保だ。,Ordering team to breach a door with an explosive then clear room with flashbang
-[CALL]SCC2ClearStinger_1,ドアをチャージし、フラググレネードで安全確保だ。,Ordering team to breach a door with an explosive then clear room with flashbang
-[CALL]SCC2ClearStinger_2,C2とフラググレネードを使え。,Ordering team to breach a door with an explosive then clear room with flashbang
-[CALL]SCC2ClearStinger_3,C2とフラググレネードで安全確保だ。,Ordering team to breach a door with an explosive then clear room with flashbang
-[CALL]SCC2ClearStinger_4,C2を展開し、フラググレネードで安全確保だ。,Ordering team to breach a door with an explosive then clear room with flashbang
+[CALL]SCC2ClearStingerS_0,C2、そしてスティンガーで安全確保だ。,
+[CALL]SCC2ClearStingerS_1,ドアをチャージし、スティンガーで安全確保だ。,
+[CALL]SCC2ClearStingerS_2,C2とスティンガーを使え。,
+[CALL]SCC2ClearStingerS_3,C2とスティンガーで安全確保だ。,
+[CALL]SCC2ClearStingerS_4,C2を展開し、スティンガーで安全確保だ。,
+[CALL]SCC2ClearStinger_0,C2、そしてスティンガーで安全確保だ。,Ordering team to breach a door with an explosive then clear room with flashbang
+[CALL]SCC2ClearStinger_1,ドアをチャージし、スティンガーで安全確保だ。,Ordering team to breach a door with an explosive then clear room with flashbang
+[CALL]SCC2ClearStinger_2,C2とスティンガーを使え。,Ordering team to breach a door with an explosive then clear room with flashbang
+[CALL]SCC2ClearStinger_3,C2とスティンガーで安全確保だ。,Ordering team to breach a door with an explosive then clear room with flashbang
+[CALL]SCC2ClearStinger_4,C2を展開し、スティンガーで安全確保だ。,Ordering team to breach a door with an explosive then clear room with flashbang
 [CALL]SCC2Clear_0,ドアにC2で安全確保だ。,Ordering team to breach a door with an explosive
 [CALL]SCC2Clear_1,あのドアを吹き飛ばして安全確保だ。,Ordering team to breach a door with an explosive
 [CALL]SCC2Clear_2,C2を展開し、突入して安全確保しろ。,Ordering team to breach a door with an explosive
@@ -606,12 +606,12 @@ Key,Dialogue,Context
 [CALL]SCCShotgunClearLeader_3,ショットガンで突入し、合図を待って安全確保だ,"Swat breaches with shotgun on the door, once breached the squad leader will throw a grenade into the room"
 [CALL]SCCShotgunClearLeader_4,鍵を吹き飛ばし、合図を待って部屋の安全確保だ,"Swat breaches with shotgun on the door, once breached the squad leader will throw a grenade into the room"
 [CALL]SCCShotgunClearLeader_5,ショットガンを展開し、合図を待って安全確保しろ,"Swat breaches with shotgun on the door, once breached the squad leader will throw a grenade into the room"
-[CALL]SCCShotgunClearStinger_0,鍵を吹き飛ばせ。そしてフラググレネードで安全確保だ。,Ordering team to blow a door and clear with flash grenade
-[CALL]SCCShotgunClearStinger_1,ドアを吹き飛ばしてフラググレネードで安全確保する。,Ordering team to blow a door and clear with flash grenade
-[CALL]SCCShotgunClearStinger_2,鍵を解除し、フラググレネードをぶち込め。,Ordering team to blow a door and clear with flash grenade
-[CALL]SCCShotgunClearStinger_3,ドアを吹き飛ばして、フラググレネードを投げろ。,Ordering team to blow a door and clear with flash grenade
-[CALL]SCCShotgunClearStinger_4,ショットガンを使って、フラググレネードを投げろ。,Ordering team to blow a door and clear with flash grenade
-[CALL]SCCShotgunClearStinger_5,吹き飛ばしてフラググレネードで安全確保だ。,Ordering team to blow a door and clear with flash grenade
+[CALL]SCCShotgunClearStinger_0,鍵を吹き飛ばせ。そしてスティンガーで安全確保だ。,Ordering team to blow a door and clear with flash grenade
+[CALL]SCCShotgunClearStinger_1,ドアを吹き飛ばしてスティンガーで安全確保する。,Ordering team to blow a door and clear with flash grenade
+[CALL]SCCShotgunClearStinger_2,鍵を解除し、スティンガーをぶち込め。,Ordering team to blow a door and clear with flash grenade
+[CALL]SCCShotgunClearStinger_3,ドアを吹き飛ばして、スティンガーを投げろ。,Ordering team to blow a door and clear with flash grenade
+[CALL]SCCShotgunClearStinger_4,ショットガンを使って、スティンガーを投げろ。,Ordering team to blow a door and clear with flash grenade
+[CALL]SCCShotgunClearStinger_5,吹き飛ばしてスティンガーで安全確保だ。,Ordering team to blow a door and clear with flash grenade
 [CALL]SCCheckDoorS_0,鍵をチェックしろ。,
 [CALL]SCCheckDoorS_1,鍵を試してみよう。,
 [CALL]SCCheckDoorS_2,ロックアウトをテストしろ。,
@@ -751,19 +751,19 @@ Key,Dialogue,Context
 [CALL]SCDeployFlashbangS_0,フラッシュバンを展開しろ。,
 [CALL]SCDeployFlashbangS_1,フラッシュバンを使え。,
 [CALL]SCDeployFlashbangS_2,フラッシュバンを投げろ。,
-[CALL]SCDeployFlashbangS_3,そこに閃光をたけ。,
-[CALL]SCDeployFlashbangS_4,閃光を展開しろ。,
+[CALL]SCDeployFlashbangS_3,そこにフラッシュをたけ。,
+[CALL]SCDeployFlashbangS_4,フラッシュを展開しろ。,
 [CALL]SCDeployFlashbangS_5,フラッシュバンを投げろ。,
-[CALL]SCDeployFlashbangS_6,閃光だ！,
-[CALL]SCDeployFlashbangS_7,閃光を使え。,
+[CALL]SCDeployFlashbangS_6,フラッシュだ！,
+[CALL]SCDeployFlashbangS_7,フラッシュを使え。,
 [CALL]SCDeployFlashbang_0,フラッシュバンを展開しろ。,Ordering team to throw a flash grenade
 [CALL]SCDeployFlashbang_1,フラッシュバンを使え。,Ordering team to throw a flash grenade
 [CALL]SCDeployFlashbang_2,フラッシュバンを投げろ。,Ordering team to throw a flash grenade
-[CALL]SCDeployFlashbang_3,そこに閃光をたけ。,Ordering team to throw a flash grenade
-[CALL]SCDeployFlashbang_4,閃光を展開しろ。,Ordering team to throw a flash grenade
+[CALL]SCDeployFlashbang_3,そこにフラッシュをたけ。,Ordering team to throw a flash grenade
+[CALL]SCDeployFlashbang_4,フラッシュを展開しろ。,Ordering team to throw a flash grenade
 [CALL]SCDeployFlashbang_5,フラッシュバンを投げろ。,Ordering team to throw a flash grenade
-[CALL]SCDeployFlashbang_6,閃光だ！,Ordering team to throw a flash grenade
-[CALL]SCDeployFlashbang_7,閃光を投げろ。,Ordering team to throw a flash grenade
+[CALL]SCDeployFlashbang_6,フラッシュだ！,Ordering team to throw a flash grenade
+[CALL]SCDeployFlashbang_7,フラッシュを投げろ。,Ordering team to throw a flash grenade
 [CALL]SCDeployMirrorgunS_0,ミラーでデバイスを探せ。,
 [CALL]SCDeployMirrorgunS_1,ミラーで容疑者を探せ。,
 [CALL]SCDeployMirrorgunS_2,ミラーを使え。ターゲットを確認しろ。,
@@ -780,24 +780,24 @@ Key,Dialogue,Context
 [CALL]SCDeployMirrorgun_5,オプティワンドを使え。,Ordering team to look under a door
 [CALL]SCDeployMirrorgun_6,オプティワンドで確認しろ。,Ordering team to look under a door
 [CALL]SCDeployMirrorgun_7,ミラーガンで確認しろ。,Ordering team to look under a door
-[CALL]SCDeployStingerS_0,フラググレネードを投げろ。,
-[CALL]SCDeployStingerS_1,フラググレネード展開！,
-[CALL]SCDeployStingerS_2,フラググレネードを使え！,
-[CALL]SCDeployStingerS_3,フラググレネード。,
-[CALL]SCDeployStingerS_4,フラググレネードを投げろ。,
-[CALL]SCDeployStingerS_5,フラググレネードだ！,
-[CALL]SCDeployStingerS_6,フラググレネードがいる。,
-[CALL]SCDeployStingerS_7,フラググレネードを食らわせろ！,
-[CALL]SCDeployStingerS_8,フラググレネードをくれ。,
-[CALL]SCDeployStinger_0,フラググレネードを投げろ。,Ordering team to throw a stinger grenade
-[CALL]SCDeployStinger_1,フラググレネードを展開しろ。,Ordering team to throw a stinger grenade
-[CALL]SCDeployStinger_2,フラググレネードを使え。,Ordering team to throw a stinger grenade
-[CALL]SCDeployStinger_3,フラググレネード。,Ordering team to throw a stinger grenade
-[CALL]SCDeployStinger_4,フラググレネードを投げろ。,Ordering team to throw a stinger grenade
-[CALL]SCDeployStinger_5,フラググレネードだ。,Ordering team to throw a stinger grenade
-[CALL]SCDeployStinger_6,フラググレネードがいる。,Ordering team to throw a stinger grenade
-[CALL]SCDeployStinger_7,フラググレネードを食らわせろ。,Ordering team to throw a stinger grenade
-[CALL]SCDeployStinger_8,フラググレネードをくれ。,Ordering team to throw a stinger grenade
+[CALL]SCDeployStingerS_0,スティンガーを投げろ。,
+[CALL]SCDeployStingerS_1,スティンガー展開！,
+[CALL]SCDeployStingerS_2,スティンガーを使え！,
+[CALL]SCDeployStingerS_3,スティンガー。,
+[CALL]SCDeployStingerS_4,スティンガーを投げろ。,
+[CALL]SCDeployStingerS_5,スティンガーだ！,
+[CALL]SCDeployStingerS_6,スティンガーがいる。,
+[CALL]SCDeployStingerS_7,スティンガーを食らわせろ！,
+[CALL]SCDeployStingerS_8,スティンガーをくれ。,
+[CALL]SCDeployStinger_0,スティンガーを投げろ。,Ordering team to throw a stinger grenade
+[CALL]SCDeployStinger_1,スティンガーを展開しろ。,Ordering team to throw a stinger grenade
+[CALL]SCDeployStinger_2,スティンガーを使え。,Ordering team to throw a stinger grenade
+[CALL]SCDeployStinger_3,スティンガー。,Ordering team to throw a stinger grenade
+[CALL]SCDeployStinger_4,スティンガーを投げろ。,Ordering team to throw a stinger grenade
+[CALL]SCDeployStinger_5,スティンガーだ。,Ordering team to throw a stinger grenade
+[CALL]SCDeployStinger_6,スティンガーがいる。,Ordering team to throw a stinger grenade
+[CALL]SCDeployStinger_7,スティンガーを食らわせろ。,Ordering team to throw a stinger grenade
+[CALL]SCDeployStinger_8,スティンガーをくれ。,Ordering team to throw a stinger grenade
 [CALL]SCDisarmTrapS_0,あの罠を解除しろ。,
 [CALL]SCDisarmTrapS_1,その罠を切れ。,
 [CALL]SCDisarmTrapS_10,無効化しろ。,
@@ -907,14 +907,14 @@ Key,Dialogue,Context
 [CALL]SCKickAndClearDumb_7,行け,
 [CALL]SCKickAndClearFlashbangS_0,ドアを蹴り倒して､フラッシュバンを展開しろ｡,
 [CALL]SCKickAndClearFlashbangS_1,蹴り倒して、フラッシュバンを投げ込め｡,
-[CALL]SCKickAndClearFlashbangS_2,ドアを突き破って閃光で安全確保だ。,
-[CALL]SCKickAndClearFlashbangS_3,突き破って閃光で安全確保だ。,
-[CALL]SCKickAndClearFlashbangS_4,ドアを蹴り飛ばして閃光で安全確保しろ。,
+[CALL]SCKickAndClearFlashbangS_2,ドアを突き破ってフラッシュで安全確保だ。,
+[CALL]SCKickAndClearFlashbangS_3,突き破ってフラッシュで安全確保だ。,
+[CALL]SCKickAndClearFlashbangS_4,ドアを蹴り飛ばしてフラッシュで安全確保しろ。,
 [CALL]SCKickAndClearFlashbang_0,ドアを蹴り倒して､フラッシュバンを展開しろ｡,Ordering team to ram a door and clear with flash grenade
 [CALL]SCKickAndClearFlashbang_1,蹴り倒して、フラッシュバンを投げ込め｡,Ordering team to ram a door and clear with flash grenade
-[CALL]SCKickAndClearFlashbang_2,ドアを突き破って閃光で安全確保だ。,Ordering team to ram a door and clear with flash grenade
-[CALL]SCKickAndClearFlashbang_3,蹴り飛ばして閃光で安全確保だ。,Ordering team to ram a door and clear with flash grenade
-[CALL]SCKickAndClearFlashbang_4,ドアを蹴り飛ばして閃光で安全確保しろ。,Ordering team to ram a door and clear with flash grenade
+[CALL]SCKickAndClearFlashbang_2,ドアを突き破ってフラッシュで安全確保だ。,Ordering team to ram a door and clear with flash grenade
+[CALL]SCKickAndClearFlashbang_3,蹴り飛ばしてフラッシュで安全確保だ。,Ordering team to ram a door and clear with flash grenade
+[CALL]SCKickAndClearFlashbang_4,ドアを蹴り飛ばしてフラッシュで安全確保しろ。,Ordering team to ram a door and clear with flash grenade
 [CALL]SCKickAndClearLauncherS_0,蹴り飛ばして安全確保しろ。グレネードランチャーを使え｡,
 [CALL]SCKickAndClearLauncherS_1,蹴り飛ばして手榴弾を投げ込め。,
 [CALL]SCKickAndClearLauncherS_2,ドアを蹴り飛ばしてランチャーで安全確保しろ。,
@@ -939,18 +939,18 @@ Key,Dialogue,Context
 [CALL]SCKickAndClearS_5,突破して安全確保だ。,
 [CALL]SCKickAndClearS_6,行け、行け、行け！,
 [CALL]SCKickAndClearS_7,行け！,
-[CALL]SCKickAndClearStingerS_0,ドアを蹴り倒して､フラググレネードを投げろ。,
-[CALL]SCKickAndClearStingerS_1,ドアを蹴り倒して、フラググレネードを投げろ。,
-[CALL]SCKickAndClearStingerS_2,ドアを突き破ってフラググレネードで安全確保だ。,
-[CALL]SCKickAndClearStingerS_3,蹴って、フラググレネードで安全確保しろ。,
-[CALL]SCKickAndClearStingerS_4,ドアを突き破って、フラググレネードで安全確保だ。,
-[CALL]SCKickAndClearStingerS_5,蹴って、フラググレネードを展開しろ。,
-[CALL]SCKickAndClearStinger_0,ドアを蹴り倒して、フラググレネードを投げろ。,Ordering team to ram a door and clear with flash grenade
-[CALL]SCKickAndClearStinger_1,ドアを蹴り倒して、フラググレネードを投げろ。,Ordering team to ram a door and clear with flash grenade
-[CALL]SCKickAndClearStinger_2,ドア、フラググレネード、安全確保。,Ordering team to ram a door and clear with flash grenade
-[CALL]SCKickAndClearStinger_3,蹴って、フラググレネードで安全確保しろ。,Ordering team to ram a door and clear with flash grenade
-[CALL]SCKickAndClearStinger_4,ドアを突き破って、フラググレネードで安全確保だ。,Ordering team to ram a door and clear with flash grenade
-[CALL]SCKickAndClearStinger_5,蹴って、フラググレネードを展開しろ。,Ordering team to ram a door and clear with flash grenade
+[CALL]SCKickAndClearStingerS_0,ドアを蹴り倒して､スティンガーを投げろ。,
+[CALL]SCKickAndClearStingerS_1,ドアを蹴り倒して、スティンガーを投げろ。,
+[CALL]SCKickAndClearStingerS_2,ドアを突き破ってスティンガーで安全確保だ。,
+[CALL]SCKickAndClearStingerS_3,蹴って、スティンガーで安全確保しろ。,
+[CALL]SCKickAndClearStingerS_4,ドアを突き破って、スティンガーで安全確保だ。,
+[CALL]SCKickAndClearStingerS_5,蹴って、スティンガーを展開しろ。,
+[CALL]SCKickAndClearStinger_0,ドアを蹴り倒して、スティンガーを投げろ。,Ordering team to ram a door and clear with flash grenade
+[CALL]SCKickAndClearStinger_1,ドアを蹴り倒して、スティンガーを投げろ。,Ordering team to ram a door and clear with flash grenade
+[CALL]SCKickAndClearStinger_2,ドア、スティンガー、安全確保。,Ordering team to ram a door and clear with flash grenade
+[CALL]SCKickAndClearStinger_3,蹴って、スティンガーで安全確保しろ。,Ordering team to ram a door and clear with flash grenade
+[CALL]SCKickAndClearStinger_4,ドアを突き破って、スティンガーで安全確保だ。,Ordering team to ram a door and clear with flash grenade
+[CALL]SCKickAndClearStinger_5,蹴って、スティンガーを展開しろ。,Ordering team to ram a door and clear with flash grenade
 [CALL]SCKickAndClear_0,あのドアを突き破って、部屋の安全確保だ。,Ordering team to kick down a door and move into a room
 [CALL]SCKickAndClear_1,行くぞ｡,Ordering team to kick down a door and move into a room
 [CALL]SCKickAndClear_2,行け、行け、行け。,Ordering team to kick down a door and move into a room
@@ -975,20 +975,20 @@ Key,Dialogue,Context
 [CALL]SCLeaderClearCSGas_5,合図を待って催涙ガスで安全確保をしろ。,
 [CALL]SCLeaderClearCSGas_6,合図を待って催涙ガスを食らわせて安全確保だ。,
 [CALL]SCLeaderClearCSGas_7,合図を待って催涙ガスで安全確保しろ。,
-[CALL]SCLeaderClearFlashbangS_0,合図を待って閃光だ。,
+[CALL]SCLeaderClearFlashbangS_0,合図を待ってフラッシュだ。,
 [CALL]SCLeaderClearFlashbangS_1,合図を待て。フラッシュバンで安全確保だ。,
-[CALL]SCLeaderClearFlashbangS_2,合図を待って、閃光で安全確保だ。,
-[CALL]SCLeaderClearFlashbangS_3,合図を待って、閃光を使って安全確保しろ。,
-[CALL]SCLeaderClearFlashbangS_4,合図を待って部屋に閃光をたいて安全確保しろ。,
-[CALL]SCLeaderClearFlashbangS_5,合図を待って、閃光で安全確保だ。,
-[CALL]SCLeaderClearFlashbangS_6,合図を待って、閃光で安全確保だ。,
+[CALL]SCLeaderClearFlashbangS_2,合図を待って、フラッシュで安全確保だ。,
+[CALL]SCLeaderClearFlashbangS_3,合図を待って、フラッシュを使って安全確保しろ。,
+[CALL]SCLeaderClearFlashbangS_4,合図を待って部屋にフラッシュをたいて安全確保しろ。,
+[CALL]SCLeaderClearFlashbangS_5,合図を待って、フラッシュで安全確保だ。,
+[CALL]SCLeaderClearFlashbangS_6,合図を待って、フラッシュで安全確保だ。,
 [CALL]SCLeaderClearFlashbangS_7,合図を待ってフラッシュバンで安全確保だ。,
-[CALL]SCLeaderClearFlashbang_0,合図を待って閃光だ,"The squad leader wants to breach the door, once breached swat will throw a flashbang"
+[CALL]SCLeaderClearFlashbang_0,合図を待ってフラッシュだ,"The squad leader wants to breach the door, once breached swat will throw a flashbang"
 [CALL]SCLeaderClearFlashbang_1,合図を待て。フラッシュバンで安全確保だ,"The squad leader wants to breach the door, once breached swat will throw a flashbang"
-[CALL]SCLeaderClearFlashbang_2,合図を待って、閃光で安全確保だ,"The squad leader wants to breach the door, once breached swat will throw a flashbang"
-[CALL]SCLeaderClearFlashbang_3,合図を待って、閃光を使って安全確保しろ,"The squad leader wants to breach the door, once breached swat will throw a flashbang"
-[CALL]SCLeaderClearFlashbang_4,合図を待って閃光だ。,
-[CALL]SCLeaderClearFlashbang_5,合図を待って、閃光で安全確保だ。,
+[CALL]SCLeaderClearFlashbang_2,合図を待って、フラッシュで安全確保だ,"The squad leader wants to breach the door, once breached swat will throw a flashbang"
+[CALL]SCLeaderClearFlashbang_3,合図を待って、フラッシュを使って安全確保しろ,"The squad leader wants to breach the door, once breached swat will throw a flashbang"
+[CALL]SCLeaderClearFlashbang_4,合図を待ってフラッシュだ。,
+[CALL]SCLeaderClearFlashbang_5,合図を待って、フラッシュで安全確保だ。,
 [CALL]SCLeaderClearFlashbang_6,合図を待ってフラッシュバンで安全確保しろ。,
 [CALL]SCLeaderClearFlashbang_7,合図を待って、フラッシュバンで安全確保だ。,
 [CALL]SCLeaderClearLauncherS_0,合図を待って、ドアから手榴弾を投げ込んで安全確保だ。,
@@ -1004,21 +1004,21 @@ Key,Dialogue,Context
 [CALL]SCLeaderClearS_2,合図を待って安全確保を頼む。,
 [CALL]SCLeaderClearS_3,突入後、安全確保しろ。,
 [CALL]SCLeaderClearStingerS_0,合図を待ってサンダーだ。,
-[CALL]SCLeaderClearStingerS_1,合図を待って、フラググレネードで安全確保しろ。,
+[CALL]SCLeaderClearStingerS_1,合図を待って、スティンガーで安全確保しろ。,
 [CALL]SCLeaderClearStingerS_2,合図を待って、サンダーで安全確保だ。,
-[CALL]SCLeaderClearStingerS_3,合図を待って、フラググレネードを使って安全確保だ。,
-[CALL]SCLeaderClearStingerS_4,合図を待ってフラググレネードで安全確保しろ。,
+[CALL]SCLeaderClearStingerS_3,合図を待って、スティンガーを使って安全確保だ。,
+[CALL]SCLeaderClearStingerS_4,合図を待ってスティンガーで安全確保しろ。,
 [CALL]SCLeaderClearStingerS_5,合図を待ってサンダーを使え。,
 [CALL]SCLeaderClearStingerS_6,合図を待ってサンダーだ。,
-[CALL]SCLeaderClearStingerS_7,合図を待ってフラググレネードで安全確保だ。,
+[CALL]SCLeaderClearStingerS_7,合図を待ってスティンガーで安全確保だ。,
 [CALL]SCLeaderClearStinger_0,合図を待ってサンダーだ,"The squad leader wants to breach the door, once breached swat will throw a flashbang"
-[CALL]SCLeaderClearStinger_1,合図を待って、フラググレネードで安全確保しろ,"The squad leader wants to breach the door, once breached swat will throw a flashbang"
+[CALL]SCLeaderClearStinger_1,合図を待って、スティンガーで安全確保しろ,"The squad leader wants to breach the door, once breached swat will throw a flashbang"
 [CALL]SCLeaderClearStinger_2,合図を待って、サンダーで安全確保だ,"The squad leader wants to breach the door, once breached swat will throw a flashbang"
-[CALL]SCLeaderClearStinger_3,合図を待って、フラググレネードを使って安全確保だ,"The squad leader wants to breach the door, once breached swat will throw a flashbang"
-[CALL]SCLeaderClearStinger_4,合図を待ってフラググレネードで安全確保しろ。,
+[CALL]SCLeaderClearStinger_3,合図を待って、スティンガーを使って安全確保だ,"The squad leader wants to breach the door, once breached swat will throw a flashbang"
+[CALL]SCLeaderClearStinger_4,合図を待ってスティンガーで安全確保しろ。,
 [CALL]SCLeaderClearStinger_5,合図を待ってサンダーを使え。,
 [CALL]SCLeaderClearStinger_6,合図を待ってサンダーだ。,
-[CALL]SCLeaderClearStinger_7,合図を待ってフラググレネードで安全確保だ。,
+[CALL]SCLeaderClearStinger_7,合図を待ってスティンガーで安全確保だ。,
 [CALL]SCLeaderClear_0,合図を待って安全確保だ,"The squad leader wants to breach the door, once breached swat will move through"
 [CALL]SCLeaderClear_1,合図を待って安全確保しろ,"The squad leader wants to breach the door, once breached swat will move through"
 [CALL]SCLeaderClear_2,合図を待って安全確保を頼む,"The squad leader wants to breach the door, once breached swat will move through"
@@ -1031,12 +1031,12 @@ Key,Dialogue,Context
 [CALL]SCMoveAndClearCSGas_1,合図を待って催涙ガスで安全確保をしろ,Ordering team to clear a room with gas
 [CALL]SCMoveAndClearCSGas_2,合図を待って催涙ガスを食らわせて安全確保だ,Ordering team to clear a room with gas
 [CALL]SCMoveAndClearCSGas_3,合図を待って催涙ガスで安全確保しろ,Ordering team to clear a room with gas
-[CALL]SCMoveAndClearFlashbangS_0,突入にしろ。部屋に閃光をたいて安全確保だ。,
-[CALL]SCMoveAndClearFlashbangS_1,行け。閃光で安全確保だ。,
+[CALL]SCMoveAndClearFlashbangS_0,突入にしろ。部屋にフラッシュをたいて安全確保だ。,
+[CALL]SCMoveAndClearFlashbangS_1,行け。フラッシュで安全確保だ。,
 [CALL]SCMoveAndClearFlashbangS_2,突入して、フラッシュバンを投げて安全確保だ。,
 [CALL]SCMoveAndClearFlashbangS_3,突入にしろ。フラッシュバンで安全確保だ。,
-[CALL]SCMoveAndClearFlashbang_0,合図を待って部屋に閃光をたいて安全確保しろ,Ordering team to clear a room with a flash grenade
-[CALL]SCMoveAndClearFlashbang_1,合図を待って、閃光で安全確保だ,Ordering team to clear a room with a flash grenade
+[CALL]SCMoveAndClearFlashbang_0,合図を待って部屋にフラッシュをたいて安全確保しろ,Ordering team to clear a room with a flash grenade
+[CALL]SCMoveAndClearFlashbang_1,合図を待って、フラッシュで安全確保だ,Ordering team to clear a room with a flash grenade
 [CALL]SCMoveAndClearFlashbang_2,合図を待ってフラッシュバンで安全確保しろ,Ordering team to clear a room with a flash grenade
 [CALL]SCMoveAndClearFlashbang_3,合図を待って、フラッシュバンで安全確保だ,Ordering team to clear a room with a flash grenade
 [CALL]SCMoveAndClearLauncherS_0,突入して安全確保だ。ランチャーを使え。,
@@ -1063,14 +1063,14 @@ Key,Dialogue,Context
 [CALL]SCMoveAndClearS_5,入って安全確保だ。,
 [CALL]SCMoveAndClearS_6,突入して、部屋の安全確保をしろ。,
 [CALL]SCMoveAndClearS_7,行け。突入して安全確保だ。,
-[CALL]SCMoveAndClearStingerS_0,突入して、フラググレネードで安全確保だ。,
-[CALL]SCMoveAndClearStingerS_1,突入して、フラググレネードを投げて安全確保だ。,
+[CALL]SCMoveAndClearStingerS_0,突入して、スティンガーで安全確保だ。,
+[CALL]SCMoveAndClearStingerS_1,突入して、スティンガーを投げて安全確保だ。,
 [CALL]SCMoveAndClearStingerS_2,突入して安全確保しろ。,
-[CALL]SCMoveAndClearStingerS_3,突入してフラググレネードで安全確保だ。,
-[CALL]SCMoveAndClearStinger_0,フラググレネードで安全確保だ,Ordering team to clear a room with a flash grenade
+[CALL]SCMoveAndClearStingerS_3,突入してスティンガーで安全確保だ。,
+[CALL]SCMoveAndClearStinger_0,スティンガーで安全確保だ,Ordering team to clear a room with a flash grenade
 [CALL]SCMoveAndClearStinger_1,合図を待ってサンダーを使え,Ordering team to clear a room with a flash grenade
 [CALL]SCMoveAndClearStinger_2,合図を待ってサンダーだ。,Ordering team to clear a room with a flash grenade
-[CALL]SCMoveAndClearStinger_3,合図を待ってフラググレネードで安全確保だ,Ordering team to clear a room with a flash grenade
+[CALL]SCMoveAndClearStinger_3,合図を待ってスティンガーで安全確保だ,Ordering team to clear a room with a flash grenade
 [CALL]SCMoveAndClear_0,突入して安全確保しろ。,Ordering team to clear a room
 [CALL]SCMoveAndClear_1,突入して安全確保しろ。,Ordering team to clear a room
 [CALL]SCMoveAndClear_2,突入して安全確保だ。,Ordering team to clear a room
@@ -1111,25 +1111,25 @@ Key,Dialogue,Context
 [CALL]SCOpenAndClearCSGas_6,開けてガスを入れろ。,Ordering team to open a door and clear with gas
 [CALL]SCOpenAndClearFlashbangS_0,開けてフラッシュバンで安全確保だ。,
 [CALL]SCOpenAndClearFlashbangS_1,開けて、フラッシュバンを投げろ。,
-[CALL]SCOpenAndClearFlashbangS_10,開けて閃光で安全確保だ。,
+[CALL]SCOpenAndClearFlashbangS_10,開けてフラッシュで安全確保だ。,
 [CALL]SCOpenAndClearFlashbangS_2,開けろ。フラッシュバンで安全確保だ。,
-[CALL]SCOpenAndClearFlashbangS_3,ドアまで行って閃光をたけ。,
-[CALL]SCOpenAndClearFlashbangS_4,ドアを開けて閃光をたけ。,
-[CALL]SCOpenAndClearFlashbangS_5,開けて閃光をたけ。,
+[CALL]SCOpenAndClearFlashbangS_3,ドアまで行ってフラッシュをたけ。,
+[CALL]SCOpenAndClearFlashbangS_4,ドアを開けてフラッシュをたけ。,
+[CALL]SCOpenAndClearFlashbangS_5,開けてフラッシュをたけ。,
 [CALL]SCOpenAndClearFlashbangS_6,開けてフラッシュバンを投げろ。,
 [CALL]SCOpenAndClearFlashbangS_7,開けてフラッシュバンを入れろ。,
 [CALL]SCOpenAndClearFlashbangS_8,開いてフラッシュバンを展開しろ。,
 [CALL]SCOpenAndClearFlashbangS_9,開いてフラッシュバンで安全確保だ。,
-[CALL]SCOpenAndClearFlashbang_0,開いて閃光で安全確保だ。,Ordering team to clear a room with a flash grenade
+[CALL]SCOpenAndClearFlashbang_0,開いてフラッシュで安全確保だ。,Ordering team to clear a room with a flash grenade
 [CALL]SCOpenAndClearFlashbang_1,開けｙｒ。フラッシュバンを投げろ。,Ordering team to clear a room with a flash grenade
 [CALL]SCOpenAndClearFlashbang_2,開けろ。フラッシュバンで安全確保だ。,Ordering team to clear a room with a flash grenade
-[CALL]SCOpenAndClearFlashbang_3,ドアを開けて閃光をたけ。,Ordering team to clear a room with a flash grenade
-[CALL]SCOpenAndClearFlashbang_4,ドアを開けて閃光をたけ。,Ordering team to clear a room with a flash grenade
-[CALL]SCOpenAndClearFlashbang_5,開いて閃光をたけ。,Ordering team to clear a room with a flash grenade
+[CALL]SCOpenAndClearFlashbang_3,ドアを開けてフラッシュをたけ。,Ordering team to clear a room with a flash grenade
+[CALL]SCOpenAndClearFlashbang_4,ドアを開けてフラッシュをたけ。,Ordering team to clear a room with a flash grenade
+[CALL]SCOpenAndClearFlashbang_5,開いてフラッシュをたけ。,Ordering team to clear a room with a flash grenade
 [CALL]SCOpenAndClearFlashbang_6,開けてフラッシュバンを入れろ。,Ordering team to clear a room with a flash grenade
 [CALL]SCOpenAndClearFlashbang_7,開いてフラッシュバンを展開しろ。,Ordering team to clear a room with a flash grenade
 [CALL]SCOpenAndClearFlashbang_8,開いてフラッシュバンで安全確保だ。,Ordering team to clear a room with a flash grenade
-[CALL]SCOpenAndClearFlashbang_9,開けて閃光で安全確保だ。,Ordering team to clear a room with a flash grenade
+[CALL]SCOpenAndClearFlashbang_9,開けてフラッシュで安全確保だ。,Ordering team to clear a room with a flash grenade
 [CALL]SCOpenAndClearLauncherS_0,開いてランチャーを使え。,
 [CALL]SCOpenAndClearLauncherS_1,開いてグレネードランチャーで安全確保だ。,
 [CALL]SCOpenAndClearLauncherS_2,開けてドアから手榴弾を投げ込め。,
@@ -1154,20 +1154,20 @@ Key,Dialogue,Context
 [CALL]SCOpenAndClearS_5,突入して安全確保しろ。,
 [CALL]SCOpenAndClearS_6,ドアを開けて安全確保だ。,
 [CALL]SCOpenAndClearS_7,ドアを開けて中に入れ。,
-[CALL]SCOpenAndClearStingerS_0,開いてフラググレネードを展開し、安全確保だ。,
-[CALL]SCOpenAndClearStingerS_1,ドアを開けろ。フラググレネードで安全確保だ。,
-[CALL]SCOpenAndClearStingerS_2,開けて、フラググレネードで安全確保だ。,
-[CALL]SCOpenAndClearStingerS_3,開けてフラググレネードを投げろ。,
-[CALL]SCOpenAndClearStingerS_4,開けて安全確保だ。フラググレネードを使え。,
-[CALL]SCOpenAndClearStingerS_5,ドアを取って、フラググレネードで安全確保だ。,
-[CALL]SCOpenAndClearStingerS_6,開けてフラググレネードだ。,
-[CALL]SCOpenAndClearStinger_0,開けろ。フラググレネードを展開し、安全確保だ。,Ordering team to clear a room with a flash grenade
-[CALL]SCOpenAndClearStinger_1,ドアを開けろ。フラググレネードで安全確保だ。,Ordering team to clear a room with a flash grenade
-[CALL]SCOpenAndClearStinger_2,開けろ。フラググレネードを使って安全確保だ。,Ordering team to clear a room with a flash grenade
-[CALL]SCOpenAndClearStinger_3,開けてフラググレネードを投げろ。,Ordering team to clear a room with a flash grenade
-[CALL]SCOpenAndClearStinger_4,開けて安全確保だ。フラググレネードを使え。,Ordering team to clear a room with a flash grenade
-[CALL]SCOpenAndClearStinger_5,ドアを取って、フラググレネードで安全確保だ。,Ordering team to clear a room with a flash grenade
-[CALL]SCOpenAndClearStinger_6,開けてフラググレネードだ。,Ordering team to clear a room with a flash grenade
+[CALL]SCOpenAndClearStingerS_0,開いてスティンガーを展開し、安全確保だ。,
+[CALL]SCOpenAndClearStingerS_1,ドアを開けろ。スティンガーで安全確保だ。,
+[CALL]SCOpenAndClearStingerS_2,開けて、スティンガーで安全確保だ。,
+[CALL]SCOpenAndClearStingerS_3,開けてスティンガーを投げろ。,
+[CALL]SCOpenAndClearStingerS_4,開けて安全確保だ。スティンガーを使え。,
+[CALL]SCOpenAndClearStingerS_5,ドアを取って、スティンガーで安全確保だ。,
+[CALL]SCOpenAndClearStingerS_6,開けてスティンガーだ。,
+[CALL]SCOpenAndClearStinger_0,開けろ。スティンガーを展開し、安全確保だ。,Ordering team to clear a room with a flash grenade
+[CALL]SCOpenAndClearStinger_1,ドアを開けろ。スティンガーで安全確保だ。,Ordering team to clear a room with a flash grenade
+[CALL]SCOpenAndClearStinger_2,開けろ。スティンガーを使って安全確保だ。,Ordering team to clear a room with a flash grenade
+[CALL]SCOpenAndClearStinger_3,開けてスティンガーを投げろ。,Ordering team to clear a room with a flash grenade
+[CALL]SCOpenAndClearStinger_4,開けて安全確保だ。スティンガーを使え。,Ordering team to clear a room with a flash grenade
+[CALL]SCOpenAndClearStinger_5,ドアを取って、スティンガーで安全確保だ。,Ordering team to clear a room with a flash grenade
+[CALL]SCOpenAndClearStinger_6,開けてスティンガーだ。,Ordering team to clear a room with a flash grenade
 [CALL]SCOpenAndClear_0,開けて安全確保だ。,Ordering team to open a door and clear the room
 [CALL]SCOpenAndClear_1,ドアを開けろ。安全確保だ。,Ordering team to open a door and clear the room
 [CALL]SCOpenAndClear_2,ドアに入って安全確保だ。,Ordering team to open a door and clear the room
@@ -1210,37 +1210,37 @@ Key,Dialogue,Context
 [CALL]SCPickLock_5,鍵を開けられるか？,Ordering team to lock pick a door
 [CALL]SCPickLock_6,ピッキングしろ。,Ordering team to lock pick a door
 [CALL]SCPickLock_7,解錠しろ。,Ordering team to lock pick a door
-[CALL]SCRamAndClearCSGasS_0,破城槌とガスで安全確保だ。,
-[CALL]SCRamAndClearCSGasS_1,破城槌を使い、ガスをまいて安全確保だ。,
+[CALL]SCRamAndClearCSGasS_0,ラムとガスで安全確保だ。,
+[CALL]SCRamAndClearCSGasS_1,ラムを使い、ガスをまいて安全確保だ。,
 [CALL]SCRamAndClearCSGasS_2,ドアを開けて、催涙ガスで安全確保だ。,
 [CALL]SCRamAndClearCSGasS_3,ドアを吹き飛ばして催涙ガスで安全確保だ。,
 [CALL]SCRamAndClearCSGasS_4,蹴り飛ばして、催涙ガスで安全確保しろ。,
-[CALL]SCRamAndClearCSGas_0,破城槌、ガス、安全確保だ。,Ordering team to ram a door and clear with gas
-[CALL]SCRamAndClearCSGas_1,破城槌を使い、ガスをまいて安全確保だ。,Ordering team to ram a door and clear with gas
+[CALL]SCRamAndClearCSGas_0,ラム、ガス、安全確保だ。,Ordering team to ram a door and clear with gas
+[CALL]SCRamAndClearCSGas_1,ラムを使い、ガスをまいて安全確保だ。,Ordering team to ram a door and clear with gas
 [CALL]SCRamAndClearCSGas_2,ドアを開けて、催涙ガスで安全確保だ。,Ordering team to ram a door and clear with gas
 [CALL]SCRamAndClearCSGas_3,ドアを蹴り倒して､催涙ガスで安全確保しろ｡,Ordering team to ram a door and clear with gas
 [CALL]SCRamAndClearCSGas_4,取り壊せ。催涙ガスで安全確保だ。,Ordering team to ram a door and clear with gas
 [CALL]SCRamAndClearFlashbangS_0,ドアを潰して､フラッシュバンを展開しろ｡,
-[CALL]SCRamAndClearFlashbangS_1,ドアを破城槌で開けて、部屋にフラッシュバンだ。,
-[CALL]SCRamAndClearFlashbangS_2,ドアを突き破って閃光で安全確保だ。,
-[CALL]SCRamAndClearFlashbangS_3,破城槌、閃光、安全確保だ。,
-[CALL]SCRamAndClearFlashbangS_4,ドアを破城槌で潰して閃光で安全確保しろ。,
-[CALL]SCRamAndClearFlashbang_0,ドアを破城槌でぶち破れ。フラッシュバンを展開しろ。,Ordering team to ram a door and clear with flash grenade
-[CALL]SCRamAndClearFlashbang_1,ドアを破城槌でぶち破り、部屋にフラッシュバンを投げろ。,Ordering team to ram a door and clear with flash grenade
-[CALL]SCRamAndClearFlashbang_2,ドアを突き破って閃光で安全確保だ。,Ordering team to ram a door and clear with flash grenade
-[CALL]SCRamAndClearFlashbang_3,破城槌、閃光、安全確保だ。,Ordering team to ram a door and clear with flash grenade
-[CALL]SCRamAndClearFlashbang_4,ドアを破城槌で潰して閃光で安全確保しろ。,Ordering team to ram a door and clear with flash grenade
-[CALL]SCRamAndClearLauncherS_0,破城槌で潰して手榴弾を投げ込め。,
-[CALL]SCRamAndClearLauncherS_1,破城槌で潰して、ランチャーで安全確保だ。,
-[CALL]SCRamAndClearLauncherS_2,ドアを破城槌で開けて、部屋に手榴弾だ。,
+[CALL]SCRamAndClearFlashbangS_1,ドアをラムで開けて、部屋にフラッシュバンだ。,
+[CALL]SCRamAndClearFlashbangS_2,ドアを突き破ってフラッシュで安全確保だ。,
+[CALL]SCRamAndClearFlashbangS_3,ラム、フラッシュ、安全確保だ。,
+[CALL]SCRamAndClearFlashbangS_4,ドアをラムで潰してフラッシュで安全確保しろ。,
+[CALL]SCRamAndClearFlashbang_0,ドアをラムでぶち破れ。フラッシュバンを展開しろ。,Ordering team to ram a door and clear with flash grenade
+[CALL]SCRamAndClearFlashbang_1,ドアをラムでぶち破り、部屋にフラッシュバンを投げろ。,Ordering team to ram a door and clear with flash grenade
+[CALL]SCRamAndClearFlashbang_2,ドアを突き破ってフラッシュで安全確保だ。,Ordering team to ram a door and clear with flash grenade
+[CALL]SCRamAndClearFlashbang_3,ラム、フラッシュ、安全確保だ。,Ordering team to ram a door and clear with flash grenade
+[CALL]SCRamAndClearFlashbang_4,ドアをラムで潰してフラッシュで安全確保しろ。,Ordering team to ram a door and clear with flash grenade
+[CALL]SCRamAndClearLauncherS_0,ラムで潰して手榴弾を投げ込め。,
+[CALL]SCRamAndClearLauncherS_1,ラムで潰して、ランチャーで安全確保だ。,
+[CALL]SCRamAndClearLauncherS_2,ドアをラムで開けて、部屋に手榴弾だ。,
 [CALL]SCRamAndClearLauncherS_3,あのドアを突き破って、ランチャーで部屋の安全確保だ。,
-[CALL]SCRamAndClearLauncher_0,破城槌で潰して手榴弾を投げ込め,Ordering team to ram a door and clear with a grenade launcher
-[CALL]SCRamAndClearLauncher_1,破城槌で潰して、ランチャーで安全確保だ,Ordering team to ram a door and clear with a grenade launcher
-[CALL]SCRamAndClearLauncher_2,ドアを破城槌で開けて、部屋に手榴弾だ。,Ordering team to ram a door and clear with a grenade launcher
+[CALL]SCRamAndClearLauncher_0,ラムで潰して手榴弾を投げ込め,Ordering team to ram a door and clear with a grenade launcher
+[CALL]SCRamAndClearLauncher_1,ラムで潰して、ランチャーで安全確保だ,Ordering team to ram a door and clear with a grenade launcher
+[CALL]SCRamAndClearLauncher_2,ドアをラムで開けて、部屋に手榴弾だ。,Ordering team to ram a door and clear with a grenade launcher
 [CALL]SCRamAndClearLauncher_3,あのドアを突き破って、ランチャーで部屋の安全確保だ。,Ordering team to ram a door and clear with a grenade launcher
-[CALL]SCRamAndClearLeader_0,ドアを破城槌で開けて、そして合図を待って安全確保だ,"Swat kicks the door, once opened the squad leader will throw a grenade into the room"
-[CALL]SCRamAndClearLeader_1,破城槌で安全確保だ。合図を待て,"Swat kicks the door, once opened the squad leader will throw a grenade into the room"
-[CALL]SCRamAndClearLeader_2,破城槌でドアを潰して安全確保だ。合図を待て,"Swat kicks the door, once opened the squad leader will throw a grenade into the room"
+[CALL]SCRamAndClearLeader_0,ドアをラムで開けて、そして合図を待って安全確保だ,"Swat kicks the door, once opened the squad leader will throw a grenade into the room"
+[CALL]SCRamAndClearLeader_1,ラムで安全確保だ。合図を待て,"Swat kicks the door, once opened the squad leader will throw a grenade into the room"
+[CALL]SCRamAndClearLeader_2,ラムでドアを潰して安全確保だ。合図を待て,"Swat kicks the door, once opened the squad leader will throw a grenade into the room"
 [CALL]SCRamAndClearLeader_3,ドアを蹴破れ。合図を待って安全確保だ。,"Swat kicks the door, once opened the squad leader will throw a grenade into the room"
 [CALL]SCRamAndClearS_0,あのドアを突き破って、部屋の安全確保だ。,
 [CALL]SCRamAndClearS_1,行くぞ！,
@@ -1250,18 +1250,18 @@ Key,Dialogue,Context
 [CALL]SCRamAndClearS_5,突破して安全確保だ。,
 [CALL]SCRamAndClearS_6,行け、行け、行け！,
 [CALL]SCRamAndClearS_7,行け！,
-[CALL]SCRamAndClearStingerS_0,ドアを破城槌で潰して､フラググレネードを投げろ。,
-[CALL]SCRamAndClearStingerS_1,ドアを破城槌で潰して、フラググレネードを投げろ。,
-[CALL]SCRamAndClearStingerS_2,ドアを破城槌で潰して、フラググレネードを投げろ。,
-[CALL]SCRamAndClearStingerS_3,破城槌で潰して、フラググレネードで安全確保しろ。,
-[CALL]SCRamAndClearStingerS_4,ドアを突き破って、フラググレネードで安全確保だ。,
-[CALL]SCRamAndClearStingerS_5,破城槌で潰して、フラググレネードを展開しろ。,
-[CALL]SCRamAndClearStinger_0,ドアをぶち破れ。フラググレネードを投げろ。,Ordering team to ram a door and clear with flash grenade
-[CALL]SCRamAndClearStinger_1,ドアを破城槌で潰して、フラググレネードを投げろ。,Ordering team to ram a door and clear with flash grenade
-[CALL]SCRamAndClearStinger_2,ドア、フラググレネード、安全確保。,Ordering team to ram a door and clear with flash grenade
-[CALL]SCRamAndClearStinger_3,破城槌で潰して、フラググレネードで安全確保しろ。,Ordering team to ram a door and clear with flash grenade
-[CALL]SCRamAndClearStinger_4,ドアを突き破って、フラググレネードで安全確保だ。,Ordering team to ram a door and clear with flash grenade
-[CALL]SCRamAndClearStinger_5,破城槌で潰して、フラググレネードを展開しろ。,Ordering team to ram a door and clear with flash grenade
+[CALL]SCRamAndClearStingerS_0,ドアをラムで潰して､スティンガーを投げろ。,
+[CALL]SCRamAndClearStingerS_1,ドアをラムで潰して、スティンガーを投げろ。,
+[CALL]SCRamAndClearStingerS_2,ドアをラムで潰して、スティンガーを投げろ。,
+[CALL]SCRamAndClearStingerS_3,ラムで潰して、スティンガーで安全確保しろ。,
+[CALL]SCRamAndClearStingerS_4,ドアを突き破って、スティンガーで安全確保だ。,
+[CALL]SCRamAndClearStingerS_5,ラムで潰して、スティンガーを展開しろ。,
+[CALL]SCRamAndClearStinger_0,ドアをぶち破れ。スティンガーを投げろ。,Ordering team to ram a door and clear with flash grenade
+[CALL]SCRamAndClearStinger_1,ドアをラムで潰して、スティンガーを投げろ。,Ordering team to ram a door and clear with flash grenade
+[CALL]SCRamAndClearStinger_2,ドア、スティンガー、安全確保。,Ordering team to ram a door and clear with flash grenade
+[CALL]SCRamAndClearStinger_3,ラムで潰して、スティンガーで安全確保しろ。,Ordering team to ram a door and clear with flash grenade
+[CALL]SCRamAndClearStinger_4,ドアを突き破って、スティンガーで安全確保だ。,Ordering team to ram a door and clear with flash grenade
+[CALL]SCRamAndClearStinger_5,ラムで潰して、スティンガーを展開しろ。,Ordering team to ram a door and clear with flash grenade
 [CALL]SCRamAndClear_0,あのドアを突き破って、部屋の安全確保だ。,Ordering team to kick down a door and move into a room
 [CALL]SCRamAndClear_1,行くぞ｡,Ordering team to kick down a door and move into a room
 [CALL]SCRamAndClear_2,行け、行け、行け。,Ordering team to kick down a door and move into a room
@@ -1327,15 +1327,15 @@ Key,Dialogue,Context
 [CALL]SCShotgunClearFlashbangS_0,ショットガン、フラッシュバンで安全確保だ。,
 [CALL]SCShotgunClearFlashbangS_1,鍵を吹き飛ばせ。そしてフラッシュバンで安全確保だ。,
 [CALL]SCShotgunClearFlashbangS_2,ドアをショットガンで突き破って、フラッシュバンで安全確保だ。,
-[CALL]SCShotgunClearFlashbangS_3,ショットガンと閃光だ。,
-[CALL]SCShotgunClearFlashbangS_4,ショットガンでドアを殴り、閃光を投げろ。,
-[CALL]SCShotgunClearFlashbangS_5,ドアを吹き飛ばして、閃光を使え。,
+[CALL]SCShotgunClearFlashbangS_3,ショットガンとフラッシュだ。,
+[CALL]SCShotgunClearFlashbangS_4,ショットガンでドアを殴り、フラッシュを投げろ。,
+[CALL]SCShotgunClearFlashbangS_5,ドアを吹き飛ばして、フラッシュを使え。,
 [CALL]SCShotgunClearFlashbang_0,ショットガン、フラッシュバン、安全確保。,Ordering team to blow a door and clear with flash grenade
 [CALL]SCShotgunClearFlashbang_1,鍵を吹き飛ばせ。そしてフラッシュバンで安全確保だ。,Ordering team to blow a door and clear with flash grenade
 [CALL]SCShotgunClearFlashbang_2,ドアをショットガンで突き破って、フラッシュバンで安全確保だ。,Ordering team to blow a door and clear with flash grenade
-[CALL]SCShotgunClearFlashbang_3,ショットガンと閃光だ。,Ordering team to blow a door and clear with flash grenade
-[CALL]SCShotgunClearFlashbang_4,ショットガンでドアを殴り、閃光を投げろ。,Ordering team to blow a door and clear with flash grenade
-[CALL]SCShotgunClearFlashbang_5,ドアを吹き飛ばして、閃光を使え。,Ordering team to blow a door and clear with flash grenade
+[CALL]SCShotgunClearFlashbang_3,ショットガンとフラッシュだ。,Ordering team to blow a door and clear with flash grenade
+[CALL]SCShotgunClearFlashbang_4,ショットガンでドアを殴り、フラッシュを投げろ。,Ordering team to blow a door and clear with flash grenade
+[CALL]SCShotgunClearFlashbang_5,ドアを吹き飛ばして、フラッシュを使え。,Ordering team to blow a door and clear with flash grenade
 [CALL]SCShotgunClearLauncherS_0,鍵を爆破しろ。グレネードランチャーで、安全確保するんだ。,
 [CALL]SCShotgunClearLauncherS_1,ドアを吹き飛ばしてランチャーで安全確保しろ。,
 [CALL]SCShotgunClearLauncherS_2,ドアをショットガン吹き飛ばし、部屋の中に手榴弾を投げ込め。,
@@ -1363,18 +1363,18 @@ Key,Dialogue,Context
 [CALL]SCShotgunClearS_4,ショットガンで吹き飛ばせ。安全確保だ。,
 [CALL]SCShotgunClearS_5,ショットガンを使って安全確保だ。,
 [CALL]SCShotgunClearS_6,ハンドルを吹き飛ばして安全確保しろ。,
-[CALL]SCShotgunClearStingerS_0,鍵を吹き飛ばし、フラググレネードで安全確保だ。,
-[CALL]SCShotgunClearStingerS_1,ドアを吹き飛ばしてフラググレネードで安全確保する。,
-[CALL]SCShotgunClearStingerS_2,鍵を解除し、フラググレネードをぶち込め。,
-[CALL]SCShotgunClearStingerS_3,ドアを吹き飛ばして、フラググレネードを投げろ。,
-[CALL]SCShotgunClearStingerS_4,ショットガンを使って、フラググレネードを投げろ。,
-[CALL]SCShotgunClearStingerS_5,フラググレネードで安全確保だ。,
-[CALL]SCShotgunClearStinger_0,鍵を吹き飛ばして、フラググレネードで安全確保だ。,
-[CALL]SCShotgunClearStinger_1,ドアを吹き飛ばしてフラググレネードで安全確保する。,
-[CALL]SCShotgunClearStinger_2,鍵を解除し、フラググレネードをぶち込め。,
-[CALL]SCShotgunClearStinger_3,ドアを吹き飛ばして、フラググレネードを投げろ。,
-[CALL]SCShotgunClearStinger_4,ショットガンを使って、フラググレネードを投げろ。,
-[CALL]SCShotgunClearStinger_5,吹き飛ばしてフラググレネードで安全確保だ。,
+[CALL]SCShotgunClearStingerS_0,鍵を吹き飛ばし、スティンガーで安全確保だ。,
+[CALL]SCShotgunClearStingerS_1,ドアを吹き飛ばしてスティンガーで安全確保する。,
+[CALL]SCShotgunClearStingerS_2,鍵を解除し、スティンガーをぶち込め。,
+[CALL]SCShotgunClearStingerS_3,ドアを吹き飛ばして、スティンガーを投げろ。,
+[CALL]SCShotgunClearStingerS_4,ショットガンを使って、スティンガーを投げろ。,
+[CALL]SCShotgunClearStingerS_5,スティンガーで安全確保だ。,
+[CALL]SCShotgunClearStinger_0,鍵を吹き飛ばして、スティンガーで安全確保だ。,
+[CALL]SCShotgunClearStinger_1,ドアを吹き飛ばしてスティンガーで安全確保する。,
+[CALL]SCShotgunClearStinger_2,鍵を解除し、スティンガーをぶち込め。,
+[CALL]SCShotgunClearStinger_3,ドアを吹き飛ばして、スティンガーを投げろ。,
+[CALL]SCShotgunClearStinger_4,ショットガンを使って、スティンガーを投げろ。,
+[CALL]SCShotgunClearStinger_5,吹き飛ばしてスティンガーで安全確保だ。,
 [CALL]SCShotgunClear_0,鍵を吹き飛ばし、催涙ガスで安全確保だ。,Ordering team to blow open a door with shotgun
 [CALL]SCShotgunClear_1,鍵を撃って安全確保だ。,Ordering team to blow open a door with shotgun
 [CALL]SCShotgunClear_2,ショットガンを展開し、安全確保だ。,Ordering team to blow open a door with shotgun
@@ -1741,16 +1741,16 @@ Key,Dialogue,Context
 [RESPONSE]BreachKickS_1,ドアを蹴る。,
 [RESPONSE]BreachKickS_2,ドアを吹き飛ばす。,
 [RESPONSE]BreachKickS_3,ドアを潰す。,
-[RESPONSE]BreachKickS_4,破城槌を使う,
+[RESPONSE]BreachKickS_4,ラムを使う,
 [RESPONSE]BreachKickS_5,ドアに突っ込む。,
-[RESPONSE]BreachKickS_6,ドアに破城槌だ。,
+[RESPONSE]BreachKickS_6,ドアにラムだ。,
 [RESPONSE]BreachKick_0,ドアを蹴破る。,About to knock down a door
 [RESPONSE]BreachKick_1,ドアを蹴る。,About to knock down a door
 [RESPONSE]BreachKick_2,ドアを破る。,About to knock down a door
 [RESPONSE]BreachKick_3,ドアを潰す。,About to knock down a door
-[RESPONSE]BreachKick_4,破城槌を使う。,About to knock down a door
+[RESPONSE]BreachKick_4,ラムを使う。,About to knock down a door
 [RESPONSE]BreachKick_5,ドアに突っ込む。,About to knock down a door
-[RESPONSE]BreachKick_6,ドアに破城槌だ。,About to knock down a door
+[RESPONSE]BreachKick_6,ドアにラムだ。,About to knock down a door
 [RESPONSE]BreachShotgunS_0,ブリーチングショットガンを展開する。,
 [RESPONSE]BreachShotgunS_1,ショットガンを展開する。,
 [RESPONSE]BreachShotgunS_2,ショットガンで侵入する。,
@@ -1840,24 +1840,24 @@ Key,Dialogue,Context
 [RESPONSE]DeployFlashbangS_2,フラッシュバンだ！,
 [RESPONSE]DeployFlashbangS_3,フラッシュバンを使う！,
 [RESPONSE]DeployFlashbangS_4,フラッシュバン！,
-[RESPONSE]DeployFlashbangS_5,閃光を投げる。,
-[RESPONSE]DeployFlashbangS_6,閃光を投げる。,
+[RESPONSE]DeployFlashbangS_5,フラッシュを投げる。,
+[RESPONSE]DeployFlashbangS_6,フラッシュを投げる。,
 [RESPONSE]DeployFlashbang_0,フラッシュバンだ！,About to use a flash grenade
 [RESPONSE]DeployFlashbang_1,フラッシュバンだ！,About to use a flash grenade
 [RESPONSE]DeployFlashbang_2,フラッシュバンだ！,About to use a flash grenade
 [RESPONSE]DeployFlashbang_3,フラッシュバンを使う！,About to use a flash grenade
 [RESPONSE]DeployFlashbang_4,フラッシュバン！,About to use a flash grenade
-[RESPONSE]DeployFlashbang_5,閃光を投げる！,About to use a flash grenade
-[RESPONSE]DeployFlashbang_6,閃光を投げる！,About to use a flash grenade
-[RESPONSE]DeployStingerS_0,フラググレネード、投擲。,
-[RESPONSE]DeployStingerS_1,フラググレネードを投げる。,
-[RESPONSE]DeployStingerS_2,フラググレネードを投げる。,
-[RESPONSE]DeployStingerS_3,フラググレネード！,
+[RESPONSE]DeployFlashbang_5,フラッシュを投げる！,About to use a flash grenade
+[RESPONSE]DeployFlashbang_6,フラッシュを投げる！,About to use a flash grenade
+[RESPONSE]DeployStingerS_0,スティンガー、投擲。,
+[RESPONSE]DeployStingerS_1,スティンガーを投げる。,
+[RESPONSE]DeployStingerS_2,スティンガーを投げる。,
+[RESPONSE]DeployStingerS_3,スティンガー！,
 [RESPONSE]DeployStingerS_4,サンダーだ！,
-[RESPONSE]DeployStinger_0,フラググレネード投下！,About to use a flash grenade
-[RESPONSE]DeployStinger_1,フラググレネードを投げる！,About to use a flash grenade
-[RESPONSE]DeployStinger_2,フラググレネードを投げる！,About to use a flash grenade
-[RESPONSE]DeployStinger_3,フラググレネード！,About to use a flash grenade
+[RESPONSE]DeployStinger_0,スティンガー投下！,About to use a flash grenade
+[RESPONSE]DeployStinger_1,スティンガーを投げる！,About to use a flash grenade
+[RESPONSE]DeployStinger_2,スティンガーを投げる！,About to use a flash grenade
+[RESPONSE]DeployStinger_3,スティンガー！,About to use a flash grenade
 [RESPONSE]DeployStinger_4,サンダーだ！,About to use a flash grenade
 [RESPONSE]DoorJamS_0,ドアをジャミングする。,
 [RESPONSE]DoorJamS_1,ドアをジャミング。,
@@ -2062,15 +2062,15 @@ Key,Dialogue,Context
 [RESPONSE]NegativeNoChemlight_4,ケムライトが切れた。,No more gear left
 [RESPONSE]NegativeNoChemlight_5,ライトが切れた。,No more gear left
 [RESPONSE]NegativeNoFlashbangS_0,フラッシュバンがない。,
-[RESPONSE]NegativeNoFlashbangS_1,閃光がない。,
-[RESPONSE]NegativeNoFlashbangS_2,もう閃光がない。,
+[RESPONSE]NegativeNoFlashbangS_1,フラッシュがない。,
+[RESPONSE]NegativeNoFlashbangS_2,もうフラッシュがない。,
 [RESPONSE]NegativeNoFlashbangS_3,フラッシュバンが切れた。,
-[RESPONSE]NegativeNoFlashbangS_4,もう閃光がない。,
+[RESPONSE]NegativeNoFlashbangS_4,もうフラッシュがない。,
 [RESPONSE]NegativeNoFlashbang_0,フラッシュバンがない。,No more gear left
-[RESPONSE]NegativeNoFlashbang_1,閃光がない。,No more gear left
-[RESPONSE]NegativeNoFlashbang_2,もう閃光がない。,No more gear left
+[RESPONSE]NegativeNoFlashbang_1,フラッシュがない。,No more gear left
+[RESPONSE]NegativeNoFlashbang_2,もうフラッシュがない。,No more gear left
 [RESPONSE]NegativeNoFlashbang_3,フラッシュバンが切れた。,No more gear left
-[RESPONSE]NegativeNoFlashbang_4,もう閃光がない。,No more gear left
+[RESPONSE]NegativeNoFlashbang_4,もうフラッシュがない。,No more gear left
 [RESPONSE]NegativeNoMirrorgunS_0,ミラーガンは持って来てない。,
 [RESPONSE]NegativeNoMirrorgunS_1,オプティワンドがない。,
 [RESPONSE]NegativeNoMirrorgunS_2,ミラーガンがない。,
@@ -2097,16 +2097,16 @@ Key,Dialogue,Context
 [RESPONSE]NegativeNoShotgun_3,だめだ。ショットガンはない。,No more gear left
 [RESPONSE]NegativeNoShotgun_4,ショットガンがない。,No more gear left
 [RESPONSE]NegativeNoShotgun_5,持って来ていない。,No more gear left
-[RESPONSE]NegativeNoStingerS_0,だめだ。フラググレネードはない。,
-[RESPONSE]NegativeNoStingerS_1,フラググレネードが切れた。,
-[RESPONSE]NegativeNoStingerS_2,フラググレネードがない！,
-[RESPONSE]NegativeNoStingerS_3,フラググレネードは使えない。,
-[RESPONSE]NegativeNoStingerS_4,フラググレネードはない。,
-[RESPONSE]NegativeNoStinger_0,だめだ。フラググレネードはない。,No more gear left
-[RESPONSE]NegativeNoStinger_1,フラググレネードが切れた。,No more gear left
-[RESPONSE]NegativeNoStinger_2,フラググレネードがない！,No more gear left
-[RESPONSE]NegativeNoStinger_3,フラググレネードは使えない。,No more gear left
-[RESPONSE]NegativeNoStinger_4,フラググレネードはない。,No more gear left
+[RESPONSE]NegativeNoStingerS_0,だめだ。スティンガーはない。,
+[RESPONSE]NegativeNoStingerS_1,スティンガーが切れた。,
+[RESPONSE]NegativeNoStingerS_2,スティンガーがない！,
+[RESPONSE]NegativeNoStingerS_3,スティンガーは使えない。,
+[RESPONSE]NegativeNoStingerS_4,スティンガーはない。,
+[RESPONSE]NegativeNoStinger_0,だめだ。スティンガーはない。,No more gear left
+[RESPONSE]NegativeNoStinger_1,スティンガーが切れた。,No more gear left
+[RESPONSE]NegativeNoStinger_2,スティンガーがない！,No more gear left
+[RESPONSE]NegativeNoStinger_3,スティンガーは使えない。,No more gear left
+[RESPONSE]NegativeNoStinger_4,スティンガーはない。,No more gear left
 [RESPONSE]NegativePositionS_0,そこには行けない。,
 [RESPONSE]NegativePositionS_1,そこは無理だ。,
 [RESPONSE]NegativePositionS_2,配置は変えられない。,
