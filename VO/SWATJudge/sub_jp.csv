@@ -1829,7 +1829,7 @@ Key,Dialogue,Context
 [RESPONSE]DeployChemlightS_3,ライトスティックだ。,
 [RESPONSE]DeployChemlightS_4,ケムライト。,
 [RESPONSE]DeployChemlightS_5,ケムライトを使う。,
-[RESPONSE]DeployChemlight_0,ケムライトが切れた。,Dropping a glowstick on the ground
+[RESPONSE]DeployChemlight_0,ケムライト投下。,Dropping a glowstick on the ground
 [RESPONSE]DeployChemlight_1,ケムライトを展開する。,Dropping a glowstick on the ground
 [RESPONSE]DeployChemlight_2,ケムライトを使う。,Dropping a glowstick on the ground
 [RESPONSE]DeployChemlight_3,ライトスティックだ。,Dropping a glowstick on the ground
@@ -1854,7 +1854,7 @@ Key,Dialogue,Context
 [RESPONSE]DeployStingerS_2,フラググレネードを投げる。,
 [RESPONSE]DeployStingerS_3,フラググレネード！,
 [RESPONSE]DeployStingerS_4,サンダーだ！,
-[RESPONSE]DeployStinger_0,フラググレネードが切れた！,About to use a flash grenade
+[RESPONSE]DeployStinger_0,フラググレネード投下！,About to use a flash grenade
 [RESPONSE]DeployStinger_1,フラググレネードを投げる！,About to use a flash grenade
 [RESPONSE]DeployStinger_2,フラググレネードを投げる！,About to use a flash grenade
 [RESPONSE]DeployStinger_3,フラググレネード！,About to use a flash grenade
